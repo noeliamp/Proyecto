@@ -236,7 +236,7 @@ public class TfIdf {
 	 */
 	public static void main(String[] args){
 		//Test code for TfIdf
-		TfIdf tf = new TfIdf("c:/sketchbook/tfidf_test/data/na/");
+		TfIdf tf = new TfIdf("C:/Users/USUARIO/Documents/GitHub/Proyecto/Corpus");
 		String word;
 		Double[] corpusdata;
 		for (Iterator<String> it = tf.allwords.keySet().iterator(); it.hasNext(); ) {
