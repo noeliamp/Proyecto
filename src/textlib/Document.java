@@ -1,9 +1,11 @@
 package textlib;
 
 import java.io.BufferedReader;
+import java.io.FileReader;
 import java.io.IOException;
 import java.util.Comparator;
 import java.util.Iterator;
+import java.util.LinkedList;
 import java.util.SortedMap;
 import java.util.StringTokenizer;
 import java.util.TreeMap;
@@ -22,6 +24,8 @@ public class Document {
 	public TreeMap<String, Double[]> words; // n_ij, tf_ij, tf_idf
 	int sumof_n_kj;
 	double vectorlength;
+	LinkedList<String> stopWords;
+
 	
 	/**
 	 * Constructor for document class that is used by the parent TfIdf class
@@ -37,6 +41,9 @@ public class Document {
 		vectorlength = 0;
 		Double[] tempdata;
 		words = new TreeMap<String, Double[]>();
+		stopWords = new LinkedList<String>();
+		buildStopWords();
+	
 		try {
 			line = br.readLine();
 			while (line != null) {
@@ -44,7 +51,9 @@ public class Document {
 				while(tokens.hasMoreTokens()) {
 					word = tokens.nextToken().toLowerCase();
 					word.trim();
-					if (word.length() < 2) continue;
+					
+					if(isStopWord(word)) continue;
+					//if (word.length() < 2) continue;
 					if (words.get(word) == null) {
 						tempdata = new Double[]{1.0,0.0,0.0};
 						words.put(word, tempdata);
@@ -70,7 +79,46 @@ public class Document {
 			tempdata[1] = tempdata[0] / (float) sumof_n_kj;
 			words.put(word,tempdata);
 			parent.addWordOccurence(word);
-		}		
+		}
+
+	}
+	
+	public void buildStopWords(){
+		
+		BufferedReader br;
+		String line;
+		
+		try {
+			br = new BufferedReader(new FileReader("C:/Users/USUARIO/Documents/GitHub/Proyecto/stopWords.txt"));
+			line = br.readLine();
+			while (line != null) {
+				stopWords.add(line);
+				line = br.readLine();
+				
+			}
+			
+			
+		}
+		catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		
+		}
+	
+	public LinkedList<String> getStopWords() {
+		return stopWords;
+	}
+	
+	public boolean isStopWord(String word){
+		for (String w : getStopWords()){
+
+
+			if (w.equals(word)) 
+				return true;
+			
+		}
+		return false;
 	}
 	
 	/**
@@ -153,4 +201,26 @@ public class Document {
              return 0;
          }
 	}
+	
+	//////////////////////////////////////////////// poner filename en FileReader y llamar con la ruta
+	public void obtenerFrases(String filename){
+		String line;
+		BufferedReader br;
+		br = new BufferedReader(new FileReader("C:/Users/USUARIO/Documents/GitHub/Proyecto/hola.txt"));
+
+		try {
+			line = br.readLine();
+			while (line != null) {
+				tokens = new StringTokenizer(line, ":; \"\',.[]{}()!?-/");
+				while(tokens.hasMoreTokens()) {
+					word = tokens.nextToken().toLowerCase();
+					word.trim();
+		
+	}
+			}}}
+	
+	
+	
+	
+	
 }

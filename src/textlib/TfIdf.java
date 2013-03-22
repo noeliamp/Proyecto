@@ -7,6 +7,7 @@ import java.io.FileReader;
 import java.io.FilenameFilter;
 import java.util.Comparator;
 import java.util.Iterator;
+import java.util.StringTokenizer;
 import java.util.TreeMap;
 
 /**
@@ -22,8 +23,6 @@ import java.util.TreeMap;
  * to get results.
  * See Document class documentation for more info
  * 
- * @author Barkin Aygun
- *
  */
 public class TfIdf {
 	public TreeMap<String, Document> documents;
@@ -128,6 +127,10 @@ public class TfIdf {
 		}
 	}
 	
+	
+
+
+
 	/**
 	 * Inserts new documents into corpus
 	 * @param filename Location of the text file
@@ -230,6 +233,10 @@ public class TfIdf {
 		return documents.keySet().toArray(new String[1]);
 	}
 	
+	
+	
+	
+	
 	/**
 	 * Test code, might have to change the data path
 	 * @param args
@@ -251,17 +258,20 @@ public class TfIdf {
 			word = it.next();
 			System.out.println(word);
 			System.out.println("------------------------------------------");
-			bwords = tf.documents.get(word).bestWordList(5);
+			bwords = tf.documents.get(word).bestWordList(10);
 			bdocs = tf.similarDocuments(word);
-			for (int i = 0; i < 5; i++) {
+			for (int i = 0; i < 10; i++) {
 				System.out.print(bwords[i] + " ");
 			}
-			System.out.println();
+			System.out.println("\n");
 			for (int i = 0; i < 5; i++) {
 				System.out.println(bdocs[i] + " ");
 			}
 			System.out.println("\n\n");
+			
+			
 		}
+		
 		
 	}
 	
