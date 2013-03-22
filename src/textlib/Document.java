@@ -17,7 +17,7 @@ import java.util.TreeMap;
  * important keywords in the document
  * 
  * 
- * @author Barkin Aygun
+ * @author Noelia Perez
  *
  */
 public class Document {
@@ -25,15 +25,21 @@ public class Document {
 	int sumof_n_kj;
 	double vectorlength;
 	LinkedList<String> stopWords;
+	LinkedList<String> sentences;
 
 	
+	public LinkedList<String> getSentences() {
+		return sentences;
+	}
+
 	/**
 	 * Constructor for document class that is used by the parent TfIdf class
 	 * @param br Reader that loaded the text file already, used to read lines from
 	 * large documents
 	 * @param parent the TfIdf class calling this ctor
 	 */
-	public Document(BufferedReader br, TfIdf parent) {
+	public Document(String filename) {
+		BufferedReader br;
 		String line;
 		String word;
 		StringTokenizer tokens;
@@ -45,6 +51,7 @@ public class Document {
 		buildStopWords();
 	
 		try {
+			br = new BufferedReader(new FileReader(filename));
 			line = br.readLine();
 			while (line != null) {
 				tokens = new StringTokenizer(line, ":; \"\',.[]{}()!?-/");
@@ -52,10 +59,10 @@ public class Document {
 					word = tokens.nextToken().toLowerCase();
 					word.trim();
 					
-					if(isStopWord(word)) continue;
+					if(isStopWord(word) || word.length() < 3) continue;
 					//if (word.length() < 2) continue;
 					if (words.get(word) == null) {
-						tempdata = new Double[]{1.0,0.0,0.0};
+						tempdata = new Double[]{1.0,0.0};
 						words.put(word, tempdata);
 					}
 					else {
@@ -66,9 +73,9 @@ public class Document {
 					sumof_n_kj++;
 				}
 				line = br.readLine();
+
 			}
 		} catch (IOException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 		
@@ -78,7 +85,6 @@ public class Document {
 			tempdata = words.get(word);
 			tempdata[1] = tempdata[0] / (float) sumof_n_kj;
 			words.put(word,tempdata);
-			parent.addWordOccurence(word);
 		}
 
 	}
@@ -94,13 +100,12 @@ public class Document {
 			while (line != null) {
 				stopWords.add(line);
 				line = br.readLine();
-				
+
 			}
 			
 			
 		}
 		catch (IOException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 		
@@ -121,45 +126,7 @@ public class Document {
 		return false;
 	}
 	
-	/**
-	 * Calculates the tfidf of the words after called by the parent TfIdf class
-	 * @param parent the TfIdf class
-	 */
-	public void calculateTfIdf(TfIdf parent) {
-		String word;
-		Double[] corpusdata;
-		Double[] worddata;
-		double tfidf;
-		for (Iterator<String> it = words.keySet().iterator(); it.hasNext(); ) {
-			word = it.next();
-			corpusdata= parent.allwords.get(word);
-			worddata = words.get(word);
-			tfidf = worddata[1] * corpusdata[1];
-			worddata[2] = tfidf;
-			vectorlength += tfidf * tfidf;
-			words.put(word, worddata);
-		}
-		vectorlength = Math.sqrt(vectorlength);
-	}
-	
-	/**
-	 * Prints every word in the document with their information:
-	 * <ul> 
-	 * <li>number of times word appears
-	 * <li>Word's term frequency (number of times it appears / total word count)
-	 * <li>Word's inverse document frequency (specifically how important it is in this document)
-	 * </ul> 
-	 */
-	public void printData() {
-		String word;
-		Double[] td;
-		for (Iterator<String> it = words.keySet().iterator(); it.hasNext(); ) {
-			word = it.next();
-			td = words.get(word);
-			System.out.println(word + "\t" + td[0] + "\t" + td[1] + "\t" + td[2]);
-		}
-	}
-	
+
 	/**
 	 * Gives the most important numWords words
 	 * @param numWords Number of words to return
@@ -172,6 +139,7 @@ public class Document {
 		String[] bestwords = new String[numWords];
 		for (Iterator<String> it = sortedWords.keySet().iterator(); it.hasNext() && (counter < numWords); counter++) {
 			bestwords[counter] = it.next();
+
 		}
 		return bestwords;
 	}
@@ -181,7 +149,7 @@ public class Document {
 	 * @return String array of best words
 	 */
 	public String[] bestWordList() {
-		return bestWordList(10);
+		return bestWordList(20);
 	}
 	
 	/** inner class to do sorting of the map **/
@@ -193,8 +161,11 @@ public class Document {
 		}
 
          public int compare(String o1, String o2) {
-        	 double e1 = ((Double[]) _data.get(o1))[2];
-             double e2 = ((Double[]) _data.get(o2))[2];
+        	 double e1 = ((Double[]) _data.get(o1))[1];
+        	// System.out.println("--------->" + e1);
+             double e2 = ((Double[]) _data.get(o2))[1];
+        	// System.out.println("--------->" + e2);
+
              if (e1 > e2) return -1;
              if (e1 == e2) return 0;
              if (e1 < e2) return 1;
@@ -202,25 +173,80 @@ public class Document {
          }
 	}
 	
-	//////////////////////////////////////////////// poner filename en FileReader y llamar con la ruta
+	//////////////////////////////////////////////// 
 	public void obtenerFrases(String filename){
 		String line;
 		BufferedReader br;
-		br = new BufferedReader(new FileReader("C:/Users/USUARIO/Documents/GitHub/Proyecto/hola.txt"));
-
+		StringTokenizer tokens;
+		String word;
+		StringTokenizer tokens2;
+		String onebyone;
+		
 		try {
+			sentences = new LinkedList<String>();
+			br = new BufferedReader(new FileReader("C:/Users/USUARIO/Documents/GitHub/Proyecto/Documento/hola.txt"));
 			line = br.readLine();
+
 			while (line != null) {
-				tokens = new StringTokenizer(line, ":; \"\',.[]{}()!?-/");
+				tokens = new StringTokenizer(line, ".?");
 				while(tokens.hasMoreTokens()) {
 					word = tokens.nextToken().toLowerCase();
 					word.trim();
+					
+					tokens2= new StringTokenizer(word, " ");
+					while (tokens2.hasMoreTokens()){
+						onebyone = tokens2.nextToken().toLowerCase();
+						onebyone.trim();
+					
+						for (String w : this.bestWordList()){
+							if (onebyone.equals(w)){
+								if (!sentences.contains(word)){
+									sentences.add(word);
+									System.out.println("-------> " + word);
+								}
+					}}}
+				}
+				line = br.readLine();
+
+			}
+		}
+		catch (IOException e) {
+			e.printStackTrace();
+		}
 		
-	}
-			}}}
+		
+		}
+	
+	public static void main(String[] args){
+
+		Document tf = new Document("C:/Users/USUARIO/Documents/GitHub/Proyecto/Documento/hola.txt");
+		String word;
+		Double[] corpusdata;
+		String[] bwords;
+		
+		
+		for (Iterator<String> it = tf.words.keySet().iterator(); it.hasNext(); ) {
+			word = it.next();
+			corpusdata = tf.words.get(word);
+			System.out.println(word + " " + corpusdata[0] + " " + corpusdata[1]);
+		}	
+	
+		
+		System.out.println("\n");
+
+		System.out.println("hola.txt");
+		System.out.println("------------------------------------------");
+		bwords = tf.bestWordList(5);
+		for (int i = 0; i < 5; i++) {
+			System.out.print(bwords[i] + " ");
+		}
+		System.out.println("\n");
+
+		//////////////////////////////
+
+		tf.obtenerFrases("C:/Users/USUARIO/Documents/GitHub/Proyecto/Documento/hola.txt");
+		System.out.println(tf.getSentences());
 	
 	
 	
-	
-	
-}
+}}
