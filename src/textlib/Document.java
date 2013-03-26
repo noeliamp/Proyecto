@@ -318,15 +318,19 @@ public void buildLinkingWords(){
 					word.trim();
 					allSentences.add(word);
 					
+					
 					tokens2= new StringTokenizer(word, " ");
 					while (tokens2.hasMoreTokens()){
 						onebyone = tokens2.nextToken().toLowerCase();
 						onebyone.trim();
-					
+						
 						for (String w : this.bestWordList()){
 							if (onebyone.equals(w) || importantWords.contains(onebyone) || titleWords.contains(onebyone)){
-								if (!sentences.contains(word)){
+								if (!sentences.contains(word) && word.length()>25){
 									sentences.add(word);
+									
+									System.out.println("----->>>" + sentences.getLast());
+
 								}
 					}}}
 				}
