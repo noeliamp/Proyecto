@@ -26,10 +26,15 @@ public class Document {
 	double vectorlength;
 	LinkedList<String> stopWords;
 	LinkedList<String> sentences;
-
+	LinkedList<String> titleWords;
+	LinkedList<String> importantWords;
+	LinkedList<String> linkingWords;
+	LinkedList<String> allSentences;
 	
 	public LinkedList<String> getSentences() {
-		return sentences;
+		
+		LinkedList<String> copia = new LinkedList<String>(sentences);
+		return copia;
 	}
 
 	/**
@@ -43,27 +48,50 @@ public class Document {
 		String line;
 		String word;
 		StringTokenizer tokens;
+		StringTokenizer titleTokens;
 		sumof_n_kj = 0;
 		vectorlength = 0;
 		Double[] tempdata;
 		words = new TreeMap<String, Double[]>();
 		stopWords = new LinkedList<String>();
+		importantWords = new LinkedList<String>();
+		titleWords = new LinkedList<String>();
+		linkingWords = new LinkedList<String>();
+
 		buildStopWords();
-	
+		buildImportantWords();
+		buildLinkingWords();
+		String title;
+		String titleWord;
+
 		try {
 			br = new BufferedReader(new FileReader(filename));
+			
+			
 			line = br.readLine();
+			title = line;
+			titleTokens = new StringTokenizer(title, ":; \"\',.[]{}()!?-/");
+		
+			while(titleTokens.hasMoreTokens()){
+				titleWord= titleTokens.nextToken().toLowerCase();
+				titleWord.trim();
+				titleWords.add(titleWord);
+				System.out.println(titleWords.getLast());
+			}
+				
+			
 			while (line != null) {
 				tokens = new StringTokenizer(line, ":; \"\',.[]{}()!?-/");
 				while(tokens.hasMoreTokens()) {
 					word = tokens.nextToken().toLowerCase();
 					word.trim();
+				
 					
 					if(isStopWord(word) || word.length() < 3) continue;
-					//if (word.length() < 2) continue;
 					if (words.get(word) == null) {
 						tempdata = new Double[]{1.0,0.0};
 						words.put(word, tempdata);
+						
 					}
 					else {
 						tempdata = words.get(word);
@@ -102,31 +130,98 @@ public class Document {
 				line = br.readLine();
 
 			}
-			
-			
 		}
 		catch (IOException e) {
 			e.printStackTrace();
 		}
 		
 		}
+	public void buildImportantWords(){
+		
+		BufferedReader br;
+		String line;
+		
+		try {
+			br = new BufferedReader(new FileReader("C:/Users/USUARIO/Documents/GitHub/Proyecto/importantWords.txt"));
+			line = br.readLine();
+			while (line != null) {
+				importantWords.add(line);
+				line = br.readLine();
+
+			}
+
+		}
+		catch (IOException e) {
+			e.printStackTrace();
+		}
+		
+	}
 	
+public void buildLinkingWords(){
+		
+		BufferedReader br;
+		String line;
+		
+		try {
+			br = new BufferedReader(new FileReader("C:/Users/USUARIO/Documents/GitHub/Proyecto/linkingWords.txt"));
+			line = br.readLine();
+			while (line != null) {
+				linkingWords.add(line);
+				line = br.readLine();
+			}
+
+		}
+		catch (IOException e) {
+			e.printStackTrace();
+		}
+		
+	}
 	public LinkedList<String> getStopWords() {
 		return stopWords;
+	}
+	public LinkedList<String> getTitleWords() {
+		return titleWords;
+	}
+	
+	public LinkedList<String> getImportantWords() {
+		return importantWords;
+	}
+	public LinkedList<String> getLinkingWords() {
+		return linkingWords;
 	}
 	
 	public boolean isStopWord(String word){
 		for (String w : getStopWords()){
-
-
 			if (w.equals(word)) 
 				return true;
-			
 		}
 		return false;
 	}
 	
 
+	public boolean isTitleWord(String word){
+		for (String w : getTitleWords()){
+			if (w.equals(word)) 
+				return true;		
+		}
+		return false;
+	}
+	
+	public boolean isImportantWord(String word){
+		for (String w : getImportantWords()){
+			if (w.equals(word)) 
+				return true;		
+		}
+		return false;
+	}
+	
+	public boolean isLinkingWord(String word){
+		for (String w : getLinkingWords()){
+			if (w.equals(word)) 
+				return true;		
+		}
+		return false;
+	}
 	/**
 	 * Gives the most important numWords words
 	 * @param numWords Number of words to return
@@ -142,6 +237,34 @@ public class Document {
 
 		}
 		return bestwords;
+	}
+	
+	public void postProcesado(){
+		StringTokenizer allTokens;
+		String allWord;
+		int second;
+		String newSentence;
+		
+		for (String s : this.getSentences()){
+			allTokens = new StringTokenizer(s, ":; \"\',.[]{}()!?-/");
+			
+		
+				allWord= allTokens.nextToken().toLowerCase();
+				allWord.trim();
+				if (linkingWords.contains(allWord)){
+					second = allSentences.indexOf(s);
+					newSentence = allSentences.get(second-1);
+					
+					if(!sentences.contains(newSentence)){
+						second = sentences.indexOf(s);
+						sentences.add(second, newSentence);
+					}
+					
+				}
+					
+			
+			
+		}
 	}
 	
 	/**
@@ -183,15 +306,17 @@ public class Document {
 		String onebyone;
 		
 		try {
+			allSentences = new LinkedList<String>();
 			sentences = new LinkedList<String>();
-			br = new BufferedReader(new FileReader("C:/Users/USUARIO/Documents/GitHub/Proyecto/Documento/hola.txt"));
+			br = new BufferedReader(new FileReader(filename));
 			line = br.readLine();
 
 			while (line != null) {
-				tokens = new StringTokenizer(line, ".?");
+				tokens = new StringTokenizer(line, ".,");
 				while(tokens.hasMoreTokens()) {
 					word = tokens.nextToken().toLowerCase();
 					word.trim();
+					allSentences.add(word);
 					
 					tokens2= new StringTokenizer(word, " ");
 					while (tokens2.hasMoreTokens()){
@@ -199,10 +324,9 @@ public class Document {
 						onebyone.trim();
 					
 						for (String w : this.bestWordList()){
-							if (onebyone.equals(w)){
+							if (onebyone.equals(w) || importantWords.contains(onebyone) || titleWords.contains(onebyone)){
 								if (!sentences.contains(word)){
 									sentences.add(word);
-									System.out.println("-------> " + word);
 								}
 					}}}
 				}
@@ -219,7 +343,7 @@ public class Document {
 	
 	public static void main(String[] args){
 
-		Document tf = new Document("C:/Users/USUARIO/Documents/GitHub/Proyecto/Documento/hola.txt");
+		Document tf = new Document("C:/Users/USUARIO/Documents/GitHub/Proyecto/Corpus/holaque.txt");
 		String word;
 		Double[] corpusdata;
 		String[] bwords;
@@ -244,8 +368,14 @@ public class Document {
 
 		//////////////////////////////
 
-		tf.obtenerFrases("C:/Users/USUARIO/Documents/GitHub/Proyecto/Documento/hola.txt");
+		tf.obtenerFrases("C:/Users/USUARIO/Documents/GitHub/Proyecto/Corpus/holaque.txt");
 		System.out.println(tf.getSentences());
+		System.out.println(tf.sentences.size());
+		tf.postProcesado();
+		System.out.println(tf.getSentences());
+		System.out.println(tf.sentences.size());
+		System.out.println("Total---> " + tf.allSentences.size());
+		
 	
 	
 	
