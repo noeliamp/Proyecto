@@ -30,6 +30,9 @@ public class Document {
 	LinkedList<String> importantWords;
 	LinkedList<String> linkingWords;
 	LinkedList<String> allSentences;
+	double lemaTotal;
+	TreeMap<Double, String> sentenceLema;
+
 	
 	public LinkedList<String> getSentences() {
 		
@@ -304,13 +307,19 @@ public void buildLinkingWords(){
 		String word;
 		StringTokenizer tokens2;
 		String onebyone;
+		double lema;
+		Double[] temporal;
+		int numWords;
+		
 		
 		try {
+			lemaTotal = 0;
+			sentenceLema = new TreeMap<Double, String>();
 			allSentences = new LinkedList<String>();
 			sentences = new LinkedList<String>();
 			br = new BufferedReader(new FileReader(filename));
 			line = br.readLine();
-
+		
 			while (line != null) {
 				tokens = new StringTokenizer(line, ".,");
 				while(tokens.hasMoreTokens()) {
@@ -318,33 +327,76 @@ public void buildLinkingWords(){
 					word.trim();
 					allSentences.add(word);
 					
-					
+					lema = 0;
 					tokens2= new StringTokenizer(word, " ");
+					numWords = tokens2.countTokens();
+					System.out.println( " --numero palabras--- " + numWords);
+
 					while (tokens2.hasMoreTokens()){
 						onebyone = tokens2.nextToken().toLowerCase();
 						onebyone.trim();
 						
+						temporal=words.get(onebyone);
+						if (temporal != null)
+						lema = lema + temporal[0];
+						
+						
 						for (String w : this.bestWordList()){
 							if (onebyone.equals(w) || importantWords.contains(onebyone) || titleWords.contains(onebyone)){
-								if (!sentences.contains(word) && word.length()>25){
+								if (!sentences.contains(word) && numWords>4){
 									sentences.add(word);
 									
-									System.out.println("----->>>" + sentences.getLast());
+									System.out.println("Añadida ----->>>" + sentences.getLast());
 
 								}
-					}}}
+							}
+						}
+
+					}
+					lema = lema/numWords;
+					lemaTotal = lemaTotal + lema;
+					System.out.println("lematotalll***************" + lemaTotal);
+
+					sentenceLema.put(lema, word);
+					System.out.println(" LEMASS ----->>>>> " + word + "---" + lema );
+					System.out.println("\n");
+
 				}
+
 				line = br.readLine();
 
 			}
+
 		}
 		catch (IOException e) {
 			e.printStackTrace();
 		}
 		
-		
+		System.out.println("lematotalll" + lemaTotal);
+
 		}
 	
+	
+	public void normalizarLema(){
+		double d;
+		String s;
+		
+
+		for (Iterator<Double> it = sentenceLema.keySet().iterator(); it.hasNext(); ) {
+			d = it.next();
+			s = sentenceLema.get(d);
+			// d= (d/lemaTotal); ¿como normalizar?
+			
+
+			System.out.println(d);
+			sentenceLema.put(d,s);
+			System.out.println(" LEMAS//PRUEBA ----->>>>> " + s + "---" + d );
+
+			
+		}
+
+		
+	}
 	public static void main(String[] args){
 
 		Document tf = new Document("C:/Users/USUARIO/Documents/GitHub/Proyecto/Corpus/holaque.txt");
@@ -373,6 +425,8 @@ public void buildLinkingWords(){
 		//////////////////////////////
 
 		tf.obtenerFrases("C:/Users/USUARIO/Documents/GitHub/Proyecto/Corpus/holaque.txt");
+		tf.normalizarLema();
+
 		System.out.println(tf.getSentences());
 		System.out.println(tf.sentences.size());
 		tf.postProcesado();
