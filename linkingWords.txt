@@ -1,35 +1,98 @@
-also
-furthermore	
-moreover	
-Result
-consequence
-so
-addition
-therefore
-besides
-consequence	
-especially
-above all	
-accordingly	
-consequently	
-thus
-hence
-then
-otherwise
-likewise
-similarly	
-correspondingly
-conclusion
-conlude
-rather
-alternatively
-instead
-conversely
-comparison
-however
-yet
-nevertheless
-yet
-overall
-therefore
-sommarise
+Y
+También
+Además
+Agregando a lo anterior
+Incluyendo
+En otra palabras
+Es decir
+O lo que es lo mísmo
+Así
+Por otra parte
+De otro modo
+Por otro lado
+En otro sentido
+En contraste con
+De ahí
+Por eso (ello) (esto)
+Como resultado
+Como consecuencia
+Ya que
+Entonces
+Por lo tanto
+Dado que
+Debido a (que)
+Porque
+Por esta razón
+Por este motivo
+Por consiguiente
+Puesto que
+De modo que
+En consecuencia
+Aunque
+Pero
+A pesar de
+Aun sí
+Sin embargo
+No obstante
+Mientras
+Sino
+A diferencia de
+Inversamente
+Por el contrario
+Contrariamente
+En cambio
+En vez de
+Por ejemplo
+Tal como
+Tales como
+Sobre todo
+Ciertamente
+Lo que es más
+Lo que es peor
+Como dijimos
+Como si fuera poco
+Es decir
+En otras palabras
+Finalmente
+En suma
+En síntesis
+Para terminar
+Para concluir
+En conclusión
+Primeramente
+Previamente
+Con anterioridad
+Al principio
+Seguidamente
+Posteriormente
+Luego
+Después
+Antes
+En adelante
+Entre tanto
+Al mismo tiempo
+Simultáneamente
+En primer lugar
+En segundo lugar
+Por último
+Durante
+De nuevo
+Otra vez
+Cuando
+Más tarde
+Con el tiempo
+Finalmente
+Tan pronto como
+Una vez que
+A medida que
+Entonces
+Del mismo modo
+De igual modo
+De modo similar
+De la misma forma
+De igual forma
+De manera similar
+Así como
+Como también
+Igualmente
+Así mismo

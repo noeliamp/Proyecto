@@ -1,0 +1,2635 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:og="http://ogp.me/ns#"
+      xmlns:fb="http://www.facebook.com/2008/fbml" lang="es">
+<head>
+<script type="text/javascript">
+	voc_se = 'mas-actualidad';
+	voc_s1 = 'espana';
+	voc_s2 = '';
+	voc_site = 'laverdad';voc_tn = 'la-fiscala-cree-que-no-hay-nada-nuevo-que-justifique-la-imputacin-de-la-infanta';voc_tc = 'noticia';voc_au = 'melchor-siz-pardo';voc_fep = '20130404094416';voc_fem = '20130404105251';voc_or = 'RC';voc_pr='1';
+</script>
+<title>La Fiscalía cree que no hay nada nuevo que justifique la imputación de la infanta. La Verdad</title>
+			<meta name="news_keywords" content="catorce, indicios, contra, infanta" />
+		<meta name="keywords" content="catorce, indicios, contra, infanta" />
+		<meta name="Description" content="Nada ha cambiado desde marzo del año pasado cuando el propio juez José Castro rechazó la petición de Manos Limpias de imputar a Cristina de Borbón. Esta será la tesis central del recurso en el que ya" />
+	<link rel="canonical" href="http://www.laverdad.es/murcia/rc/20130404/espana/catorce-indicios-contra-infanta-201304040804.html"/>
+						<meta name="DC.date.issued" content="2013-04-04">
+			<!-- facebook -->
+<meta property='og:title' content='La Fiscalía cree que no hay nada nuevo que justifique la imputación de la infanta' /><meta property='og:description' content='Anticorrupción ultima contrarreloj su recurso, que presentará antes del fin de semana | Pedirá la anulación de la citación de la hija del Rey para declarar el próximo 27 de abril' /><meta property='og:url' content='http://www.laverdad.es/murcia/rc/20130404/espana/catorce-indicios-contra-infanta-201304040804.html' /><meta property='og:image' content='http://www.laverdad.es/RC/201304/04/Media/M1-1812558389--647x231.JPG' /><meta property='og:video' content='https://secure.brightcove.com/services/viewer/federated_f9?isVid=1&isUI=1&publisherID=85707286001&playerID=1229800888001&secureConnections=1&%40videoPlayer=130404AGEWEB-04AB005HQ' /><meta property='og:type' content='movie'/><meta property='og:video:width' content='640' /><meta property='og:video:height' content='360' /><meta property='og:video:type' content='application/x-shockwave-flash' />
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<link rel="shortcut icon" src="http://www.laverdad.es/favicon.ico" />
+<meta name="lang" content="es" />
+<meta name="author" content="La Verdad" />
+<meta name="organization" content="La Verdad" />
+<meta name="locality" content="Murcia" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="refresh" content="900" />
+<meta name="google-site-verification" content="2ykJxHnmlUNmvMtvuuL6yS0cb2ao0gn2CN0Voyect5k" />
+<link rel="stylesheet" href="http://www.laverdad.es/css/ppll.css" type="text/css" media="all" />
+<script type="text/javascript" src="http://www.laverdad.es/js/rd.jquery.js"></script>
+<script type="text/javascript" src="http://www.laverdad.es/js/jquery.template.js"></script>
+<script type="text/javascript" src="http://www.laverdad.es/js/jquery.cookie.js"></script>
+<script type="text/javascript" src="http://www.laverdad.es/js/rd.dts.js"></script>
+<script type="text/javascript" src="http://www.laverdad.es/js/rd.maquetacion.js"></script>
+<script type="text/javascript" src="http://www.laverdad.es/js/rd.herramientas.js"></script>
+<script type="text/javascript" src="http://www.laverdad.es/js/rd.tus-fotos.js"></script>
+
+<script type="text/javascript" src="http://www.laverdad.es/js/rd.tiempo.js"></script>
+
+
+<!-- vocID -->
+<link rel="stylesheet" href="http://www.laverdad.es/css/barranavegacion.css" type="text/css" media="all" />
+<script type="text/javascript"> 
+	var url_portal = 'laverdad.es';
+	
+	var vocid_fb_head = true;
+	var queid_master = 'comunidad.laverdad.es'; 
+	var queid_serv = 'pl_laverdad_murcia';
+	var queid_error_func = 'error_login'; 
+	var queid_barra_div = 'mensenwat'; 
+	var queid_barra_auto = false; 
+	function error_login() 
+	{ 
+	document.getElementById('msg_error').innerHTML = 'DATOS INCORRECTOS'; 
+	}
+</script>
+<script type="text/javascript" src="http://vocid-cdn.laverdad.es/js/vocid.js"></script>
+
+
+<!--[if IE]>
+<link href="http://www.laverdad.es/css/ie.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+
+<!--[if lt IE 7.]>
+<script type="text/javascript" src="http://www.laverdad.es/js/jquery.ifixpng.js"></script>
+<![endif]-->
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-6052672-2']);
+  _gaq.push(['_setDomainName', 'laverdad.es']);
+  _gaq.push(['_setAllowHash', 'false']);
+  _gaq.push(['_trackPageview']);
+	_gaq.push(['rc._setAccount', 'UA-33303086-2']);
+	_gaq.push(['rc._trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+		<link rel="stylesheet" href="/css/rd.articulos.css" type="text/css" media="all" />
+		<link rel="stylesheet" href="/css/rd.print.css" media="print" type="text/css" />
+	<script language="javascript" type="text/javascript" src="/js/rd.comentarios.js"></script>
+	<script language="javascript" type="text/javascript" src="/js/rd.noticias.js"></script>
+	<script type="text/javascript" src="/includes/manuales/js/common.js"></script>
+<script language="javascript">
+
+
+
+
+
+
+
+
+
+
+
+
+ var portada_ocio=true; var portada_uh_home=true; var portada_uh_actualidad_cultura=true;
+ var noticia_uh_actualidad_cultura=true;
+
+OAS_listpos = 'megabanner,boton_superior,boton_inferior,cintillo_superior980x28,boton_loc_superior,recuerdo_corti_layer_nal,robapaginas,inters,skyscraper_izq,skyscraper_der,megabanner_inf,boton1_150x100,boton2_150x100,boton3_150x100,boton4_150x100,boton1_300x90,boton2_300x90,boton_superior,boton_nal1,robapaginas_dos';
+
+	OAS_sitepage = 'www.la-verdad.com/murcia/actualidad/nacional';
+
+document.write('');
+objectPublishId='uh_actualidad_espana';
+</script>
+
+<script language="javascript" type="text/javascript" src="/js/publicidad-conf-resto-de-paginas.js"></script>
+	<script language="javascript" type="text/javascript" src="/js/publicidad.js"></script>
+<script language="javascript" type="text/javascript" src="/js/ctv/swfobject_publi.js?v=12"></script>
+	<script type="text/javascript" src="/includes/manuales/especiales/js/jquery.url.js"></script>
+<script type="text/javascript" src="/includes/manuales/especiales/js/jquery-ui.min.js"></script>
+<script type="text/javascript" src="/includes/manuales/especiales/js/jquery.jcarousel.min.js"></script>
+<script type="text/javascript" src="/includes/manuales/especiales/js/jquery.columnhover.pack.js"></script>
+<script type="text/javascript" src="/includes/manuales/especiales/js/slider_coches.js"></script>
+<script type="text/javascript" src="/includes/manuales/especiales/js/qtip.min.js"></script>
+<script type="text/javascript" src="/includes/manuales/especiales/js/common_dti.js?v=1"></script>
+<script type="text/javascript" src="/includes/manuales/especiales/js/encuestas.js"></script>
+<script type="text/javascript" src="/includes/manuales/especiales/js/equipos_ideales.js"></script>
+<script type="text/javascript" src="/includes/manuales/especiales/js/trivial.js"></script>
+<script type="text/javascript" src="/includes/manuales/especiales/js/jScrollPane.js"></script>
+<script type="text/javascript" src="/includes/manuales/especiales/js/dti_twitter.js"></script>
+<script type="text/javascript" src="/includes/manuales/especiales/js/jquery.instagram.js"></script>
+<script type="text/javascript" src="/includes/manuales/especiales/eurocopa/2012/js/main.js"></script>
+<script type="text/javascript" src="/includes/manuales/especiales/js/jquery.toggleval.js"></script>
+<script type="text/javascript" src="/includes/manuales/especiales/olimpiadas/2012/js/olimpiadas.js"></script>
+<script type="text/javascript" src="/includes/manuales/js/dti-deportes-bwin.js"></script>
+</head>
+<body>
+<div style="width:980px;margin:0 auto;padding:0;height:1px;_overflow:hidden;" id="orejas_chrome">
+	<div id="publi1_Top9" style="z-index:200;width:120px;height:1px;top:0;left:-130px;position:relative;float:left;" class="izquierda">
+		<script>
+		var publiOrejaIzq = window['noticia_'+objectPublishId];
+			if (publiOrejaIzq!=undefined &&	publiOrejaIzq) { 
+				publiMJX('skyscraper_izq',1); 
+			}
+		</script>
+
+	</div>
+	<div id="publi1_Top10" style="z-index:200;width:120px;height:1px;top:0;right:-130px;position:relative;float:right;" class="derecha">
+		<script>
+			var publiOrejaDer = window['noticia_'+objectPublishId];
+			if (publiOrejaDer!=undefined &&	publiOrejaDer) {
+					publiMJX('skyscraper_der',1);
+			}
+		</script>
+	</div>
+</div>
+<div id="todoportal">
+	
+<!-- Methode filePath: "/RC/201304/04/espana/infanta-cristina-imputacion.xml"-->
+<!-- Begin comScore Tag -->
+<script type="text/javascript">
+<!--
+//VOC DAX v1.0
+var ns_site=voc_site||"";
+var voc_site=voc_site||"";
+var voc_se=voc_se||"";
+var voc_s1=voc_s1||"";
+var voc_s2=voc_s2||"";
+var voc_s3=voc_s3||""; 
+var voc_s4=voc_s4||"";
+var voc_tn=voc_tn||"";
+var voc_tc=voc_tc||"";
+var voc_ed=voc_ed||"";
+var voc_au=voc_au||"";
+var voc_or=voc_or||"";
+var voc_pr=voc_pr||"";
+var voc_fep=voc_fep||"";
+var voc_fem=voc_fem||"";
+var voc_ho=0;
+var voc_name=(voc_se!=''?voc_se+'.':'')+(voc_s1!=''?voc_s1+'.':'')+(voc_s2!=''?voc_s2+'.':'')+(voc_s3!=''?voc_s3+'.':'')+(voc_s4!=''?voc_s4+'.':'')+voc_tn;
+if (document.referrer==('http://'+document.domain+'/') || document.referrer==('http://'+document.domain+'/index.asp') || document.referrer==('http://'+document.domain+'/index.html')) voc_ho=1;
+-->
+</script>
+<script type="text/javascript">
+<!--
+//DAX v1.1
+var _comscore = _comscore || [];_comscore.push({
+c1: "2",c2: "7715761",
+ns_site: ns_site,
+voc_site: voc_site,
+name: voc_name,
+voc_se: voc_se,
+voc_s1: voc_s1,
+voc_s2: voc_s2,
+voc_s3: voc_s3,
+voc_s4: voc_s4,
+voc_tn: voc_tn,
+voc_tc: voc_tc,
+voc_ed: voc_ed,
+voc_au: voc_au,
+voc_or: voc_or,
+voc_pr: voc_pr,
+voc_fep: voc_fep,
+voc_fem: voc_fem,
+voc_ho: voc_ho
+});
+(function() {var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";el.parentNode.insertBefore(s, el);
+  })();
+-->
+</script>
+<noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=7715761&cv=2.0&cj=1" /></noscript>
+<script language="JavaScript1.3" src="http://b.scorecardresearch.com/c2/7715761/cs.js"></script>
+<!-- End comScore Tag -->
+
+<!-- cXense script begin -->
+<div id="cX-root" style="display:none"></div>
+<script type="text/javascript">
+  var cX = cX || {}; cX.callQueue = cX.callQueue || [];
+  cX.callQueue.push(['setAccountId', '9222274890722429874']);
+  cX.callQueue.push(['setSiteId', '9222275550092453906']);
+  cX.callQueue.push(['sendPageViewEvent']);
+</script>
+<script type="text/javascript">
+  (function() { try { var scriptEl = document.createElement('script'); scriptEl.type = 'text/javascript'; scriptEl.async = 'async';
+  scriptEl.src = ('https:' == document.location.protocol) ? 'https://scdn.cxense.com/cx.js' : 'http://cdn.cxense.com/cx.js';
+  var targetEl = document.getElementsByTagName('script')[0]; targetEl.parentNode.insertBefore(scriptEl, targetEl); } catch (e) {};} ());
+</script>
+<!-- cXense script end -->
+	<script>
+var semDom= 'laverdad.es';
+</script>
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime();
+</script>
+
+<div id="publicidades_top">
+	<div id="publi1">
+		<div id="publi1_Top1"><script language="JavaScript">publiMJX('megabanner',1);</script></div>
+	</div>
+	<div class="clear"></div>
+</div>
+<!-- CABECERA -->
+<div class="cabecera"> <a href="http://www.laverdad.es" class="logotipo_portal">laverdad.es</a>
+  <ul class="lnks_clasificados">
+    <li class="first"><a href="http://www.tusanuncios.com/portada/Murcia/" target="_blank" title="Anuncios clasificados gratis en Murcia">Clasificados</a></li>
+    <li><a href="http://11870.com/" target="_blank" title="11870">11870.com</a></li>
+    <li><a href="http://www.pisos.com/viviendas/Murcia/" target="_blank" title="Pisos en Murcia">Vivienda</a></li>
+    <li><a href="http://www.infoempleo.com/trabajo/en_Murcia/" target="_blank" title="Empleo en Murcia">Empleo</a></li>
+    <li><a href="http://www.autocasion.com" target="_blank" title="Coches en Murcia">Coches</a></li>
+    <li><a href="http://www.mujerhoy.com" target="_blank" title="mujerhoy.com">mujerhoy.com</a></li>
+  </ul>
+  <div class="cab_ediciones_fecha">
+    <div class="cef_cambio"> <span class="cef_titu">Edición: </span>
+      <h3 class="cef_edicion">Murcia</h3>
+      <div class="cef_cambiar"><a href="http://www.laverdad.es/albacete" class="cef_nocambiar_seleccion">Ir a Edición Albacete &raquo;</a><span class="cef_separa">|</span><a href="http://www.laverdad.es/alicante" class="cef_nocambiar_seleccion">Ir a Edición Alicante &raquo;</a></div>
+      <span class="cef_separa">|</span> <span class="cef_perso_lst">
+      <ul class="lstcab">
+        <li><a href="http://www.laverdad.es/interactivo/personalizar/sesion.php?edicion=albacete">Albacete</a></li>
+        <li><a href="http://www.laverdad.es/interactivo/personalizar/sesion.php?edicion=alicante">Alicante</a></li>
+        <li><a href="http://www.laverdad.es/interactivo/personalizar/sesion.php?edicion=murcia">Murcia</a></li>
+      </ul>
+      </span><a href="javascript:;" class="cef_perso_seleccion"><span>Personalizar</span></a></div>
+  </div>
+  <div class="cef_fecha">Jueves, 4 abril 2013</div>
+<div id="caja-comunidad" class="clearfix">
+    <div class="wrap clearfix">
+      <ul id="cc-bloque">
+        <li id="cc-inicio-sesion"><span class="label">Iniciar sesión con</span> <a href="javascript:queid_login('facebook');" id="ccis-facebook">Facebook</a> <a href="javascript:queid_login('google');" id="ccis-google">google</a> <a href="javascript:queid_login('barra');" id="ccis-medio">laverdad.es</a></li>
+        <li id="cc-registro"><a href="http://comunidad.laverdad.es/murcia/registro.php?s=pl_laverdad_murcia">Regístrate</a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<div id="gebruiker_shadow"></div>
+<div id="mensenwat"></div>
+ 
+<script language="javascript">
+	if (document.location.href.indexOf('multimedia') == -1) {
+        	queid_barra();
+	}
+</script> 
+<script type="text/javascript">
+	$(function() {
+			if ($.cookie('registro') == null)  {
+				$('#c_nombre').html('No has iniciado la sessión');
+			}
+			else {
+				var xml;
+				var xmlstr = $.cookie('registro');
+				xmlstr = xmlstr.replace(/\+/g, ' ');
+				
+				// Parche para IE
+				if (window.ActiveXObject) {
+				    var xmlDoc = new ActiveXObject("Microsoft.XMLDOM");
+				 	xmlDoc.async = false;
+					xmlDoc.onreadystatechange = function() {
+						if (xmlDoc.readyState != 4) {
+							return false;
+						}
+					};
+					xmlDoc.loadXML(xmlstr);
+					xml = xmlDoc;
+		        }
+				else {
+					xml = xmlstr;
+				}
+				
+				$("#cc-bloque").before('<ul id="cc-sesion-enlaces"><li class="first"><a href="javascript:queid_logout();">Desconectar</a></li><li><a href="http://comunidad.laverdad.es/murcia/perfil.php">Editar perfil</a></li></ul>');
+				$("#cc-inicio-sesion").before('<li id="cc-logeado-sesion"><span id="c_avatar"></span><span id="c_nombre"></span></li>');
+				$("#cc-inicio-sesion").remove();
+				$('#c_nombre').html('<a href="' + $('p.status a', $('#mensenwat')).attr('href') + '">' + ($(xml).find('user_nombre').text() ? $(xml).find('user_nombre').text() : $(xml).find('user').text()) + '</a>');
+				$('#c_avatar').html('<img src="' + $(xml).find('user_avatar').text() + '"/>');
+$('#cc-registro').html('<a href="http://comunidad.laverdad.es/murcia/pulso.php">Actividad</a>');
+				if ($.browser.msie && $.browser.version.substr(0,1)<8) {
+	$('#caja-comunidad').addClass('logeado');
+	$('#caja-comunidad').width($('#c_nombre a').width() + 155);
+}	
+				
+			}
+			//console.log($.cookie('registro'));
+		}
+	);
+</script> 
+
+<div class="menunav">
+  <ul class="menunav">
+    <li id="mi-uh-home" class="mn_item"><a href="http://www.laverdad.es" class="mn_item_a" title="Diario de Murcia, noticias de la Región de Murcia">Portada</a></li>
+    <li id="mi-uh-local" class="mn_item"><a href="http://www.laverdad.es/murcia/local" class="mn_item_a" title="Noticias Murcia">Local</a></li>
+    <li id="mi-uh-deportes" class="mn_item"><a href="http://www.laverdad.es/murcia/deportes" class="mn_item_a" title="Deportes Murcia">Deportes</a></li>
+    <li id="mi-uh-economia" class="mn_item"><a href="http://www.laverdad.es/murcia/economia" class="mn_item_a" title="Economía">Economía</a></li>
+    <li id="mi-uh-actualidad" class="mn_item"><a href="http://www.laverdad.es/murcia/mas-actualidad" class="mn_item_a" title="Más actualidad: otras noticias">Más Actualidad</a></li>
+    <li id="mi-uh-gente" class="mn_item"><a href="http://www.laverdad.es/murcia/gente" class="mn_item_a" title="Gente y Televisión">Gente y TV</a></li>
+    <li id="mi-ocio" class="mn_item"><a href="http://www.laverdad.es/murcia/ocio" class="mn_item_a" title="Ocio Murcia">Ocio</a></li>
+    <li id="mi-participa" class="mn_item"><a href="http://www.laverdad.es/murcia/participa" class="mn_item_a" title="Participación Murcia: blogs, foros, chat">Participa</a></li>
+    <li id="mi-blogs" class="mn_item"><a href="http://blogs.laverdad.es/" class="mn_item_a" title="Blogs">Blogs</a></li>
+    <li id="mi-servicios" class="mn_item"><span class="mn_item_a"><span>Servicios</span></span> 
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+ 	<ul class="submn_servicios lstcab">
+    
+	    
+	    	
+				 	
+								
+				<li class="li" id="id-seccion" xml:lang="es">
+<a class="a" href="http://www.laverdad.es/murcia/servicios/farmacias/" title="Farmacias Murcia">Farmacias Murcia</a>
+</li>
+ 
+			
+		
+	    	
+				 	
+								
+				<li class="li" id="submi-servicios-transportes" xml:lang="es">
+<a class="a" href="/murcia/servicios/transportes/" title="Transportes Murcia">Transportes </a>
+</li>
+ 
+			
+		
+	    	
+				 	
+								
+				<li class="li" id="submi-servicios-esquelas" xml:lang="es">
+<a class="a" href="http://esquelas.laverdad.es/" title="Esquelas Murcia">Esquelas Murcia</a>
+</li>
+ 
+			
+		
+	    	
+				 	
+								
+				<li class="li" id="submi-uh-local-horoscopo" xml:lang="es">
+<a class="a" href="http://horoscopo.laverdad.es/" target="_blank" title="Horóscopo">Horóscopo</a>
+</li>
+ 
+			
+		
+	    	
+				 	
+								
+				<li class="li" id="submi-uh-deportes-futbol" xml:lang="es">
+<a class="a" href="http://www.laguiatv.com/programacion/" target="_blank" title="Programación de TV">Programación TV</a>
+</li>
+ 
+			
+		
+	    	
+				 	
+								
+				<li class="li" id="id-seccion" xml:lang="es">
+<a class="a" href="http://www.laverdad.es/eltiempo/" target="_blank" title="El Tiempo Murcia">El Tiempo Murcia</a>
+</li>
+ 
+			
+		
+	    	
+				 	
+								
+				<li class="li" id="submi-uh-local-loteria" xml:lang="es">
+<a class="a" href="http://resultados-loteria.laverdad.es/" target="_blank" title="Resultados Lotería">Resultados Lotería</a>
+</li>
+ 
+			
+		
+	    	
+				 	
+								
+				<li class="li" id="submi-uh-local-pdf" xml:lang="es">
+<a class="a" href="http://kioskoymas.laverdad.es/" target="_blank" title="La Verdad en PDF">LV en PDF</a>
+</li>
+ 
+			
+		
+	    	
+				 	
+								
+				<li class="li" id="" xml:lang="es">
+<a class="a" href="http://juegos.laverdad.es/" target="_blank" title="Juegos Flash">Juegos</a>
+</li>
+ 
+			
+		
+	
+	
+	</ul>
+ 
+    </li>
+    <li id="mi-hemeroteca" class="mn_item"><a href="http://www.laverdad.es/murcia/hemeroteca/" class="mn_item_a" title="Hemeroteca">Hemeroteca</a></li>
+  </ul>
+  <div id="acceso-webtv"><a href="http://www.laverdadtv.es/"><span>laverdadtv.es</span></a></div>
+</div>
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+ 	<ul class="submenunav">
+    
+	    
+	    	
+				 	
+								
+				<li class="li" id="submi-uh-actualidad-espana" xml:lang="es">
+<a class="a" href="/murcia/mas-actualidad/espana/" title="España"><span class="span">España</span></a>
+</li>
+ 
+			
+		
+	    	
+				 	
+								
+				<li class="li" id="submi-uh-actualidad-mundo" xml:lang="es">
+<a class="a" href="/murcia/mas-actualidad/mundo/" title="Mundo"><span class="span">Mundo</span></a>
+</li>
+ 
+			
+		
+	    	
+				 	
+								
+				<li class="li" id="submi-uh-actualidad-cultura" xml:lang="es">
+<a class="a" href="/murcia/mas-actualidad/cultura/" title="Cultura Murcia"><span class="span">Cultura</span></a>
+</li>
+ 
+			
+		
+	    	
+				 	
+								
+				<li class="li" id="submi-uh-actualidad-sociedad" xml:lang="es">
+<a class="a" href="/murcia/mas-actualidad/sociedad/" title="Sociedad Murcia"><span class="span">Sociedad</span></a>
+</li>
+ 
+			
+		
+	    	
+				 	
+								
+				<li class="li" id="" xml:lang="es">
+<span class="span"><img class="img" src="/murcia/MEDIA/200907/29/ademas_2.gif"></span>
+</li>
+ 
+			
+		
+	    	
+				 	
+								
+				<li class="li" id="" xml:lang="es">
+<a class="a" href="http://ababol.laverdad.es/" target="_blank" title="Ababol"><span class="span">Ababol</span></a>
+</li>
+ 
+			
+		
+	    	
+				 	
+								
+				<li class="li" id="" xml:lang="es">
+<a class="a" href="http://cienciaysalud.laverdad.es/" target="_blank" title="Ciencia y Salud"><span class="span">Ciencia y Salud</span></a>
+</li>
+ 
+			
+		
+	    	
+				 	
+								
+				<li class="li" id="submi-punto-radio" xml:lang="es" style="margin-top:6pt;">
+<a class="a" href="http://www.laverdad.es/salud" id="U3089862936SMB" target="_blank" title="salud" style="color:#be0812;"><img class="img" id="U30430336570708lH" src="/murcia/portada/zona-CAB/fotos/salud-img-salud.png" xml:space="preserve" style="display:inline;font-size:36pt;line-height:30pt;vertical-align:center;"></a>
+</li>
+ 
+			
+		
+	    	
+				 	
+								
+				<li class="li" id="" xml:lang="es">
+<a class="a" href="http://salud.laverdad.es/" target="_blank" title="Canal Salud"><span class="span">Canal Salud</span></a>
+</li>
+ 
+			
+		
+	    	
+				 	
+								
+				<li class="li" id="submi-uh-deportes-futbol" xml:lang="es">
+<a class="a" href="http://laverdad.xlsemanal.com/" target="_blank" title="XLSemanal"><span class="span">XLSemanal</span></a>
+</li>
+ 
+			
+		
+	    	
+				 	
+								
+				<li class="li" id="submi-uh-" xml:lang="es">
+<a class="a" href="http://www.laverdad.es/murcia/multimedia/fotos/" title="Fotos Murcia"><span class="span">Fotos</span></a><a class="a" href="http://www.laverdadtv.es/" title="Vídeos Murcia"><span class="span">Vídeos</span></a>
+</li>
+ 
+			
+		
+	
+	
+	</ul>
+
+  		<script language="JavaScript">
+<!--
+	if (('' !=null && '2013' !=null) && ('' !='' && '2013' !='')){
+		if (''==('elecciones-usa')) {
+			objMenu = $('#mi-uh-actualidad');
+			objMenu.addClass('activo');
+		} else if (''==('autonomos')) {
+			objMenu = $('#mi-uh-economia');
+			objMenu.addClass('activo');
+		} else {
+		objMenu = $('#mi-uh-home');
+		objMenu.addClass('activo');
+		}
+	}
+	else if((objMenu = $('#mi-uh-actualidad')).length > 0)
+		 objMenu.addClass('activo');
+	if((objSubmenu = $('#submi-uh-actualidad-espana')).length > 0)
+		objSubmenu.addClass('activo');
+//-->
+</script><div class="includes_cabecera">
+    <script language="javascript">
+<!-- funciones para el buscador -->
+	<!--
+		function busqueda() {
+			// if (document.form_buscador_cabecera.busca[0].checked)
+			if(window.document.form_buscador_cabecera.busca.selectedIndex == 0) {
+				var palabra_enviar = window.document.form_buscador_cabecera.qAND.value ;
+				if(window.document.form_buscador_cabecera.qAND.value.length == 0) {
+					alert("Debes seleccionar palabra de búsqueda.");
+					return false;
+				}	
+				//El correo digital
+				document.form_buscador_cabecera.action = 'http://www.laverdad.es/murcia/hemeroteca/';
+				document.form_buscador_cabecera.submit();
+				return true;	
+			}
+			else {
+				var palabra_enviar = window.document.form_buscador_cabecera.qAND.value ;
+				if(window.document.form_buscador_cabecera.qAND.value.length == 0) {
+					alert("Debes seleccionar palabra de búsqueda.");
+					return false;
+				}		
+				//Google+Ozu
+				url= "http://www.laverdad.es/resultados-internet.html?cx=partner-pub-9776621393540478:ld8xd45g7gl&cof=FORID:10&ie=ISO-8859-1&q=" + window.document.form_buscador_cabecera.qAND.value + "&sa=Buscar&siteurl=www.laverdad.es";
+				document.form_buscador_cabecera.action = url;
+				document.form_buscador_cabecera.method = "POST";
+				document.form_buscador_cabecera.submit();
+				return true;
+			}
+			return_false;
+		}
+	//-->
+<!-- fin funciones buscador -->
+</script>
+  <form name="form_buscador_cabecera" method="get" action="" class="cab_buscar">
+    <input type="text" name="qAND" class="cab_inputxt" value="" />
+    <select class="select" name="busca">
+      <option value="medio">laverdad</option>
+      <option value="internet" selected="selected">internet</option>
+    </select>
+    <input name="OK" type="button" class="cab_boton" id="OK" title="Iniciar búsqueda" value="IR" onClick="busqueda();"/>
+  </form>
+  <script type=text/javascript src="http://www.laverdad.es/apoyos/js/google_palabras.js"></script> 
+    
+<!-- Include from: /la_verdad_2009/murcia/portada/cabecera.dwp -->
+
+    <script language="javascript" type="text/javascript">
+	MQT.moduloCabeceraVideochat();
+	</script>
+    
+<div class="modcab_meteo">
+	<div class="mcmet">
+		<div class="mcmet_datos">
+			<div class="mcmet_datos2">
+				<div class="mcmet_ico met_claros">claros</div>
+				<span class="mcmet_label">Hoy</span>
+				<span class="mcmet_min">8</span> / <span class="mcmet_max">23</span>
+				<span class="mcmet_separa">|</span><span class="mcmet_separa2">|</span>
+				<span class="mcmet_label">Ma&ntilde;ana</span>
+				<span class="mcmet_min">9</span> / <span class="mcmet_max">22</span>
+				<span class="mcmet_separa2">|</span>
+			</div>
+			<a href="/eltiempo/" class="mcmet_mas">m&aacute;s informaci&oacute;n sobre el tiempo</a>
+		</div>
+	</div>
+	<form class="mcmet_localidades" action="">
+		<select id="provincia2" onChange="poblar2()">
+			<option selected value="">Seleccione Provincia</option>
+			<option value="A_Corunna">A Coruña</option>
+			<option value="Alava">Alava</option>
+			<option value="Albacete">Albacete</option>
+			<option value="Alicante">Alicante</option>
+			<option value="Almeria">Almería</option>
+			<option value="Asturias">Asturias</option>
+			<option value="Avila">Ávila</option>
+			<option value="Badajoz">Badajoz</option>
+			<option value="Baleares">Baleares</option>
+			<option value="Barcelona">Barcelona</option>
+			<option value="Bizkaia">Bizkaia</option>
+			<option value="Burgos">Burgos</option>
+			<option value="Caceres">Cáceres</option>
+			<option value="Cadiz">Cádiz</option>
+			<option value="Cantabria">Cantabria</option>
+			<option value="Castellon">Castellón</option>
+			<option value="Ceuta">Ceuta</option>
+			<option value="Ciudad_Real">Ciudad Real</option>
+			<option value="Cordoba">Córdoba</option>
+			<option value="Cuenca">Cuenca</option>
+			<option value="Gipuzkoa">Gipuzkoa</option>
+			<option value="Girona">Girona</option>
+			<option value="Granada">Granada</option>
+			<option value="Guadalajara">Guadalajara</option>
+			<option value="Huelva">Huelva</option>
+			<option value="Huesca">Huesca</option>
+			<option value="Jaen">Jaén</option>
+			<option value="La_Rioja">La Rioja</option>
+			<option value="Las_Palmas">Las Palmas</option>
+			<option value="Leon">León</option>
+			<option value="Lleida">Lleida</option>
+			<option value="Lugo">Lugo</option>
+			<option value="Madrid">Madrid</option>
+			<option value="Malaga">Málaga</option>
+			<option value="Melilla">Melilla</option>
+			<option value="Murcia">Murcia</option>
+			<option value="Navarra">Navarra</option>
+			<option value="Ourense">Ourense</option>
+			<option value="Palencia">Palencia</option>
+			<option value="Pontevedra">Pontevedra</option>
+			<option value="Salamanca">Salamanca</option>
+			<option value="Santa_Cruz_de_Tenerife">Santa Cruz de Tenerife</option>
+			<option value="Segovia">Segovia</option>
+			<option value="Sevilla">Sevilla</option>
+			<option value="Soria">Soria</option>
+			<option value="Tarragona">Tarragona</option>
+			<option value="Teruel">Teruel</option>
+			<option value="Toledo">Toledo</option>
+			<option value="Valencia">Valencia</option>
+			<option value="Valladolid">Valladolid</option>
+			<option value="Zamora">Zamora</option>
+			<option value="Zaragoza">Zaragoza</option>
+		</select>
+		<select id="localidad2"><option selected value="">Seleccione Localidad</option></select>
+		<input class="boton" value="IR" id="ir" name="ir" type="button" onclick="irMeteo(window.document.getElementById('localidad2').options[window.document.getElementById('localidad2').selectedIndex].value)">
+	</form>
+</div>
+    
+	</div>
+<div class="zonadecontenidos">
+    	<div class="zonaABC">
+    		<div class="migactualizacion">
+	<div class="migapan">
+		<span class="mpestas">Estás en:</span>
+		<div class="mpdato"><a href="http://www.laverdad.es/murcia" title="Murcia - La Verdad">Murcia - La Verdad</a></div>
+									<span class="mpsepara">&gt;</span><div class="mpdato"><a href="/murcia/mas-actualidad/" title="Noticias Más Actualidad">Noticias Más Actualidad</a></div>
+									<span class="mpsepara">&gt;</span><div class="mpdato"><a href="/murcia/mas-actualidad/espana" title="Noticias España">Noticias España</a></div>
+											<span class="mpsepara">&gt;</span><div class="mpdato">La Fiscalía cree que no hay nada nuevo que justifique la imputación de la infanta</div>
+									</div>
+	</div>
+<div class="cintillo_publi"><div id="publi1_auh"><script language="JavaScript">publiMJX('cintillo_superior980x28',1);</script></div></div>
+	        <!-- art -->
+	        <div class="articulo">
+	        	<div class="art_head">
+<h3 class="overhead">
+<div class="ln" id="U3058331098YOH">'caso nóos'</div>
+</h3>
+<h1 class="headline" style="">
+<a href="/murcia/rc/20130404/espana/catorce-indicios-contra-infanta-201304040804.html" target="_self">La Fiscalía cree que no hay nada nuevo que justifique la imputación de la infanta</a>
+</h1>
+<div class="date">04.04.13 - <span>10:52</span> - <div class="byline">MELCHOR SÁIZ-PARDO  | MADRID</div>
+</div>
+<span class="contenido_form_articulo" id="form-articulo-top">
+
+
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js">
+  {lang: 'es'}
+  {parsetags: 'explicit'}
+</script>
+<script type="text/javascript">
+function cargaPlusone() {
+gapi.plusone.render("plusone-div", {"href": window.location.href , "size": "medium", "count": "true", "callback": "renderPlusone"});
+gapi.plusone.render("plusone-div2", {"href": window.location.href ,"size": "medium", "count": "true", "callback": "renderPlusone2"});
+}
+function PrerenderPlusone() {
+gapi.plusone.render("plusone-div2", {"href": window.location.href ,"size": "medium", "count": "true", "callback": "renderPlusone2"});
+}
+function PrerenderPlusone2() {
+gapi.plusone.render("plusone-div", {"href": window.location.href ,"size": "medium", "count": "true", "callback": "renderPlusone"});
+}
+
+function renderPlusone() {
+setTimeout("PrerenderPlusone()",1000);
+}
+function renderPlusone2() {
+setTimeout("PrerenderPlusone2()",1000);
+}
+$(document).ready(function() {
+setTimeout("cargaPlusone()",500);
+});
+</script>
+
+<div class="art_barra">
+  <ul class="art_herramientas">
+    <li><a rel="nofollow" href="javascript:window.print()" class="ah_imprimir">Imprimir</a></li>
+    <li><a rel="nofollow" href="#frm_art_envia" class="ah_enviar">Enviar</a></li>
+    <li><a rel="nofollow" href="#frm_art_rectifica" class="ah_rectificar">Rectificar</a></li>
+  </ul>
+  <div class="contenidoestrellas">
+    <div class="starvotos">
+      <div class="starvotos"> <span id="votacion"> <a rel="nofollow" href="javascript:void(0);" class="vt1">1
+        voto</a><a rel="nofollow" href="javascript:void(0);" class="vt2">2
+        votos</a> <a rel="nofollow" href="javascript:void(0);" class="vt3">3
+        votos</a><a rel="nofollow" href="javascript:void(0);" class="vt4">4
+        votos</a><a rel="nofollow" href="javascript:void(0);" class="vt5">5
+        votos</a></span></div>
+    </div>
+    <span class="numero_votos" id="numvotos-votos">0 votos</span> </div>
+  <div class="art_compartir">
+  	<div class="art_ch5"><a href="javascript:void(0);" onclick="window.location.href='//'+window.location.host+window.location.pathname+'#opina'" class="anclaopina"><span class="art_ch5_comentarios" id="num-comentarios">0</span> Comentarios</a> |</div>
+    <div class="art_social"> <span class="art_s_TW"><a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-url="http://www.laverdad.es/murcia/rc/20130404/espana/catorce-indicios-contra-infanta-201304040804.html" data-via="laverdad_es" data-lang="es">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></span> <span class="art_s_GO">
+      <div id="plusone-div"></div>
+      </span> <span class="art_s_TU"><a href="http://www.tuenti.com/share?url=http://www.laverdad.es/murcia/rc/20130404/espana/catorce-indicios-contra-infanta-201304040804.html" target="_blank">En Tuenti</a></span><span class="art_s_FB"><script language="javascript">document.write('<iframe scrolling="no" frameborder="0" allowtransparency="true" style="border: medium none; overflow: hidden; width: 120px; height: 21px;" src="http://www.facebook.com/plugins/like.php?href=' + window.location.href + '&amp;layout=button_count&amp;show_faces=true&amp;width=120&amp;action=recommend&amp;font=arial&amp;colorscheme=light&amp;height=21"></iframe>')</script></span></div>
+  </div>
+  <div class="form_art frm_art_envia">
+    <h5 class="frm_header"><a rel="nofollow" href="#" class="boton cerrar">Cerrar</a>Env&iacute;a
+      la noticia </h5>
+    <form action="">
+      <div class="frm_content">
+        <p class="frm_txt">Rellena los siguientes campos para enviar esta informaci&oacute;n
+          a otras personas.</p>
+        
+        <div class="frm_izq">
+          <p>
+          	
+            <label>Nombre <span class="asterisco">*</span> <br />
+                        <input type="text" name="author_name_er" class="caja" value=""  maxlength="30"/>
+            </label>
+          </p>
+        </div>
+        <div class="frm_izq">
+          <p>
+          	
+            <label>Email remitente <span class="asterisco">*</span> <br />
+            <input type="text" name="author_email_er" class="caja" value=""  />
+            </label>
+          </p>
+        </div>
+        <div class="frm_izq">
+         
+          <p>
+            <label>Email destinatario   <span class="asterisco">*</span><br />
+          
+            <input type="text" name="author_email_ed" class="caja" value=""  />
+            </label>
+          </p>
+        </div>
+        <div class="clear"></div>
+        <span class="obligatorio">* campos obligatorios</span> </div>
+      <div class="frmop_bottom"><a class="boton" href="javascript:void(0)" onclick="HERRAMIENTAS.enviarNoticia()">Enviar</a></div>
+    </form>
+  </div>
+  <div class="form_art frm_art_rectifica">
+    <h5 class="frm_header"><a href="#" class="boton cerrar">Cerrar</a> Rectificar
+      la noticia </h5>
+    <form action="">
+      <div class="frm_content">
+        <p class="frm_txt">Rellene todos los campos con sus datos.</p>
+        <p class="frm_der">
+          <label>Comentario <span class="asterisco">*</span><br />
+          <textarea name="message_r" cols="5" rows="5" onclick="this.value = HERRAMIENTAS.click_denuncia ? this.value : ''; HERRAMIENTAS.click_denuncia = 1">escribe aquí tu comentario</textarea>
+          </label>
+        </p>
+        <div class="frm_izq">
+          <p>
+            <label>Nombre <span class="asterisco">*</span> <br />
+            <input type="text" name="author_name_r" class="caja" value=""  />
+            </label>
+          </p>
+          <p>
+            <label>Email <span class="asterisco">*</span><br />
+            <input type="text" name="author_email_r" class="caja" value=""  />
+            </label>
+          </p>
+          <span class="obligatorio">* campos obligatorios</span></div>
+        <div class="clear"></div>
+      </div>
+      <div class="frmop_bottom"><a rel="nofollow" class="boton" href="javascript:void(0)" onclick="HERRAMIENTAS.enviarRectificacion()">Enviar</a></div>
+    </form>
+  </div>
+</div>
+</span>
+</div>
+<div class="colABC_articulo">
+          			<div class="colAB_articulo">
+          				<div class="colAB_articulo">
+<div id="noticia-pestanas">
+<div id="ccronica" class="opt01 active">
+<div class="text">
+<div class="link-app1">
+<div class="related-link">Anticorrupción ultima contrarreloj su recurso, que presentará antes del fin de semana</div>
+<div class="related-link">Pedirá la anulación de la citación de la hija del Rey para declarar el próximo 27 de abril</div>
+</div>
+<div class="fotogaleriasH">
+<div class="photo" id="foto-1">
+<div class="video" id="video-1">
+</div>
+<div class="photo-caption">
+<div class="photo-caption">La infanta Cristina, a su llegada a la sede central de la Caixa en Barcelona. / Foto: Toni Garriga | Vídeo: Atlas</div>
+</div>
+</div>
+<SCRIPT TYPE="text/JavaScript" xmlns:str="http://www.jclark.com/xt/java/es.vocento.methode.utils.StringUtilities" xmlns:xe="http://www.jclark.com/xt/java/htmlpub.XslExt">
+	            	var NOMBRE_DE_DIV = "video-1";
+	                var ANCHURA = 647;
+	                var ALTURA = 231;
+	                var RUTA_VIDEO = "rc@AG-130404AGEWEB-04AB005HQ";
+	                var RUTA_IMAGEN = "/RC/201304/04/Media/M1-1812558389--647x231.JPG";
+	                var SITIO = "laverdad";
+	                var PUBLI_TITULO = 'La Fiscalía cree que no hay nada nuevo que justifique la imputación de la infanta';
+	                var CATEGORY  =  'methode';
+	                var opciones = {urlTitulo: '/murcia/rc/20130404/espana/catorce-indicios-contra-infanta-201304040804.html', antetituloTexto: 'caso nóos', usoResizer: false};
+	                		loadMultimedia(NOMBRE_DE_DIV, ANCHURA, ALTURA, RUTA_VIDEO, RUTA_IMAGEN, SITIO, PUBLI_TITULO, CATEGORY, opciones);
+	                	</SCRIPT>
+</div>
+<script language="javascript" type="text/javascript">
+					MQT.galeriaH();
+				</script>
+<p class="p">Nada ha cambiado desde marzo del año pasado cuando el propio juez José Castro rechazó la petición de Manos Limpias de imputar a Cristina de Borbón. Esta será la tesis central del recurso en el que ya trabaja el fiscal Pedro Horrach y en el que pedirá la anulación de la citación de la hija del Rey para declarar el próximo 27 de abril.</p>
+<p class="p">Anticorrupción sostiene que en estos trece meses, a pesar de las numerosas diligencias realizadas y las decenas de interrogatorios, sigue sin haber pruebas concluyentes de que la duquesa de Palma tomara decisiones en el Instituto Nóos o en la inmobiliaria Aizoon, la empresa propiedad del matrimonio Urdangarin-Borbón y usada por el yerno de don Juan Carlos supuestamente para desviar dinero público. Tampoco -aseguran en el Ministerio Público- han surgido indicios de que pudiera controlar las cuentas o de que participara de manera activa en los negocios irregulares, "datos claves" para sostener una acusación.</p>
+<p class="p">Para la Fiscalía, los famosos mails aportado por Diego Torres no son suficientes. En ellos -recuerda- solo se constata que Urdangarin pudo informar a Cristina de Borbón de algunas cuestiones puntuales del nacimiento del Instituto Nóos, pero ello no implica que ella participara de estos negocios o se implicara en los mismos. Tampoco los correos que apuntan a que hizo gestiones para favorecer a su marido ante las administraciones valencianas para que la fundación de niños discapacitados (FDCIS) pudiera participar en la Copa América son suficientes para Horrach. En ninguna de esas misivas aparece la contestación de la hija menor de los monarcas y todo son referencias indirectas de terceras personas sobre supuestas actuaciones de la infanta. </p>
+<p class="p">Tampoco el hecho de que figurara en la Junta Directiva de esa institución o fuera copropietaria de Aizoon son indicios suficientes, porque no hay documentos ni de la fundación ni de la mercantil que demuestren que ella autorizó o amparó con sus votos las irregularidades y delitos que se cometieron desde ambas sociedades. Recuerdan que el secretario del Nóos, Miguel Tejeiro, no ha podido aportar acta alguna de las reuniones de ese instituto porque no se celebraban y que la imposibilidad de ver si la firma de la infanta estaba en esas actas impide conocer el papel real de Cristina de Borbón en Nóos. </p>
+<h3 class="p">
+<span class="span ladillo"><strong class="strong">Solo un testigo</strong></span>
+</h3>
+<p class="p">Para la Fiscalía es también importante el hecho de que solo un testigo, Diego Torres, ha declarado que la infanta tomaba decisiones en Nóos y que su responsabilidad en el instituto que se apropió de más de 6 millones de dinero público era la misma que la de los otros cuatro miembros de la Junta Directiva, todos ellos implicados. Desde Anticorrupción recuerdan que son muchísimos más los trabajadores de ese instituto que han declarado que la infanta apenas sí pisó Nóos en alguna ocasión y que todas las órdenes eran impartidas por Urdangarin, Torres y, a veces, Ana María Tejeiro, esposa del exsocio, que se ocupaba de las cuentas.</p>
+<p class="p">Así las cosas, el Ministerio Público cree inviable sostener una acusación contra la infanta y, mucho menos, defender una condena ya ante un tribunal pues -insiste- no tiene en su poder pruebas para probar que la infanta participó, ni siquiera como cómplice, en los delitos de malversación, tráfico de influencias o cohecho. </p>
+</div>
+</div>
+</div>
+</div>
+<!-- fin-art-->
+						<!-- -->
+						<div class="publiEspecial" id="publiEspecial" style="display:none;background: #FFFFFF url(/img/rd.titu_publiroba.png) no-repeat 10px 5px;clear:both;padding:20px 10px 10px 10px; *padding-top:10px">
+<div class="publicidad_especial">
+<script language="JavaScript" type="text/javascript">
+		activaTextLink();
+	</script>
+	
+	
+
+	
+<!-- begin ad tag text link Ing Direct Cuenta Naranja-->
+<script language="JavaScript" type="text/javascript">
+if (typeof ord=='undefined') {ord=Math.random()*10000000000000000;}
+document.write('<scr'+'ipt src="http://ad.es.doubleclick.net/adj/vocento.prueba/textlink_ing_naranja_ppll;sz=4x4;ord=' + ord + '?"><\/scr'+'ipt>');
+</script>
+<!-- End ad tag -->
+
+
+</div>
+<div class="publicidad_especial">
+<script language="JavaScript" type="text/javascript">
+		activaTextLink();
+	</script>
+	
+
+
+	
+	<!-- begin ad tag text link Ing Direct Cuenta nomina-->
+<script language="JavaScript" type="text/javascript">
+if (typeof ord=='undefined') {ord=Math.random()*10000000000000000;}
+document.write('<scr'+'ipt src="http://ad.es.doubleclick.net/adj/vocento.prueba/textlink_ing_nomina_ppll;sz=4x4;ord=' + ord + '?"><\/scr'+'ipt>');
+</script>
+<!-- End ad tag -->
+
+</div>
+<div class="publicidad_especial">
+
+
+</div>
+<div class="publicidad_especial">
+
+
+
+</div>
+<script language="JavaScript" type="text/javascript">
+activaTextLink();
+</script>
+</div>
+<div class="tags_relacionados">
+		<div class="atr_encab">TAGS RELACIONADOS</div>
+		<div class="atr_tags">
+		    <a href="/murcia/archivo/buscador/catorce" class="atr_tag" rel="nofollow">catorce</a>, <a href="/murcia/archivo/buscador/indicios" class="atr_tag" rel="nofollow"> indicios</a>, <a href="/murcia/archivo/buscador/contra" class="atr_tag" rel="nofollow"> contra</a>, <a href="/murcia/archivo/buscador/infanta" class="atr_tag" rel="nofollow"> infanta</a></div>
+	</div><!-- PAN Text Ads 662x260 begin -->
+<div id="cX-root" style="display:none"></div>
+<div id="panTextAds_662x260" style="display:none"></div>
+<script type="text/javascript">
+	var cX = cX || {}; cX.callQueue = cX.callQueue || [];
+	cX.callQueue.push(['insertAdSpace', {
+		adSpaceId: '00000000010c2ded',
+		insertBeforeElementId: 'panTextAds_662x260',
+		adUnitWidth: 662, adUnitHeight: 260,
+		k: 'panbackfill',
+		initialHorizontalAdUnits: 1, initialVerticalAdUnits: 1,
+		renderTemplateUrl: 'http://cdn.cxpublic.com/PAN_Text_662x260.html'
+	} ]);
+</script> 
+<script type="text/javascript">
+	(function() { try { var scriptEl = document.createElement('script'); scriptEl.type = 'text/javascript'; scriptEl.async = 'async';
+	scriptEl.src = ('https:' == document.location.protocol) ? 'https://scdn.cxense.com/cx.js' : 'http://cdn.cxense.com/cx.js';
+	var targetEl = document.getElementsByTagName('script')[0]; targetEl.parentNode.insertBefore(scriptEl, targetEl); } catch (e) {}; }());
+</script>
+<!-- PAN Text Ads 662x260 end -->
+
+
+
+						<div class="publi-bottom publi-bottom-new clearfix">
+							<ul>
+								<li>
+									<script>
+										publiMJX('boton1_300x90',1);
+									</script>
+								</li>
+								<li class="fin">
+									<script>
+										publiMJX('boton2_300x90',1);
+									</script>
+								</li>
+							</ul>
+						</div>
+					    <span class="contenido_form_articulo" id="form-articulo-bottom">
+            			<div class="art_barra_AB clearfix">
+  <div class="art_compartir clearfix">
+    <div class="art_social clearfix"> <span class="art_s_TW"><a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-url="http://www.laverdad.es/murcia/rc/20130404/espana/catorce-indicios-contra-infanta-201304040804.html" data-via="laverdad_es" data-lang="es">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></span> <span class="art_s_GO">
+      <div id="plusone-div2"></div>
+      </span> <span class="art_s_TU"><a href="http://www.tuenti.com/share?url=http://www.laverdad.es/murcia/rc/20130404/espana/catorce-indicios-contra-infanta-201304040804.html" target="_blank">En Tuenti</a></span> <span class="art_s_FB"><script language="javascript">document.write('<iframe scrolling="no" frameborder="0" allowtransparency="true" style="border: medium none; overflow: hidden; width: 120px; height: 21px;" src="http://www.facebook.com/plugins/like.php?href=' + window.location.href + '&amp;layout=button_count&amp;show_faces=true&amp;width=120&amp;action=recommend&amp;font=arial&amp;colorscheme=light&amp;height=21"></iframe>')</script></span></div>
+  </div>
+  <ul class="art_herramientas">
+    <li><a rel="nofollow" href="javascript:window.print()" class="ah_imprimir">Imprimir</a></li>
+    <li><a rel="nofollow" href="#frm_art_envia" class="ah_enviar">Enviar</a></li>
+    <li><a rel="nofollow" href="#frm_art_rectifica" class="ah_rectificar">Rectificar</a></li>
+  </ul>
+  <div class="art_ch5"><a href="javascript:void(0);" onclick="window.location.href='//'+window.location.host+window.location.pathname+'#opina'" class="anclaopina"><span class="art_ch5_comentarios" id="num-comentarios">0</span> Comentarios</a> |</div>
+  <div class="contenidoestrellas">
+    <div class="starvotos">
+      <div class="starvotos"> <span id="votacion"> <a rel="nofollow" href="javascript:void(0);" class="vt1">1
+        voto</a><a rel="nofollow" href="javascript:void(0);" class="vt2">2
+        votos</a> <a rel="nofollow" href="javascript:void(0);" class="vt3">3
+        votos</a><a rel="nofollow" href="javascript:void(0);" class="vt4">4
+        votos</a><a rel="nofollow" href="javascript:void(0);" class="vt5">5
+        votos</a></span></div>
+    </div>
+    <span class="numero_votos" id="numvotos-votos">0 votos</span> </div>
+  
+</div>
+<script language="javascript" src="/js/rd.articulo.herramientas.js"></script>
+
+            			</span>
+            			
+					    <div id="mensaje-comentarios-no-registrados"></div>
+
+<script type="text/javascript" src="http://comunidad.laverdad.es/js/jquery.validate.js"></script>
+<script type="text/javascript">
+
+// para validar manualemente el captcha, este metodo captchain, se enlaza mediante el class captchain del input text del captcha
+$.validator.addMethod('captchain', function(value, element){
+	//hacer llamada ajax
+	$.ajax({
+		url: "http://comunidad.laverdad.es/apoyo/comprobar_recaptcha.php?callback=?",
+		type: "get",
+		dataType: "jsonp",
+		data: {
+			recaptcha_response_field: function() { return $("#recaptcha_response_field").val(); },
+			recaptcha_challenge_field: function() { return $("#recaptcha_challenge_field").val(); }
+		},
+		success: function(response) {
+			$('#recaptcha_response_field').nextAll('label.registro_error').remove();
+			if (response===false)
+			{
+				showRecaptcha('recaptcha_widget');
+				$('#recaptcha_response_field').after('<label for="recaptcha_response_field" class="registro_error" style="display: inline;">El texto de las imágenes no coincide.</label>');
+			}
+		}
+	});
+	return "pending";
+}, 'Error');
+
+function validaFormRegistro()
+{
+	//console.log('poniendo validacion');
+	$("#registro").validate({
+		onkeyup: false,
+		messages:{
+			registro_email_usuario:{
+				remote: 'Email en uso',
+				email:'No es una dirección de email válida',
+				maxlength: $.validator.format("Máximo {0} caracteres") 
+			},
+			registro_password:{
+				minlength: $.validator.format("Mínimo {0} caracteres") 
+			},
+			registro_confirmar_condiciones_legales: {
+				required: 'Debes aceptar las condiciones legales'
+			},
+			registro_publi: {
+				required: 'Debes indicar si recibir comunicaciones comerciales'
+			}
+		},
+		rules:
+		{
+			registro_password: {
+				minlength: 4,
+				required: true
+			},
+			registro_confirmar_password:
+			{
+				equalTo: "#register_password",
+				required: true
+			},
+			registro_email_usuario: {
+				maxlength: 250, 
+				email:true,
+				required: true,
+				remote: 'http://comunidad.laverdad.es/apoyo/comprobar_disponibilidad.php?callback=?'
+			},
+			recaptcha_response_field: {
+				required: true
+			},
+			registro_confirmar_condiciones_legales: {
+				required: true
+			},
+			registro_publi: {
+				required: true
+			}
+		},
+		errorClass: "registro_error",
+		errorPlacement: function(error,element)
+		{	
+			error.insertAfter(element);
+		},
+		submitHandler: function(form)
+		{
+			$('#recaptcha_response_field,#recaptcha_challenge_field').remove();
+			form.submit();
+		}
+	});
+}
+
+</script>
+
+<ascript src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js" type="text/javascript"></ascript>
+<script type="text/javascript" src="/js/jquery.ezmark.min.js"></script>
+
+
+<script src="http://api.recaptcha.net/js/recaptcha_ajax.js" type="text/javascript"></script>
+	<script type="text/javascript">
+		function showRecaptcha(element) {
+			Recaptcha.create("6LdkvAsAAAAAAKTTeP283uBuG2iWULzSs7tP4wSF", element, {
+				lang: "es",
+				theme : 'custom',
+				custom_theme_widget: 'recaptcha_widget'});
+	    }		
+	</script>
+
+
+
+<div class="form_art form_opina" id="opina"></div>
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+		// The following are highly recommended additional parameters. Remove the slashes in front to use.
+    var disqus_identifier = '30.5.318515181003';
+		var disqus_title = escape(document.title);
+		var disqus_url = window.location.href;
+		
+		$(document).ready(function() {
+			COMENTARIOS_DISQUS.obtenerComentarios();
+			COMENTARIOS_DISQUS.obtenerNumeroComentarios();
+		});
+</script>
+							<div class="separacion"></div>
+					    <div id="publi1_noxtrum"></div>
+					</div>
+					<div class="colC_articulo">
+						<div class="colC_articulo_contenido">
+						<div class="link-app3">
+<div class="lnk_encab">Noticias relacionadas</div>
+<div class="related-link">
+<div class="related-link-epigrafe">Perfil:</div>
+<h2 class="related-link-h">
+<a style="font-weight:" href="/murcia/rc/20130403/espana/perfil-cristina-borbon-201304031727.html">La infanta que quería vivir su vida (Por A. R. Aldeyturriaga)</a>
+</h2>
+</div>
+<div class="related-link">
+<div class="related-link-epigrafe">
+</div>
+<h2 class="related-link-h">
+<a style="font-weight:" href="/murcia/rc/20130403/espana/infanta-cristina-primer-miembro-201304031731.html">Primer miembro real europeo que es imputado (Por A. R. Aldeyturriaga)</a>
+</h2>
+</div>
+<div class="related-link">
+<div class="related-link-epigrafe">
+</div>
+<h2 class="related-link-h">
+<a style="font-weight:" href="/murcia/rc/20130403/espana/abogado-urdangarin-acude-domicilio-201304032117.html">El abogado de Urdangarin acude al domicilio de la infanta</a>
+</h2>
+</div>
+<div class="related-link">
+<div class="related-link-epigrafe">Análisis:</div>
+<h2 class="related-link-h">
+<a style="font-weight:" href="/murcia/rc/20130403/espana/analisis-infanta-papel-201304031613.html">La Corona, sometida al imperio de la ley (Por A.Papell)</a>
+</h2>
+</div>
+<div class="related-link">
+<div class="related-link-epigrafe">Pdf:</div>
+<h2 class="related-link-h">
+<a style="font-weight:" href="/apoyos/documentos/auto-imputacion-infanta.pdf" target="_blank">Auto del juez Castro</a>
+</h2>
+</div>
+<div class="related-link">
+<div class="related-link-epigrafe">
+</div>
+<h2 class="related-link-h">
+<a style="font-weight:" href="/murcia/rc/20130403/espana/medios-internacionales-imputacion-infanta-201304031920.html" target="_blank">La noticia, en la prensa internacional</a>
+</h2>
+</div>
+<div class="related-link">
+<div class="related-link-epigrafe">Reacciones:</div>
+<h2 class="related-link-h">
+<a style="font-weight:" href="/murcia/rc/20130403/espana/reaccion-casa-201304031450.html">La Casa del Rey expresa su «sorpresa» por el «cambio de criterio» del juez</a>
+</h2>
+</div>
+<div class="related-link">
+<div class="related-link-epigrafe">Reacciones:</div>
+<h2 class="related-link-h">
+<a style="font-weight:" href="/murcia/rc/20130403/espana/vale-tarde-nunca-201304031422.html">Rubalcaba: «La Justicia es igual para todo el mundo»</a>
+</h2>
+</div>
+<div class="related-link">
+<div class="related-link-epigrafe">11/03/13:</div>
+<h2 class="related-link-h">
+<a style="font-weight:" href="/murcia/rc/20130311/espana/infanta-noos-201303111926.html">La infanta no aparece en las comunicaciones de Nóos</a>
+</h2>
+</div>
+<div class="related-link">
+<div class="related-link-epigrafe">04/03/13:</div>
+<h2 class="related-link-h">
+<a style="font-weight:" href="/murcia/rc/20130304/espana/urdangarin-interrogatorio-castro-201303041443.html">«Mi mujer no hizo absolutamente nada en Nóos»</a>
+</h2>
+</div>
+<div class="related-link">
+<div class="related-link-epigrafe">03/04/13:</div>
+<h2 class="related-link-h">
+<a style="font-weight:" href="/murcia/rc/20130403/espana/juez-ordena-investigar-duques-201304031425.html">El juez ordena investigar si los duques de Palma se acogieron a la amnistía</a>
+</h2>
+</div>
+</div>
+</div>
+      					<!-- dc: publicidad fija en columna C -->
+      					 <div class="robapaginas">
+								<div id="publi1_Top5">
+	<script language="JavaScript">
+		publiMJXOCultaDivPubli('publi1_Top5','boton_loc_superior',1);
+	</script>
+</div>
+</div>
+					      	
+					      	<div class="robapaginas">
+								<div id="publi1_Top6">
+	<script language="JavaScript">
+		publiMJXOCultaDivPubli('publi1_Top6','recuerdo_corti_layer_nal',1);
+	</script>
+</div>
+</div>      
+							<div class="robapaginas">
+								<div id="publi1_Top7">
+	<script language="JavaScript">
+		publiMJXOCultaDivPubli('publi1_Top7','robapaginas',1);
+	</script>
+</div>
+</div>
+					      	
+<link href="/includes/manuales/modulo-noticias-portada/css/carruselNoticias.css" rel="stylesheet" type="text/css"></link>
+<script type="text/javascript" src="/includes/manuales/modulo-noticias-portada/js/jquery.supremation.min.js"></script>
+
+<div class="carruselNoticias">
+	<h4 class="ahora-portada">Ahora en portada... <a href="http://www.laverdad.es" class="medio-laverdad">laverdad.es</a></h4>
+	<h6 class="visita"><a href="http://www.laverdad.es" title="Portada de laverdad.es">Visitar portada</a></h6> 
+	<div class="jcarousel-container jcarousel-container-vertical">
+		<div class="jcarousel-clip jcarousel-clip-vertical">
+			<ul id="mycarousel" class="jcarousel-list jcarousel-list-vertical" style="overflow: hidden; position: relative; top: 0px; margin: 0px; padding: 0px; left: 0px;">
+														
+											<li class="jcarousel-item jcarousel-item-vertical" style="float: left; list-style: none outside none;">
+										
+																	<p class="seccion">Lorca</p>
+						<h5 class="titular-modulo"><a href="" title="La Paca registra un terremoto de 4,3 grados de madrugada">La Paca registra un terremoto de 4,3 grados de madrugada</a></h5>
+										
+											</li>
+										
+														
+											<li class="jcarousel-item jcarousel-item-vertical" style="float: left; list-style: none outside none;">
+										
+											<div class="bloque-noticias">
+							<div style="float:left; width:49%">
+								<p class="seccion">'caso nóos'</p>
+								<h5 class="titular-modulo"><a href="" title="La 'normalidad' de la infanta">La 'normalidad' de la infanta</a></h5>
+							</div>
+										
+										
+														
+										
+												<div style="float:right; width:49%">
+								<p class="seccion">AGUA</p>
+								<h5 class="titular-modulo"><a href="" title="El 'Fuensanta' rebosa">El 'Fuensanta' rebosa</a></h5>
+							</div>
+						</div>
+										
+											</li>
+										
+														
+											<li class="jcarousel-item jcarousel-item-vertical" style="float: left; list-style: none outside none;">
+										
+											<div class="bloque-noticias">
+							<div style="float:left; width:49%">
+								<p class="seccion">obituario</p>
+								<h5 class="titular-modulo"><a href="" title="Fallece a los 83 años Mariví Bilbao">Fallece a los 83 años Mariví Bilbao</a></h5>
+							</div>
+										
+										
+														
+										
+												<div style="float:right; width:49%">
+								<p class="seccion">música | single</p>
+								<h5 class="titular-modulo"><a href="" title="Selena Gomez avanza la estética de 'Come & Get It'">Selena Gomez avanza la estética de 'Come & Get It'</a></h5>
+							</div>
+						</div>
+										
+											</li>
+										
+														
+											<li class="jcarousel-item jcarousel-item-vertical" style="float: left; list-style: none outside none;">
+										
+																	<p class="seccion">representaciones en madrid</p>
+						<h5 class="titular-modulo"><a href="" title="'Las chicas del calendario' desembarcan en los Teatros del Canal">'Las chicas del calendario' desembarcan en los Teatros del Canal</a></h5>
+										
+											</li>
+										
+														
+											<li class="jcarousel-item jcarousel-item-vertical" style="float: left; list-style: none outside none;">
+										
+											<div class="bloque-noticias">
+							<div style="float:left; width:49%">
+								<p class="seccion">en la consulta</p>
+								<h5 class="titular-modulo"><a href="" title="Mi médico salvó mi vida ">Mi médico salvó mi vida </a></h5>
+							</div>
+										
+										
+														
+										
+												<div style="float:right; width:49%">
+								<p class="seccion">empresas</p>
+								<h5 class="titular-modulo"><a href="" title="Llegué, innové y vencí">Llegué, innové y vencí</a></h5>
+							</div>
+						</div>
+										
+											</li>
+										
+														
+											<li class="jcarousel-item jcarousel-item-vertical" style="float: left; list-style: none outside none;">
+										
+											<div class="bloque-noticias">
+							<div style="float:left; width:49%">
+								<p class="seccion">historia</p>
+								<h5 class="titular-modulo"><a href="" title="Vendida una reliquia con sangre de Luis XVI por 19.000 euros">Vendida una reliquia con sangre de Luis XVI por 19.000 euros</a></h5>
+							</div>
+										
+										
+														
+										
+												<div style="float:right; width:49%">
+								<p class="seccion">fútbol | barcelona</p>
+								<h5 class="titular-modulo"><a href="" title="Fitness Club Barcelona ">Fitness Club Barcelona
+</a></h5>
+							</div>
+						</div>
+										
+											</li>
+										
+														
+											<li class="jcarousel-item jcarousel-item-vertical" style="float: left; list-style: none outside none;">
+										
+																	<p class="seccion">VIDEOANÁLISIS</p>
+						<h5 class="titular-modulo"><a href="" title="Hipotecas">Hipotecas</a></h5>
+										
+											</li>
+										
+														
+											<li class="jcarousel-item jcarousel-item-vertical" style="float: left; list-style: none outside none;">
+										
+											<div class="bloque-noticias">
+							<div style="float:left; width:49%">
+								<p class="seccion">REGIÓN MURCIA</p>
+								<h5 class="titular-modulo"><a href="" title="Bernal recibe la reprobación de todos los grupos por no hacer públicos sus bienes">Bernal recibe la reprobación de todos los grupos por no hacer públicos sus bienes</a></h5>
+							</div>
+										
+										
+														
+										
+												<div style="float:right; width:49%">
+								<p class="seccion">TENSIÓN EN LA PENÍNSULA COREANA</p>
+								<h5 class="titular-modulo"><a href="" title="Corea del Norte dice estar lista para atacar EE UU">Corea del Norte dice estar lista para atacar EE UU</a></h5>
+							</div>
+						</div>
+										
+											</li>
+										
+														
+											<li class="jcarousel-item jcarousel-item-vertical" style="float: left; list-style: none outside none;">
+										
+											<div class="bloque-noticias">
+							<div style="float:left; width:49%">
+								<p class="seccion">CIUDAD DEL VATICANO</p>
+								<h5 class="titular-modulo"><a href="" title="El Papa Francisco arrodillado ante la tumba de Juan Pablo II">El Papa Francisco arrodillado ante la tumba de Juan Pablo II</a></h5>
+							</div>
+										
+										
+														
+										
+												<div style="float:right; width:49%">
+								<p class="seccion">MURCIA</p>
+								<h5 class="titular-modulo"><a href="" title="«Me cogieron del cuello y ví cómo inflaban a golpes a mi vecino en la furgoneta»">«Me cogieron del cuello y ví cómo inflaban a golpes a mi vecino en la furgoneta»</a></h5>
+							</div>
+						</div>
+										
+											</li>
+										
+												</ul>
+		</div>
+		<div class="jcarousel-prev jcarousel-prev-vertical"></div>
+		<div class="jcarousel-next jcarousel-next-vertical"></div>
+	</div>
+	<div class="bandabaja"><a href="http://www.laverdad.es" title="Portada de laverdad.es">Visitar portada</a></div>
+</div>
+
+<script type="text/javascript">
+	
+		$(document).ready(function() {
+			var enlaces = new Array();
+			
+										enlaces[0] = "http://www.laverdad.es?utm_source=" +  document.URL + "&utm_medium=modulo-links&utm_campaign=modulo-links-home#laverdad-30.5.31918500";
+										enlaces[1] = "http://www.laverdad.es?utm_source=" +  document.URL + "&utm_medium=modulo-links&utm_campaign=modulo-links-home#laverdad-30.5.39175240";
+										enlaces[2] = "http://www.laverdad.es?utm_source=" +  document.URL + "&utm_medium=modulo-links&utm_campaign=modulo-links-home#laverdad-30.5.27042080";
+										enlaces[3] = "http://www.laverdad.es?utm_source=" +  document.URL + "&utm_medium=modulo-links&utm_campaign=modulo-links-home#laverdad-30.5.7592273";
+										enlaces[4] = "http://www.laverdad.es?utm_source=" +  document.URL + "&utm_medium=modulo-links&utm_campaign=modulo-links-home#laverdad-30.5.27776668";
+										enlaces[5] = "http://www.laverdad.es?utm_source=" +  document.URL + "&utm_medium=modulo-links&utm_campaign=modulo-links-home#laverdad-30.5.39491022";
+										enlaces[6] = "http://www.laverdad.es?utm_source=" +  document.URL + "&utm_medium=modulo-links&utm_campaign=modulo-links-home#laverdad-30.4.4292244073";
+										enlaces[7] = "http://www.laverdad.es?utm_source=" +  document.URL + "&utm_medium=modulo-links&utm_campaign=modulo-links-home#laverdad-30.4.4247137002";
+										enlaces[8] = "http://www.laverdad.es?utm_source=" +  document.URL + "&utm_medium=modulo-links&utm_campaign=modulo-links-home#laverdad-30.5.26476870";
+										enlaces[9] = "http://www.laverdad.es?utm_source=" +  document.URL + "&utm_medium=modulo-links&utm_campaign=modulo-links-home#laverdad-30.5.29120761";
+										enlaces[10] = "http://www.laverdad.es?utm_source=" +  document.URL + "&utm_medium=modulo-links&utm_campaign=modulo-links-home#laverdad-30.5.25969301";
+										enlaces[11] = "http://www.laverdad.es?utm_source=" +  document.URL + "&utm_medium=modulo-links&utm_campaign=modulo-links-home#laverdad-30.5.27037264";
+										enlaces[12] = "http://www.laverdad.es?utm_source=" +  document.URL + "&utm_medium=modulo-links&utm_campaign=modulo-links-home#laverdad-30.5.28414813";
+										enlaces[13] = "http://www.laverdad.es?utm_source=" +  document.URL + "&utm_medium=modulo-links&utm_campaign=modulo-links-home#laverdad-30.5.15377231";
+										enlaces[14] = "http://www.laverdad.es?utm_source=" +  document.URL + "&utm_medium=modulo-links&utm_campaign=modulo-links-home#laverdad-30.5.27077441";
+									
+			_gaq.push(['_trackEvent', 'Modulo-links', 'Impresion', document.URL]);
+			
+			$.each($("#mycarousel li.jcarousel-item a"), function(key, value) {
+				$(this).attr('href', enlaces[key]);
+			});
+			
+			var sum = 0;
+			$.each($("#mycarousel li.jcarousel-item"), function(key, value) {
+				sum += $(this).height();
+			});
+			sum = sum - 115;
+			
+			//alert(sum);
+			
+			$('#mycarousel').supremate({
+				top: -sum
+			}, 50, 'linear', function() {
+				$('#mycarousel').supremate({
+					top: 0
+				}, 50, 'linear', function() {
+				});
+			});
+			
+			$(".carruselNoticias div.jcarousel-next").hover(
+				function(){
+					$('#mycarousel').stop(true);
+					$('#mycarousel').supremate({
+						top: -sum
+					}, 100, 'linear', function() {
+					});
+				},
+				function () {
+					$('#mycarousel').stop(true);
+				}
+			);
+			
+			$(".carruselNoticias div.jcarousel-prev").hover(
+				function(){
+					$('#mycarousel').stop(true);
+					$('#mycarousel').supremate({
+						top: 0
+					}, 100, 'linear', function() {
+					});
+				},
+				function () {
+					$('#mycarousel').stop(true);
+				}
+			);
+			
+			$('#mycarousel').hover(function(){
+				$("#mycarousel").stop(true);
+			});
+		}); 
+	
+</script>
+
+					      	 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Include from: /la_verdad_2009/murcia/mas-actualidad/espana/articulo-zona-C.dwp -->
+
+	
+	
+		
+		
+			
+
+
+
+
+	
+	
+	
+		
+		
+		
+		
+			 
+				
+								
+				
+				
+				
+				
+				
+				
+			<div class="robapaginas">
+<div id="publi1_7042252a-5ae9-11e0-892f-42c1d835ceaf-0"><script language="JavaScript">publiMJX("boton_superior",1);</script></div>
+</div>
+ 
+		
+	
+
+	
+	
+	
+		
+		
+		
+		
+			 
+				
+								
+				
+				
+				
+				
+				
+				
+			<div class="robapaginas">
+<div id="publi1_84407e30-5eb1-11df-b78c-5d29e4987174-0"><script language="JavaScript">publiMJX("boton_nal1",1);</script></div>
+</div>
+ 
+		
+	
+
+	
+	
+	
+		
+		
+		
+		
+			 
+				
+								
+				
+				
+				
+				
+				
+				
+			<div class="mod_lomas">
+<div id="masleido" class="bloque_lomas">
+<div class="blm_header">
+<a href="#" class="boton_despliega">pliega/despliega</a>Lo más visto en españa</div>
+<div class="blm_content">
+	<h3 class="blm_titular"> 
+		<a title="Quería ser una chica normal" href="http://www.laverdad.es/murcia/v/20130404/espana/queria-chica-normal-20130404.html">Quería ser una chica normal...</a>
+	</h3>
+
+	<h3 class="blm_titular"> 
+		<a title="El juez imputa a la hija del Rey como cómplice de los delitos de su marido" href="http://www.laverdad.es/murcia/v/20130404/espana/juez-imputa-hija-como-20130404.html">El juez imputa a la hija del Rey como c...</a>
+	</h3>
+
+	<h3 class="blm_titular"> 
+		<a title="Bárcenas declarará por injurias en una querella de Ana Palacio" href="http://www.laverdad.es/murcia/rc/20130404/espana/barcenas-declarara-injurias-querella-201304040321.html">Bárcenas declarará por injurias en una ...</a>
+	</h3>
+
+	<h3 class="blm_titular"> 
+		<a title="La Policía investiga un vídeo sexual con menores" href="http://www.laverdad.es/murcia/v/20130404/espana/policia-investiga-video-sexual-20130404.html">La Policía investiga un vídeo sexual co...</a>
+	</h3>
+
+	<h3 class="blm_titular"> 
+		<a title="La Fiscalía recurrirá la citación de la Infanta" href="http://www.laverdad.es/murcia/v/20130404/espana/fiscalia-recurrira-citacion-infanta-20130404.html">La Fiscalía recurrirá la citación de la...</a>
+	</h3>
+
+	<h3 class="blm_titular"> 
+		<a title="«España evitó el rescate en dos ocasiones durante 2012»" href="http://www.laverdad.es/murcia/v/20130404/espana/espana-evito-rescate-ocasiones-20130404.html">«España evitó el rescate en dos ocasion...</a>
+	</h3>
+
+	<h3 class="blm_titular"> 
+		<a title="La 'normalidad' de la infanta" href="http://www.laverdad.es/murcia/rc/20130404/espana/catorce-indicios-contra-infanta-201304040804.html">La 'normalidad' de la infanta...</a>
+	</h3>
+
+	<h3 class="blm_titular"> 
+		<a title="Un jurista al que no le tiembla el pulso" href="http://www.laverdad.es/murcia/v/20130404/espana/jurista-tiembla-pulso-20130404.html">Un jurista al que no le tiembla el puls...</a>
+	</h3>
+
+	<h3 class="blm_titular"> 
+		<a title="Zarzuela, sorprendida por la decisión judicial" href="http://www.laverdad.es/murcia/v/20130404/espana/zarzuela-sorprendida-decision-judicial-20130404.html">Zarzuela, sorprendida por la decisión j...</a>
+	</h3>
+
+	<h3 class="blm_titular"> 
+		<a title="No es un caso único en las monarquías europeas" href="http://www.laverdad.es/murcia/v/20130404/espana/caso-unico-monarquias-europeas-20130404.html">No es un caso único en las monarquías e...</a>
+	</h3>
+
+	<h3 class="blm_titular"> 
+		<a title="Un año para el olvido" href="http://www.laverdad.es/murcia/v/20130404/espana/para-olvido-20130404.html">Un año para el olvido...</a>
+	</h3>
+
+	<h3 class="blm_titular"> 
+		<a title="Hipotecas" href="http://www.laverdad.es/murcia/rc/20130404/espana/hipotecas-201304040011.html">Hipotecas...</a>
+	</h3>
+
+</div>
+</div>
+<div id="mascomentado" class="bloque_lomas">
+<div class="blm_header">
+<a href="#" class="boton_despliega">pliega/despliega</a>Lo más comentado </div>
+<div class="blm_content"><div class="blm_content"><h3 class="blm_titular"><a href="http://www.laverdad.es/murcia/v/20130404/region/valcarcel-ahora-llaman-hijo-20130404.html" title="Valcárcel: «Ahora me llaman hijo de puta por tener solo 122 euros»">Valcárcel: «Ahora me llaman hijo de puta por tener solo 122 euros»</a></h3>
+<h3 class="blm_titular"><a href="http://www.laverdad.es/murcia/v/20130404/region/bernal-recibe-reprobacion-todos-20130404.html" title="Bernal recibe la reprobación de todos los grupos por no hacer públicos sus bienes">Bernal recibe la reprobación de todos los grupos por no hacer públicos sus bienes</a></h3>
+<h3 class="blm_titular"><a href="http://www.laverdad.es/murcia/v/20130404/region/cogieron-cuello-como-inflaban-20130404.html" title="«Me cogieron del cuello y ví cómo inflaban a golpes a mi vecino en la furgoneta»">«Me cogieron del cuello y ví cómo inflaban a golpes a mi vecino en la furgoneta»</a></h3>
+<h3 class="blm_titular"><a href="http://m.laverdad.es/murcia/portada/la-infanta-cristina-imputada/20130403/3056466794/gl-d?permalink=http%3A//www.laverdad.es/murcia/20130403/espana/juez-castro-imputa-infanta-201304031337.html" title="
+    	La infanta Cristina, imputada - portada - m.		">
+    	La infanta Cristina, imputada - portada - m.		</a></h3>
+<h3 class="blm_titular"><a href="http://www.laverdad.es/murcia/20130404/local/lorca/paca-registra-terremoto-grados-201304040734.html" title="La Paca registra un terremoto de 4,3 grados de madrugada">La Paca registra un terremoto de 4,3 grados de madrugada</a></h3>
+</div>
+</div>
+</div>
+<div id="masultimos" class="bloque_lomas">
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	<div class="blm_header" id="loultimo">
+		<a class="boton_despliega" href="#">pliega/despliega</a>
+		Lo último de La Verdad
+	</div>
+	<div class="blm_content">
+		
+			
+					
+					<h4 class="blm_titular">
+					
+						
+					<a href="/murcia/rc/20130404/mundo/inundaciones-provocan-muerte-menos-201304041045.html" xmlns:gmt="http://www.jclark.com/xt/java/FormatGMT">Las inundaciones provocan la muerte de al... </a>
+<div class="clear" xmlns:gmt="http://www.jclark.com/xt/java/FormatGMT">
+</div>
+
+						
+					</h4>
+			
+					
+					<h4 class="blm_titular">
+					
+						
+					<a href="/murcia/rc/20130404/espana/infanta-cristina-acude-trabajo-201304041019.html" xmlns:gmt="http://www.jclark.com/xt/java/FormatGMT">La 'normalidad' de la infanta</a>
+<div class="clear" xmlns:gmt="http://www.jclark.com/xt/java/FormatGMT">
+</div>
+
+						
+					</h4>
+			
+					
+					<h4 class="blm_titular">
+					
+						
+					<a href="/murcia/rc/20130404/economia/pastor-insiste-gobierno-mantendra-201304041036.html" xmlns:gmt="http://www.jclark.com/xt/java/FormatGMT">Pastor insiste en que el Gobierno... </a>
+<div class="clear" xmlns:gmt="http://www.jclark.com/xt/java/FormatGMT">
+</div>
+
+						
+					</h4>
+			
+					
+					<h4 class="blm_titular">
+					
+						
+					<a href="/murcia/rc/20130404/cultura/chicas-calendario-desembarcan-teatros-201304032339.html" xmlns:gmt="http://www.jclark.com/xt/java/FormatGMT">'Las chicas del calendario' desembarcan... </a>
+<div class="clear" xmlns:gmt="http://www.jclark.com/xt/java/FormatGMT">
+</div>
+
+						
+					</h4>
+			
+					
+					<h4 class="blm_titular">
+					
+						
+					<a href="/murcia/20130404/deportes/futbol/torrevieja-201304041036.html" xmlns:gmt="http://www.jclark.com/xt/java/FormatGMT">El UCAM-Guadalupe, campeón juvenil en la... </a>
+<div class="clear" xmlns:gmt="http://www.jclark.com/xt/java/FormatGMT">
+</div>
+
+						
+					</h4>
+			
+		 	
+
+   </div> 
+
+</div>
+<div id="noticiasminuto" class="bloque_lomas">
+<div class="blm_header">
+<a href="#" class="boton_despliega">pliega/despliega</a>Noticias al minuto (agencias)</div>
+<div class="blm_content"><div class="blm_content">
+<h4 class="blm_titular">
+<a href="http://www.laverdad.es/agencias/20130404/mas-actualidad/sociedad/distribucion-farmaceutica-advierte-esta-al_201304041051.html" title="La distribución farmacéutica advierte de que está &quot;al borde de la viabilidad&quot;">La distribución farmacéutica advierte de</a>
+</h4>
+<h4 class="blm_titular">
+<a href="http://www.laverdad.es/agencias/20130404/economia/presidente-iberdrola-afirma-2014-crecera_201304041051.html" title="El presidente de Iberdrola afirma que en 2014 se crecerá y se creará empleo">El presidente de Iberdrola afirma que en</a>
+</h4>
+<h4 class="blm_titular">
+<a href="http://www.laverdad.es/agencias/20130404/economia/fomento-estudia-crear-sociedad-publica_201304041049.html" title="Fomento estudia crear una sociedad pública para asumir autopistas en quiebra">Fomento estudia crear una sociedad</a>
+</h4>
+<h4 class="blm_titular">
+<a href="http://www.laverdad.es/agencias/20130404/economia/avalara-unos-presupuestos-tragicos-deficit_201304041049.html" title="ERC no avalará unos presupuestos &quot;trágicos&quot; con un déficit del 1,5 %">ERC no avalará unos presupuestos</a>
+</h4>
+<h4 class="blm_titular">
+<a href="http://www.laverdad.es/agencias/20130404/mas-actualidad/sociedad/rebaja-grados-escala-richter-magnitud_201304041045.html" title="IGN rebaja a 3,7 grados en escala Richter la magnitud del terremoto de Lorca">IGN rebaja a 3,7 grados en escala</a>
+</h4>
+<h4 class="blm_titular">
+<a href="http://www.laverdad.es/agencias/20130404/mas-actualidad/espana/pastor-muestra-lealtad-corona-evita_201304041045.html" title="Pastor muestra lealtad a la corona y evita opinar sobre decisiones judiciales">Pastor muestra lealtad a la corona y</a>
+</h4>
+<h4 class="blm_titular">
+<a href="http://www.laverdad.es/agencias/20130404/mas-actualidad/mundo/sudafrica-retira-fuerzas-desplegadas-republica_201304041045.html" title="Sudáfrica retira sus fuerzas desplegadas en la República Centroafricana">Sudáfrica retira sus fuerzas desplegadas</a>
+</h4>
+<h4 class="blm_titular">
+<a href="http://www.laverdad.es/agencias/20130404/mas-actualidad/mundo/rusos-aspira-democracia-tipo-europeo_201304041045.html" title="El 38 % de los rusos aspira a una democracia de tipo europeo, según expertos">El 38 % de los rusos aspira a una</a>
+</h4>
+<h4 class="blm_titular">
+<a href="http://www.laverdad.es/agencias/20130404/mas-actualidad/mundo/condena-decision-corea-norte-reabrir_201304041041.html" title="La UE condena la decisión de Corea del Norte de reabrir su principal reactor">La UE condena la decisión de Corea del</a>
+</h4>
+<h4 class="blm_titular">
+<a href="http://www.laverdad.es/agencias/20130404/economia/patronal-sindicatos-firman-convenio-colectivo_201304041041.html" title="Patronal y sindicatos firman el V convenio colectivo de asesores fiscales">Patronal y sindicatos firman el V</a>
+</h4>
+<h4 class="blm_titular">
+<a href="http://www.laverdad.es/agencias/20130404/economia/grupo-berge-aumento-ventas-automoviles_201304041035.html" title="El grupo Bergé aumentó un 11 % sus ventas de automóviles">El grupo Bergé aumentó un 11 % sus</a>
+</h4>
+<h4 class="blm_titular">
+<a href="http://www.laverdad.es/agencias/20130404/mas-actualidad/sociedad/aragon-castilla-la-mancha-alcanzan-acuerdo_201304041033.html" title="Aragón y Castilla-La Mancha alcanzan un acuerdo sobre atención sanitaria">Aragón y Castilla-La Mancha alcanzan un</a>
+</h4>
+</div>
+
+<div class="masinfo">
+<a href="http://www.laverdad.es/agencias/">ver todas las últimas noticias [+]</a>
+</div>
+</div>
+</div>
+</div>
+<script language="javascript">
+					MQT.activa_lomas("masleido");
+				</script><script type="text/javascript">
+			var idPort = '';
+			if( idPort == 'uh-home' ) {
+				$("#loultimo").html('');
+				$("#loultimo").append('<a class="boton_despliega" href="#">pliega/despliega</a>');
+				$("#loultimo").append("Lo Ultimo");
+			}
+		</script>
+ 
+		
+	
+
+	
+	
+	
+		
+		
+		
+		
+			 
+				
+								
+				
+				
+				
+				
+				
+				
+			<!--<script type="text/javascript" src="http://www.laverdad.es/js/ctv/swfobject_publi.js"></script>-->
+<script type="text/javascript" src="http://www.laverdad.es/includes/manuales/multimedia/funciones.js"></script>
+<script type="text/javascript" language="javascript">
+	if (typeof WebTV_getEdicionLocal == "undefined") document.write ('<scr' + 'ipt type="text/javascript" src="http://www.laverdad.es/includes/manuales/videos/js/dtsUtilidadesWebTV.js"></scr' + 'ipt>');
+	
+	function compruebaSiIncluirMetas() {
+		if (location.href.indexOf('incluirMetas=si') != -1) {
+			var codigoHTMLMetas = '<link rel="stylesheet" href="http://www.laverdad.es/css/ppll.css" type="text/css" media="all">';
+			codigoHTMLMetas += '<link rel="stylesheet" href="http://www.laverdad.es/css/barranavegacion.css" type="text/css" media="all">';
+			codigoHTMLMetas += '<link rel="stylesheet" href="http://www.laverdad.es/css/rd.noticias.css" type="text/css" media="all">';
+			document.write (codigoHTMLMetas);
+			if (typeof jQuery == "undefined") document.write ('<scr' + 'ipt type="text/javascript" src="http://www.laverdad.es/js/rd.jquery.js"></scr' + 'ipt>');
+			if (typeof loadMultimedia == "undefined") document.write ('<scr' + 'ipt type="text/javascript" src="http://www.laverdad.es/js/ctv/swfobject_publi.js"></scr' + 'ipt>');
+		}
+	}
+	
+	compruebaSiIncluirMetas();
+</script>
+
+<script>
+	// Incluimos el JS 'swfobject_publi.js' en caso de que no este cargado ya (comprobamos si esta definda la function 'getEmbedVideo')
+	//if (typeof getEmbedVideo == "undefined") document.write ('<scr' + 'ipt type="text/javascript" src="http://www.laverdad.es/js/ctv/swfobject_publi.js"></scr' + 'ipt>');
+	if ($('script[src $= "/swfobject_publi.js"]').length == 0) {
+		jQuery.getScript('http://www.laverdad.es/js/ctv/swfobject_publi.js');
+	}
+</script>
+
+<script type="text/javascript" language="javascript">	
+    var paginaActual = 0;
+    
+    function irABloqueVideosC(indiceBloque) {		
+    	var i = 1;
+    	var parar = false;
+    	while (!parar) {
+    		var idObj1 = 'galerias_videos_C_' + i;
+    		var idObj2 = 'pagina_C_' + i;
+    		var obj1 = document.getElementById (idObj1);
+    		var obj2 = document.getElementById (idObj2);
+    		if ((obj1 != null) && (obj2 != null)) {
+    			if (indiceBloque == i) {
+    				obj1.style.display = 'block';
+    				obj2.className = 'activo';
+    				paginaActual = i - 1;									
+    			}
+    			else {
+    				obj1.style.display = 'none';
+    				obj2.className = '';
+    			}
+    		}
+    		else {
+    			parar = true;
+    		}
+    		
+    		i++;
+    	}
+    }
+    
+    function alternarBloqueVideosC() {
+    	if(document.getElementById('pagina_C_2')!=null){
+        	if(paginaActual == 0){
+    			document.getElementById('galerias_videos_C_1').style.display = 'none';
+    			document.getElementById('galerias_videos_C_2').style.display = 'block';
+    			document.getElementById('pagina_C_1').className = '';
+    			document.getElementById('pagina_C_2').className = 'activo';
+    			paginaActual = 1;
+    		}else{
+    			document.getElementById('galerias_videos_C_2').style.display = 'none';
+    			document.getElementById('galerias_videos_C_1').style.display = 'block';
+    			document.getElementById('pagina_C_2').className = '';
+    			document.getElementById('pagina_C_1').className = 'activo';
+    			paginaActual = 0;
+    		}	
+    	}					
+    } 
+    
+    function cambiaVideoMMBC(alto, ancho, idVideo, imagen, medio, titulo, rutaVideo, tipoModulo){
+    	$("#embebidoMMBC").next().next().remove();
+		$("#embebidoMMBC").next().next().remove();
+		$("#embebidoMMBC").html('');
+		var opciones = { capaModal : false};
+    	loadMultimedia("embebidoMMBC", ancho, alto, idVideo, imagen, medio, titulo, "bc", opciones);	   	
+    	
+    	var tituloVideo = document.getElementById ('BC_tituloVideo'+tipoModulo);
+    	if (tituloVideo != null) {
+    		tituloVideo.innerHTML = titulo;
+    	}
+    	if( rutaVideo.indexOf('.getLinkURL') == -1 ) {
+    		document.getElementById ('tituloVideo_C').href = rutaVideo;
+		}			
+    }
+    
+    var esElecciones = ('ESPAÑA' == 'Elecciones 20-N');	
+    
+	function sustituyeURLParaElecciones (obj) {	
+		if ((obj != null) && esElecciones) {
+			try {
+				// Estamos en la WebTV
+				if (location.href.split('/')[3] == '/videos/') {
+					var partesURL = location.href.split('/');
+					var partes = obj.href.split('/');
+					partes[4] = partesURL[4];
+					partes[5] = 'elecciones';
+					var url = partes[0];
+					for (var i = 1; i < partes.length; i++) url += '/' + partes[i];
+					top.location.href = url;			
+				}
+				// Estamos en /elecciones
+				else {
+					var edicionLocal = WebTV_getEdicionLocal();
+					if (edicionLocal == null) {
+						// Si es monoedicion
+						var partes = obj.href.split('/');
+						partes[3] = 'elecciones';
+						partes[4] = 'videos';
+						partes[5] = partes[6];
+						var url = partes[0];
+						for (var i = 1; i < partes.length - 1; i++) url += '/' + partes[i];
+						top.location.href = url;			
+					}
+					else {
+						// Si es multiedicion
+						var partes = obj.href.split('/');
+						partes[3] = edicionLocal;
+						partes[4] = 'elecciones';
+						partes[5] = 'videos';
+						var url = partes[0];
+						for (var i = 1; i < partes.length; i++) url += '/' + partes[i];
+						top.location.href = url;			
+					}				
+				}			
+			} catch(err) {
+				top.location.href = obj.href;
+			}		
+		}
+		else {
+			top.location.href = obj.href;
+		}
+		
+		return false;
+	}	    
+</script>
+<div class="modWebtv">
+	<div class="logos">
+		<div class="logotv" style="float: left; width: 150px;">
+			<img src="http://www.laverdad.es/includes/manuales/videos/img/moscas/mosca_laverdad.png" alt="">
+		</div>
+		<div class="clear"></div>
+	</div>
+	
+	<div class="modheader">
+		<div class="epigrafe">Videos de ESPAÑA</div>
+		<a class="mas" target="_top" href="http://www.laverdad.es/videos/actualidad/espana/2275854444001-infanta-cristina-deja-salida-vivienda-pedralbes.html" onclick="sustituyeURLParaElecciones(this);return false;"> m&aacute;s videos [+]</a>
+	</div>
+	<div class="modcontent">
+		<div class="video">
+			<div id="embebidoMMBC"></div>
+			<SCRIPT TYPE="text/JavaScript">
+                var NOMBRE_DE_DIV = "embebidoMMBC";
+                var ANCHURA = 300;
+                var ALTURA = 240;
+                var RUTA_VIDEO = '2275854444001';
+                var RUTA_IMAGEN = 'http://comeresa.brightcove.com.edgesuite.net/images/78527749001/78527749001_2275843247001_vs-515d3b3ee4b09942cfb148e7-806787299001.jpg?pubId=85707286001';
+                var SITIO = 'laverdad';
+				var PUBLI_TITULO = 'La infanta Cristina se deja ver a la salida de su vivienda en Pedralbes';
+                var CATEGORY  = 'bc';
+				var opciones = { capaModal : false};
+				loadMultimedia(NOMBRE_DE_DIV, ANCHURA, ALTURA, RUTA_VIDEO, RUTA_IMAGEN, SITIO, PUBLI_TITULO, CATEGORY, opciones);
+            </SCRIPT>
+		</div>
+		<div class="antetitulo">ESPAÑA</div>
+		<div class="titulo">
+			<a target="_top" id="tituloVideo_C" href="http://www.laverdad.es/videos/actualidad/espana/2275854444001-infanta-cristina-deja-salida-vivienda-pedralbes.html" onclick="sustituyeURLParaElecciones(this);return false;"><span id="BC_tituloVideoC">La infanta Cristina se deja ver a la salida de su vivienda en Pedralbes</span></a>
+		</div>
+	</div>	
+	
+	<div class="modnav">
+		<a style="cursor:pointer" class="btI" onClick="javascript:alternarBloqueVideosC();">
+			<img src="http://www.laverdad.es/includes_e/multimedia/img/rd.btn-atras.gif" alt="atras"/>
+		</a>
+		<span>
+			<a class="activo" style="cursor:pointer;" id="pagina_C_1" onClick="javascript:irABloqueVideosC(1);">1</a>
+			<a style="cursor:pointer;" id="pagina_C_2" onClick="javascript:irABloqueVideosC(2);">2</a>
+		</span>
+		<a style="cursor:pointer" class="btD" onClick="javascript:alternarBloqueVideosC();">
+			<img src="http://www.laverdad.es/includes_e/multimedia/img/rd.btn-sig.gif" alt="siguiente"/>
+		</a>
+	</div>
+	<div class="thumbnails">
+		<div id="galerias_videos_C_1">
+			
+			<div class="photo">
+				<a style="cursor:pointer" onClick="return cambiaVideoMMBC(240, 300, '2275784929001', 'http://comeresa.brightcove.com.edgesuite.net/images/78527749001/78527749001_2275773241001_vs-515d294be4b02c713b8f7e27-95694976001.jpg?pubId=85707286001', 'laverdad', 'Espectacular desembalse en la presa de Villalcampo (Zamora)', 'http://www.laverdad.es/videos/actualidad/espana/2275784929001-espectacular-desembalse-presa-villalcampo-zamora.html', 'C')">
+					<img height="40" width="60" src="http://comeresa.brightcove.com.edgesuite.net/images/78527749001/78527749001_2275773242001_th-515d294be4b02c713b8f7e27-95694976001.jpg?pubId=85707286001" title="Espectacular desembalse en la presa de Villalcampo (Zamora)"></img>
+				</a>
+			</div>
+			
+			<div class="photo">
+				<a style="cursor:pointer" onClick="return cambiaVideoMMBC(240, 300, '2275707221001', 'http://comeresa.brightcove.com.edgesuite.net/images/78527749001/78527749001_2275747002001_vs-515d2216e4b0ac5774656839-1206954747001.jpg?pubId=85707286001', 'laverdad', 'Segunda noche fuera de casa por las inundaciones', 'http://www.laverdad.es/videos/actualidad/espana/2275707221001-segunda-noche-fuera-casa-inundaciones.html', 'C')">
+					<img height="40" width="60" src="http://comeresa.brightcove.com.edgesuite.net/images/78527749001/78527749001_2275747003001_th-515d2216e4b0ac5774656839-1206954747001.jpg?pubId=85707286001" title="Segunda noche fuera de casa por las inundaciones"></img>
+				</a>
+			</div>
+			
+			<div class="photo">
+				<a style="cursor:pointer" onClick="return cambiaVideoMMBC(240, 300, '2275630991001', 'http://comeresa.brightcove.com.edgesuite.net/images/78527749001/78527749001_2275690917001_vs-515d1159e4b0ac57746564aa-1679485671001.jpg?pubId=85707286001', 'laverdad', 'Salou continúa invadida por miles de estudiantes ingleses', 'http://www.laverdad.es/videos/actualidad/espana/2275630991001-salou-continua-invadida-miles-estudiantes-ingleses.html', 'C')">
+					<img height="40" width="60" src="http://comeresa.brightcove.com.edgesuite.net/images/78527749001/78527749001_2275690918001_th-515d1159e4b0ac57746564aa-1679485671001.jpg?pubId=85707286001" title="Salou contin&uacute;a &quot;invadida&quot; por miles de estudiantes ingleses"></img>
+				</a>
+			</div>
+			
+			<div class="photo">
+				<a style="cursor:pointer" onClick="return cambiaVideoMMBC(240, 300, '2275240753001', 'http://comeresa.brightcove.com.edgesuite.net/images/78527750001/78527750001_2275234706001_vs-515ca0d6e4b0b8b6f6725741-1679485671001.jpg?pubId=85707286001', 'laverdad', 'Hipotecas', 'http://www.laverdad.es/videos/actualidad/espana/2275240753001-hipotecas.html', 'C')">
+					<img height="40" width="60" src="http://comeresa.brightcove.com.edgesuite.net/images/78527750001/78527750001_2275234707001_th-515ca0d6e4b0b8b6f6725741-1679485671001.jpg?pubId=85707286001" title="Hipotecas"></img>
+				</a>
+			</div>
+					
+		</div>
+		<div style="display: none;" id="galerias_videos_C_2">
+			
+			<div class="photo">
+				<a style="cursor:pointer" onClick="return cambiaVideoMMBC(240, 300, '2275124928001', 'http://comeresa.brightcove.com.edgesuite.net/images/78527749001/78527749001_2275116055001_vs-515c8e8ae4b0ac577465324e-782203298001.jpg?pubId=85707286001', 'laverdad', 'El PSOE quiere conocer si durante la época de Aznar hubo premio para las empresas que donaron dinero al PP', 'http://www.laverdad.es/videos/actualidad/espana/2275124928001-psoe-quiere-conocer-durante-epoca-aznar-hubo-premio-para-empresas-donaron-dinero.html', 'C')">
+					<img height="40" width="60" src="http://comeresa.brightcove.com.edgesuite.net/images/78527749001/78527749001_2275116056001_th-515c8e8ae4b0ac577465324e-782203298001.jpg?pubId=85707286001" title="El PSOE quiere conocer si durante la &eacute;poca de Aznar hubo &#039;premio&#039; para las empresas que donaron dinero al PP"></img>
+				</a>
+			</div>
+			
+			<div class="photo">
+				<a style="cursor:pointer" onClick="return cambiaVideoMMBC(240, 300, '2275055718001', 'http://comeresa.brightcove.com.edgesuite.net/images/78527749001/78527749001_2275054515001_vs-515c84d9e4b0f68eabb33209-86366013001.jpg?pubId=85707286001', 'laverdad', 'Griñán comparece por los EREs: Vendré cuantas veces lo pidan', 'http://www.laverdad.es/videos/actualidad/espana/2275055718001-grinan-comparece-eres-vendre-cuantas-veces-pidan.html', 'C')">
+					<img height="40" width="60" src="http://comeresa.brightcove.com.edgesuite.net/images/78527749001/78527749001_2275054516001_th-515c84d9e4b0f68eabb33209-86366013001.jpg?pubId=85707286001" title="Gri&ntilde;&aacute;n comparece por los EREs: &quot;Vendr&eacute; cuantas veces lo pidan&quot;"></img>
+				</a>
+			</div>
+			
+			<div class="photo">
+				<a style="cursor:pointer" onClick="return cambiaVideoMMBC(240, 300, '2275040926001', 'http://comeresa.brightcove.com.edgesuite.net/images/78527749001/78527749001_2275038662001_vs-515c8275e4b02d19a9db2eea-1471893301001.jpg?pubId=85707286001', 'laverdad', 'Monago en la ', 'http://www.laverdad.es/videos/actualidad/espana/2275040926001-monago.html', 'C')">
+					<img height="40" width="60" src="http://comeresa.brightcove.com.edgesuite.net/images/78527749001/78527749001_2275038663001_th-515c8275e4b02d19a9db2eea-1471893301001.jpg?pubId=85707286001" title="Monago en la "></img>
+				</a>
+			</div>
+			
+			<div class="photo">
+				<a style="cursor:pointer" onClick="return cambiaVideoMMBC(240, 300, '2274981651001', 'http://comeresa.brightcove.com.edgesuite.net/images/78527749001/78527749001_2274991538001_vs-515c7c59e4b09942cfb107fd-1592194039001.jpg?pubId=85707286001', 'laverdad', 'El expresidente Aznar, su mujer y su hijo pequeño habrían recibido clases de golf con dinero público en 2001', 'http://www.laverdad.es/videos/actualidad/espana/2274981651001-expresidente-aznar-mujer-hijo-pequeno-habrian-recibido-clases-golf-dinero-publico-2001-0.html', 'C')">
+					<img height="40" width="60" src="http://comeresa.brightcove.com.edgesuite.net/images/78527749001/78527749001_2274991539001_th-515c7c59e4b09942cfb107fd-1592194039001.jpg?pubId=85707286001" title="El expresidente Aznar, su mujer y su hijo peque&ntilde;o habr&iacute;an recibido clases de golf con dinero p&uacute;blico en 2001"></img>
+				</a>
+			</div>
+					
+		</div>
+	</div>
+	<div class="clear"></div>	
+</div>
+<div class="separacion">
+</div>
+ 
+		
+	
+
+	
+	
+	
+		
+		
+		
+		
+			 
+				
+								
+				
+				
+				
+				
+				
+				
+			<!--modulo-include--><!--modulo-include.metadato--><!-- PAN Text Ads 300x250 begin -->
+
+ 
+
+        <div id="cX-root" style="display:none"></div>
+
+ 
+
+        <div id="panTextAds_300x232" style="display:none"></div>
+
+ 
+
+        <script type="text/javascript">
+
+ 
+
+            var cX = cX || {}; cX.callQueue = cX.callQueue || [];
+
+ 
+
+            cX.callQueue.push(['insertAdSpace', {
+
+ 
+
+                adSpaceId: '00000000011008c0',
+
+ 
+
+                insertBeforeElementId: 'panTextAds_300x232',
+
+ 
+
+                adUnitWidth: 300, adUnitHeight: 250,
+
+ 
+
+                k: 'panbackfill',
+
+ 
+
+                initialHorizontalAdUnits: 1, initialVerticalAdUnits: 1,
+
+ 
+
+                renderTemplateUrl: 'http://cdn.cxpublic.com/PAN_Text_300x232.html'
+
+ 
+
+            } ]);
+
+ 
+
+        </script>
+
+ 
+
+        <script type="text/javascript">
+
+ 
+
+            (function() { try { var scriptEl = document.createElement('script'); scriptEl.type = 'text/javascript'; scriptEl.async = 'async';
+
+ 
+
+            scriptEl.src = ('https:' == document.location.protocol) ? 'https://scdn.cxense.com/cx.js' : 'http://cdn.cxense.com/cx.js';
+
+ 
+
+            var targetEl = document.getElementsByTagName('script')[0]; targetEl.parentNode.insertBefore(scriptEl, targetEl); } catch (e) {}; }());
+
+ 
+
+        </script>
+
+ 
+
+        <!-- PAN Text Ads 300x250 end -->
+
+<br>
+
+<div align="center">
+<br>
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-9776621393540478";
+/* Robapáginas_300x250_Mas_Actualidad */
+google_ad_slot = "7055278494";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+<br>
+</div>
+ 
+		
+	
+
+	
+	
+	
+		
+		
+		
+		
+			 
+				
+								
+				
+				
+				
+				
+				
+				
+			
+   <!-- Include de dtsUtilidades.js -->		
+
+
+	<script src="/includes_m/hs/js/dtsUtilidades.js" type="text/javascript"></script>
+
+<!-- Fin Include de dtsUtilidades.js --><script language="javascript">
+			function compruebaSiIncluirMetas() {
+				if (location.href.indexOf('incluirMetas=si') != -1) {
+					var codigoHTMLMetas = '<link rel="stylesheet" href="/css/ppll.css" type="text/css" media="all">';
+					codigoHTMLMetas += '<link rel="stylesheet" href="/css/barranavegacion.css" type="text/css" media="all">';
+					codigoHTMLMetas += '<link rel="stylesheet" href="/css/rd.noticias.css" type="text/css" media="all">';
+					document.write (codigoHTMLMetas);
+				}
+			}
+			
+			compruebaSiIncluirMetas();
+		</script><script>
+			
+                    var paginaActual = 0;
+                    
+                    function irABloqueImagenes(indiceBloque) {		
+						var i = 1;
+						var parar = false;
+						while (!parar) {
+							var idObj1 = 'galerias_imagenes_140_' + i;
+							var idObj2 = 'pagina_140_' + i;
+							var obj1 = document.getElementById (idObj1);
+							var obj2 = document.getElementById (idObj2);
+							if ((obj1 != null) && (obj2 != null)) {
+								if (indiceBloque == i) {
+									obj1.style.display = 'block';
+									obj2.className = 'activo';
+									paginaActual = i - 1;									
+								}
+								else {
+									obj1.style.display = 'none';
+									obj2.className = '';
+								}
+							}
+							else {
+								parar = true;
+							}
+							
+							i++;
+						}
+					}
+                    
+                    function alternarBloqueImagenes140() {
+						if(paginaActual == 0){
+							document.getElementById('galerias_imagenes_140_1').style.display = 'none';
+							document.getElementById('galerias_imagenes_140_2').style.display = 'block';
+							document.getElementById('pagina_140_1').className = '';
+							document.getElementById('pagina_140_2').className = 'activo';
+							paginaActual = 1;
+						}else{
+							document.getElementById('galerias_imagenes_140_2').style.display = 'none';
+							document.getElementById('galerias_imagenes_140_1').style.display = 'block';
+							document.getElementById('pagina_140_2').className = '';
+							document.getElementById('pagina_140_1').className = 'activo';
+							paginaActual = 0;
+						}						
+				    }     
+				    
+				    function superURL(url){ //Calcula la url para que se mantenga en la edicion en la que estamos viendo el contenido
+						pathArray = url.split( '/' );
+						newPathname = "";
+						var entra = 0;
+						for ( i = 0; i<pathArray.length; i++ ) {
+							if (pathArray[i] == 'multimedia'){
+								entra = 1;
+							}
+							if (entra==1){
+								newPathname += "/";
+								newPathname += pathArray[i];
+							}
+						}
+						
+						var urlCompleta="";
+						if (getEdicionLocal()!= null)
+							urlCompleta = "/" + getEdicionLocal() + newPathname;
+						else
+							urlCompleta = newPathname;
+						
+						top.location.href = urlCompleta;			
+						//window.location.href = "/" + getEdicionLocal() + newPathname;
+						return false;
+					}
+					                           
+			
+		</script><div class="galeriaFotos">
+<div class="modnav">
+<a class="btI" onClick="javascript:alternarBloqueImagenes140();"><img src="/includes_e/multimedia/img/rd.btn-atras.gif" alt="atras"/></a><span><a class="activo" style="cursor:pointer;" id="pagina_140_1" onclick="javascript:irABloqueImagenes(1);"> 
+					1</a><a style="cursor:pointer;" id="pagina_140_2" onclick="javascript:irABloqueImagenes(2);"> 
+						2</a></span><a class="btD" onClick="javascript:alternarBloqueImagenes140();"><img src="/includes_e/multimedia/img/rd.btn-sig.gif" alt="siguiente"/></a>
+</div>
+<div class="modheader">
+<div class="epigrafe">Galer&iacute;as de Fotos</div>
+<a class="mas" target="_top" href="http://www.laverdad.es/murcia/multimedia/fotos/espana/index.html">m&aacute;s fotos [+]</a>
+</div>
+<div class="modcontent">
+<div id="galerias_imagenes_140_1">
+<div class="Bloqueimagen">
+<div class="bloqueI">
+<div class="modulo">
+<div class="photo">
+<a target="_top" href="http://www.laverdad.es/murcia/multimedia/fotos/espana/116150-familia-real-junto-hospital-0.html" onClick="superURL('http://www.laverdad.es/murcia/multimedia/fotos/espana/116150-familia-real-junto-hospital-0.html');return false;" title="La Familia Real, junto al Rey en el hospital"><img src="http://resizer.laverdad.es/resizer/resizer.php?imagen=L2RlbGl2ZXJ0eS9kZW1vL3Jlc291cmNlcy9qcGcvMC8wLzEzNjIzMzI4NTcyMDAuanBn&amp;nuevoancho=MTQw&amp;nuevoalto=MA==%0A          &amp;copyright=Y29uQ29weXJpZ2h0&amp;encrypt=true"></a>
+</div>
+<div class="subtitulo">
+<a target="_top" href="http://www.laverdad.es/murcia/multimedia/fotos/espana/116150-familia-real-junto-hospital-0.html" onClick="superURL('http://www.laverdad.es/murcia/multimedia/fotos/espana/116150-familia-real-junto-hospital-0.html');return false;">La Familia Real, junto al Rey en el hospital</a>
+</div>
+</div>
+<div class="modulo">
+<div class="photo">
+<a target="_top" href="http://www.laverdad.es/murcia/multimedia/fotos/espana/115723-concentracion-masiva-congreso-contra-recortes-corrupcion-0.html" onClick="superURL('http://www.laverdad.es/murcia/multimedia/fotos/espana/115723-concentracion-masiva-congreso-contra-recortes-corrupcion-0.html');return false;" title="Concentraci&oacute;n masiva en el Congreso contra los recortes y la corrupci&oacute;n"><img src="http://resizer.laverdad.es/resizer/resizer.php?imagen=L2RlbGl2ZXJ0eS9kZW1vL3Jlc291cmNlcy9qcGcvMi84LzEzNjE2NTQwOTU0ODIuanBn&amp;nuevoancho=MTQw&amp;nuevoalto=MA==%0A          &amp;copyright=Y29uQ29weXJpZ2h0&amp;encrypt=true"></a>
+</div>
+<div class="subtitulo">
+<a target="_top" href="http://www.laverdad.es/murcia/multimedia/fotos/espana/115723-concentracion-masiva-congreso-contra-recortes-corrupcion-0.html" onClick="superURL('http://www.laverdad.es/murcia/multimedia/fotos/espana/115723-concentracion-masiva-congreso-contra-recortes-corrupcion-0.html');return false;">Concentraci&oacute;n masiva en el Congreso contra los rec</a>
+</div>
+</div>
+</div>
+<div class="bloqueD">
+<div class="modulo">
+<div class="photo">
+<a target="_top" href="http://www.laverdad.es/murcia/multimedia/fotos/espana/115714-anos-felices-imputado-demacrado-0.html" onClick="superURL('http://www.laverdad.es/murcia/multimedia/fotos/espana/115714-anos-felices-imputado-demacrado-0.html');return false;" title="De los a&ntilde;os felices a un imputado demacrado"><img src="http://resizer.laverdad.es/resizer/resizer.php?imagen=L2RlbGl2ZXJ0eS9kZW1vL3Jlc291cmNlcy9qcGcvNC8yLzEzNjE2Mjk5MDgwMjQuanBn&amp;nuevoancho=MTQw&amp;nuevoalto=MA==%0A          &amp;copyright=Y29uQ29weXJpZ2h0&amp;encrypt=true"></a>
+</div>
+<div class="subtitulo">
+<a target="_top" href="http://www.laverdad.es/murcia/multimedia/fotos/espana/115714-anos-felices-imputado-demacrado-0.html" onClick="superURL('http://www.laverdad.es/murcia/multimedia/fotos/espana/115714-anos-felices-imputado-demacrado-0.html');return false;">De los a&ntilde;os felices a un imputado demacrado</a>
+</div>
+</div>
+<div class="modulo">
+<div class="photo">
+<a target="_top" href="http://www.laverdad.es/murcia/multimedia/fotos/espana/115695-urdangarin-vuelve-declarar-juzgados-palma-mallorca-0.html" onClick="superURL('http://www.laverdad.es/murcia/multimedia/fotos/espana/115695-urdangarin-vuelve-declarar-juzgados-palma-mallorca-0.html');return false;" title="Urdangarin vuelve a declarar en los juzgados de Palma de Mallorca"><img src="http://resizer.laverdad.es/resizer/resizer.php?imagen=L2RlbGl2ZXJ0eS9kZW1vL3Jlc291cmNlcy9qcGcvNC8wLzEzNjE2Mjg4NDM4MDQuanBn&amp;nuevoancho=MTQw&amp;nuevoalto=MA==%0A          &amp;copyright=Y29uQ29weXJpZ2h0&amp;encrypt=true"></a>
+</div>
+<div class="subtitulo">
+<a target="_top" href="http://www.laverdad.es/murcia/multimedia/fotos/espana/115695-urdangarin-vuelve-declarar-juzgados-palma-mallorca-0.html" onClick="superURL('http://www.laverdad.es/murcia/multimedia/fotos/espana/115695-urdangarin-vuelve-declarar-juzgados-palma-mallorca-0.html');return false;">Urdangarin vuelve a declarar en los juzgados de Pa</a>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+<div style="display: none;" id="galerias_imagenes_140_2">
+<div class="Bloqueimagen">
+<div class="bloqueI">
+<div class="modulo">
+<div class="photo">
+<a target="_top" href="http://www.laverdad.es/murcia/multimedia/fotos/espana/115562-imagenes-debate-0.html" onClick="superURL('http://www.laverdad.es/murcia/multimedia/fotos/espana/115562-imagenes-debate-0.html');return false;" title="Las im&aacute;genes del Debate"><img src="http://resizer.laverdad.es/resizer/resizer.php?imagen=L2RlbGl2ZXJ0eS9kZW1vL3Jlc291cmNlcy9qcGcvNC81LzEzNjEzOTQxNTY3NTQuanBn&amp;nuevoancho=MTQw&amp;nuevoalto=MA==%0A          &amp;copyright=Y29uQ29weXJpZ2h0&amp;encrypt=true"></a>
+</div>
+<div class="subtitulo">
+<a target="_top" href="http://www.laverdad.es/murcia/multimedia/fotos/espana/115562-imagenes-debate-0.html" onClick="superURL('http://www.laverdad.es/murcia/multimedia/fotos/espana/115562-imagenes-debate-0.html');return false;">Las im&aacute;genes del Debate</a>
+</div>
+</div>
+<div class="modulo">
+<div class="photo">
+<a target="_top" href="http://www.laverdad.es/murcia/multimedia/fotos/espana/115294-diego-torres-comparece-juzgados-palma-0.html" onClick="superURL('http://www.laverdad.es/murcia/multimedia/fotos/espana/115294-diego-torres-comparece-juzgados-palma-0.html');return false;" title="Diego Torres comparece en los juzgados de Palma"><img src="http://resizer.laverdad.es/resizer/resizer.php?imagen=L2RlbGl2ZXJ0eS9kZW1vL3Jlc291cmNlcy9qcGcvNy8wLzEzNjEwMTIxMDUxMDcuanBn&amp;nuevoancho=MTQw&amp;nuevoalto=MA==%0A          &amp;copyright=Y29uQ29weXJpZ2h0&amp;encrypt=true"></a>
+</div>
+<div class="subtitulo">
+<a target="_top" href="http://www.laverdad.es/murcia/multimedia/fotos/espana/115294-diego-torres-comparece-juzgados-palma-0.html" onClick="superURL('http://www.laverdad.es/murcia/multimedia/fotos/espana/115294-diego-torres-comparece-juzgados-palma-0.html');return false;">Diego Torres comparece en los juzgados de Palma</a>
+</div>
+</div>
+</div>
+<div class="bloqueD">
+<div class="modulo">
+<div class="photo">
+<a target="_top" href="http://www.laverdad.es/murcia/multimedia/fotos/espana/114101-heredero-cumple-anos-0.html" onClick="superURL('http://www.laverdad.es/murcia/multimedia/fotos/espana/114101-heredero-cumple-anos-0.html');return false;" title="El heredero cumple 45 a&ntilde;os"><img src="http://resizer.laverdad.es/resizer/resizer.php?imagen=L2RlbGl2ZXJ0eS9kZW1vL3Jlc291cmNlcy9qcGcvOC8xLzEzNTk1NDg1NDI2MTguanBn&amp;nuevoancho=MTQw&amp;nuevoalto=MA==%0A          &amp;copyright=Y29uQ29weXJpZ2h0&amp;encrypt=true"></a>
+</div>
+<div class="subtitulo">
+<a target="_top" href="http://www.laverdad.es/murcia/multimedia/fotos/espana/114101-heredero-cumple-anos-0.html" onClick="superURL('http://www.laverdad.es/murcia/multimedia/fotos/espana/114101-heredero-cumple-anos-0.html');return false;">El heredero cumple 45 a&ntilde;os</a>
+</div>
+</div>
+<div class="modulo">
+<div class="photo">
+<a target="_top" href="http://www.laverdad.es/murcia/multimedia/fotos/espana/112731-preside-pascua-militar-0.html" onClick="superURL('http://www.laverdad.es/murcia/multimedia/fotos/espana/112731-preside-pascua-militar-0.html');return false;" title="El Rey preside la Pascua Militar"><img src="http://resizer.laverdad.es/resizer/resizer.php?imagen=L2RlbGl2ZXJ0eS9kZW1vL3Jlc291cmNlcy9qcGcvOC81LzEzNTc0ODE1Mzc4NTguanBn&amp;nuevoancho=MTQw&amp;nuevoalto=MA==%0A          &amp;copyright=Y29uQ29weXJpZ2h0&amp;encrypt=true"></a>
+</div>
+<div class="subtitulo">
+<a target="_top" href="http://www.laverdad.es/murcia/multimedia/fotos/espana/112731-preside-pascua-militar-0.html" onClick="superURL('http://www.laverdad.es/murcia/multimedia/fotos/espana/112731-preside-pascua-militar-0.html');return false;">El Rey preside la Pascua Militar</a>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="separacion">
+</div>
+ 
+		
+	
+
+	
+	
+	
+		
+		
+		
+		
+			 
+				
+								
+				
+				
+				
+				
+				
+				
+			<style type="text/css">#videosWebTV img{width:83px;border:0;};
+</style><div style="background-color:#F2F2F2;font-family:Arial;margin-bottom:10px;padding:6px;clear:both;display:block;">
+			<div style="-moz-background-clip:border;-moz-background-inline-policy:continuous;-moz-background-origin:padding;background:#CC0000 url(/img/rd.titular-rojo.gif) repeat-x scroll left top;height:19px;text-align:left;">
+				<h2 style="color:#FFFFFF;font-size:11px;font-weight:bold;margin:0;padding:2px 4px 3px 5px;text-transform:uppercase;">Noticias de España</h2>
+			</div>
+				<div style="padding:5px 0px; display:block; clear:both;"> <h3 class='blm_titular' ><a href='http://www.laverdad.es/murcia/v/20130404/espana/afirma-cambiara-soberania-financiacion-20130404.html' title='Mas afirma que no cambiará soberanía por financiación'> Mas afirma que no cambiará soberanía por financiaci...</a></h3><h3 class='blm_titular' ><a href='http://www.laverdad.es/murcia/rc/20130404/espana/catorce-indicios-contra-infanta-201304040804.html' title='La Casa del Rey, sorprendida por el «cambio» de criterio del juez al imputar a la infanta'> La Casa del Rey, sorprendida por el «cambio» de cri...</a></h3><h3 class='blm_titular' ><a href='http://www.laverdad.es/murcia/rc/20130404/espana/barcenas-declarara-injurias-querella-201304040321.html' title='Bárcenas declarará por injurias en una querella de Ana Palacio'> Bárcenas declarará por injurias en una querella de ...</a></h3><h3 class='blm_titular' ><a href='http://www.laverdad.es/murcia/rc/20130404/espana/rajoy-pedira-representacion-mayor-201304040327.html' title='Rajoy pedirá una representación mayor en los órganos de la ONU'> Rajoy pedirá una representación mayor en los órgan...</a></h3><h3 class='blm_titular' ><a href='http://www.laverdad.es/murcia/v/20130404/espana/fiscalia-recurrira-citacion-infanta-20130404.html' title='La Fiscalía recurrirá la citación de la Infanta'> La Fiscalía recurrirá la citación de la Infanta</a></h3>			<div style='text-align:right; font-size:12px!important;padding:2px 8px 4px 12px; display:block;clear:both;' >[ + <a style='color:#000000' href='http://www.laverdad.es/murcia/mas-actualidad/espana/' title='Noticias de España'>Noticias de España</a> ]</div>
+			</div>
+				<!-- /div -->
+				<div class='clear'></div>  
+			</div>
+			<div class='clear'> </div> <div style="background-color:#F2F2F2;font-family:Arial;margin-bottom:10px;padding:6px;clear:both;display:block;">
+			<div style="-moz-background-clip:border;-moz-background-inline-policy:continuous;-moz-background-origin:padding;background:#CC0000 url(/img/rd.titular-rojo.gif) repeat-x scroll left top;height:19px;text-align:left;">
+				<h2 style="color:#FFFFFF;font-size:11px;font-weight:bold;margin:0;padding:2px 4px 3px 5px;text-transform:uppercase;">Enlaces de Interés</h2>
+			</div>
+				<div style="padding:5px 0px; display:block; clear:both;"> <h3 class='blm_titular' > <a href='http://cartelera.laverdad.es/cartagena/' title='Cartelera Cartagena'>Cartelera Cartagena</a></h3>
+<h3 class='blm_titular' > <a href='http://loteriadenavidad.laverdad.es/' title='Loteria de Navidad'>Loteria de Navidad</a></h3>
+<h3 class='blm_titular' > <a href='http://feria-murcia.laverdad.es/' title='Feria de Murcia'>Feria de Murcia</a></h3>
+<h3 class='blm_titular' > <a href='http://moda.laverdad.es/pasarelas/otono-invierno/' title='Moda Otoño Invierno 2013'>Moda Otoño Invierno 2013</a></h3>
+<h3 class='blm_titular' > <a href='http://resultados-loteria.laverdad.es/euromillones.html' title='Resultados Euromillones'>Resultados Euromillones</a></h3>
+			</div>
+				<!-- /div -->
+				<div class='clear'></div>  
+			</div>
+			<div class='clear'> </div> 
+ 
+		
+	
+
+	
+	
+	
+		
+		
+		
+		
+			 
+				
+								
+				
+				
+				
+				
+				
+				
+			<div class="robapaginas">
+<div id="publi1_d8536d94-542e-11df-8dd9-2a66485d8834-0"><script language="JavaScript">publiMJX("robapaginas_dos",1);</script></div>
+</div>
+ 
+		
+	
+
+		
+	
+
+ 	
+									</div>
+				</div>
+			</div>
+			<div class="megabanner_inf">
+				<div id="publi1_Top11">
+	<script language="JavaScript">
+		publiMJXOCultaDivPubli('publi1_Top11','megabanner_inf',1);
+	</script>
+</div>
+</div>
+		</div> 
+	</div>
+	<!-- PIE comun -->
+<div class="pie">
+<div class="pieIN">
+  <div class="pie_izq">
+  <a href="http://www.vocento.com" class="pi_vocento" target="_blank">Vocento</a>
+  <a href="http://www.sarenet.es" class="pi_sarenet" title="ISP Sarenet" target="_blank"><img src="http://www.laverdad.es/img/rd.pie_sarenet.png" alt="ISP Sarenet" /></a>
+  </div>
+  <div class="pie_datos">
+  <span id="pie_copyright"><h6><img src="http://www.laverdad.es/img/rd.pie_LAVERDAD.png" alt="laverdad.es" /></h6>
+<p class="pie_legal">&copy; LA VERDAD DIGITAL, S.L.(SOCIEDAD UNIPERSONAL).<br />
+  Registro Mercantil de Murcia, Tomo 1.709, Libro 0, Folio 41, Sección 8, Hoja
+    nº MU34509, Inscripción 1ª C.I.F.:B73096802. Domicilio social en .Camino
+    Viejo de Monteagudo s/n. 30160. Murcia. Correo electrónico de contacto internet@laverdad.es. Copyright © .La Verdad Digital, S.L. (Sociedad Unipersonal).
+  Incluye contenidos de la empresa citada, del medio La Verdad, y, en su caso, de otras empresas del grupo de la empresa o de terceros.</p>
+<p class="pie_reservados">EN CUALQUIER CASO TODOS LOS DERECHOS RESERVADOS: <br />
+  Queda prohibida la reproducción, distribución, puesta a disposición, comunicación
+    pública y utilización, total o parcial, de los contenidos de esta web, en
+    cualquier forma o modalidad, sin previa, expresa y escrita autorización,
+    incluyendo, en particular, su mera reproducción y/o puesta a disposición
+    como resúmenes, reseñas o revistas de prensa con fines comerciales o directa
+    o indirectamente lucrativos, a la que se manifiesta oposición expresa. </p>
+</span>
+    <ul class="pie_enlaces">
+      <li><a href="http://www.laverdad.es/murcia/interactivo/comun/contactar.html" rel="nofollow">Contactar</a></li>
+	  <li>| <a href="http://servicios.laverdad.es/tarifas/" rel="nofollow">Publicidad</a></li>
+	  <li>| <a href="http://www.laverdad.es/murcia/interactivo/comun/mapaweb.html">Mapa Web</a> </li>
+	  <li>| <a href="http://www.laverdad.es/murcia/interactivo/comun/condiciones.html" rel="nofollow">Aviso legal</a></li>
+      <li>| <a href="http://www.laverdad.es/murcia/interactivo/comun/privacidad.html" rel="nofollow">Política de privacidad</a></li>
+      <li>| <a href="http://www.masterelcorreo.com/">Master El Correo</a> </li>
+    </ul>
+  </div>
+  <div class="pie_enlaces_vocento">
+  <h6>Enlaces Vocento</h6>
+		<ul>
+			<li><a title="ABC" href="http://www.abc.es" target="_blank">ABC.es</a></li>
+			<li><a title="Hoy" href="http://www.hoy.es" target="_blank">Hoy Digital</a></li>
+			<li><a title="El Correo" href="http://www.elcorreo.com" target="_blank">El Correo</a></li>
+			<li><a title="La Rioja" href="http://www.larioja.com" target="_blank">La Rioja.com</a></li>
+			<li><a title="El Norte de Castilla" href="http://www.elnortedecastilla.es" target="_blank">Elnortedecastilla.es</a></li>
+			<li><a title="Diario Vasco" href="http://www.diariovasco.com" target="_blank">DiarioVasco.com</a></li>
+			<li><a title="El Comercio" href="http://www.elcomercio.es" target="_blank">Elcomercio.es</a></li>
+			<li><a title="Ideal" href="http://www.ideal.es" target="_blank">Ideal digital</a></li>
+			<li><a title="Diario Sur" href="http://www.diariosur.es" target="_blank">SUR.es</a></li>
+			<li><a title="Las Provincias" href="http://www.lasprovincias.es" target="_blank">Las Provincias</a></li>
+			<li><a title="Que" href="http://www.que.es" target="_blank">Qué.es</a></li>
+			<li><a title="El Diario Montañés" href="http://www.eldiariomontanes.es" target="_blank">El Diario Montañés</a></li>
+			<li><a title="La Voz Digital" href="http://www.lavozdigital.es" target="_blank">La Voz Digital</a></li>
+			<li><a title="La Verdad" href="http://www.laverdad.es" target="_blank">Laverdad.es</a></li>
+			<li><a title="ABC Punto Radio" href="http://www.abc.es/radio" target="_blank">ABC Punto Radio</a></li>
+			<li><a title="Finanzas.com" href="http://www.finanzas.com" target="_blank">Finanzas</a></li>
+			<li><a title="Hoycinema" href="http://www.hoycinema.com" target="_blank">hoyCinema</a></li>
+			<li><a title="Hoymotor" href="http://www.hoymotor.com" target="_blank">hoyMotor</a></li>
+			<li><a title="Infoempleo" href="http://www.infoempleo.com" target="_blank">Infoempleo</a></li>
+			<li><a title="La GuíaTV" href="http://www.laguiatv.com" target="_blank">Guía TV</a></li>
+			<li><a title="Autocasión" href="http://www.autocasion.com" target="_blank">Autocasion</a></li>
+			<li><a title="11870" href="http://11870.com" target="_blank">11870.com</a></li>
+			<li><a title="Mujerhoy" href="http://www.mujerhoy.com" target="_blank">Mujerhoy</a></li>
+			<li><a title="Pisos.com" href="http://www.pisos.com" target="_blank">Pisos.com</a></li>
+			<li><a title="Vadejuegos" href="http://www.vadejuegos.com" target="_blank">Vadejuegos</a></li>
+			<li><a title="avanzaentucarrera" href="http://www.avanzaentucarrera.com" target="_blank">Avanzaentucarrera.com</a></li>
+			<li><a title="Grada360" href="http://www.grada360.com" target="_blank">Grada360</a></li>
+			<li><a title="Web Móvil de laverdad.es" href="http://m.laverdad.es" target="_blank">m.laverdad.es</a></li>
+		</ul>
+  </div>
+  </div>
+</div>
+<script language="javascript">
+     MQT.moduloscabecera4();
+</script>
+<script language="javascript">
+if (typeof(ids_noticias)!="undefined") {
+setNumComentariosPortada(ids_noticias, 2);
+}
+</script>
+<div id="publi2_Top1"><script language="JavaScript"> publiMJX('megabanner',2);</script></div>
+	<script language="JavaScript">cargarPubliMethode('Top2');</script>
+<div id="publi2_Top2"><script language="JavaScript"> publiMJX('boton_superior',2);</script></div>
+	<script language="JavaScript">cargarPubliMethode('Top3');</script>
+<div id="publi2_Top3"><script language="JavaScript"> publiMJX('boton_inferior',2);</script></div>
+	<script language="JavaScript">cargarPubliMethode('Top4');</script>
+<div id="publi2_Top4"><script language="JavaScript"> publiMJX('cintillo_superior980x28',2);</script></div>
+	<script language="JavaScript">cargarPubliMethode('Top5');</script>
+<div id="publi2_Top5"><script language="JavaScript"> publiMJX('boton_loc_superior',2);</script></div>
+	<script language="JavaScript">cargarPubliMethode('Top6');</script>
+<div id="publi2_Top6"><script language="JavaScript"> publiMJX('recuerdo_corti_layer_nal',2);</script></div>
+	<script language="JavaScript">cargarPubliMethode('Top7');</script>
+<div id="publi2_Top7"><script language="JavaScript"> publiMJX('robapaginas',2);</script></div>
+	<script language="JavaScript">cargarPubliMethode('Top8');</script>
+<div id="publi2_Top8"><script language="JavaScript"> publiMJX('inters',2);</script></div>
+	<script language="JavaScript">cargarPubliMethode('Top9');</script>
+<div id="publi2_Top9"><script language="JavaScript"> publiMJX('skyscraper_izq',2);</script></div>
+	<script language="JavaScript">cargarPubliMethode('Top10');</script>
+<div id="publi2_Top10"><script language="JavaScript"> publiMJX('skyscraper_der',2);</script></div>
+	<script language="JavaScript">cargarPubliMethode('Top11');</script>
+<div id="publi2_Top11"><script language="JavaScript"> publiMJX('megabanner_inf',2);</script></div>
+	<script language="JavaScript">cargarPubliMethode('Top12');</script>
+<div id="publi2_Top12"><script language="JavaScript"> publiMJX('boton1_150x100',2);</script></div>
+	<script language="JavaScript">cargarPubliMethode('Top13');</script>
+<div id="publi2_Top13"><script language="JavaScript"> publiMJX('boton2_150x100',2);</script></div>
+	<script language="JavaScript">cargarPubliMethode('Top14');</script>
+<div id="publi2_Top14"><script language="JavaScript"> publiMJX('boton3_150x100',2);</script></div>
+	<script language="JavaScript">cargarPubliMethode('Top15');</script>
+<div id="publi2_Top15"><script language="JavaScript"> publiMJX('boton4_150x100',2);</script></div>
+	<script language="JavaScript">cargarPubliMethode('Top16');</script>
+<div id="publi2_Top16"><script language="JavaScript"> publiMJX('boton1_300x90',2);</script></div>
+	<script language="JavaScript">cargarPubliMethode('Top17');</script>
+<div id="publi2_Top17"><script language="JavaScript"> publiMJX('boton2_300x90',2);</script></div>
+	<script language="JavaScript">cargarPubliMethode('Top18');</script>
+<script type="text/javascript">
+	var LandRover = document.body.innerHTML.match(/\/motor\/land-rover\/novedades\/nuevo-range-rover/g);
+	
+	if (LandRover && "object"==typeof (LandRover) && LandRover.length >= 1) {
+		var newDiv = $("<div></div>").attr("id",'tracking_publi_landrover_rangerover');
+		var newScript = $( '<script><'+'/script>' );
+		newScript.attr("id","agc").attr("type","text/javascript").attr("src","/includes/manuales/js/scriptLR.js");
+		newDiv.append( newScript );
+		$("body").append( newDiv );
+	}
+	</script>
+<script type="text/javascript">
+
+var _sf_async_config={uid:14289,domain:semDom};
+(function(){
+  function loadChartbeat() {
+    window._sf_endpt=(new Date()).getTime();
+    var e = document.createElement('script');
+    e.setAttribute('language', 'javascript');
+    e.setAttribute('type', 'text/javascript');
+    e.setAttribute('src',
+       (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
+       "js/chartbeat.js");
+    document.body.appendChild(e);
+  }
+  var oldonload = window.onload;
+  window.onload = (typeof window.onload != 'function') ?
+     loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+
+</script>
+
+
+
+
+<div id="publi2_auh"><script language="JavaScript">publiMJX('cintillo_superior980x28',2);</script></div>
+<script language="JavaScript">cargarPubliMethode('auh');</script>
+  </div>
+<!-- include final del código -->
+
+</body>
+</html>
+<!-- El taglib del buscador recibe los siguientes parámetros:-->
+<!-- serverName: url del servidor desde donde se realiza la llamada -->
+<!-- serverPort: puerto por el que se va a realizar la llamada  -->
+<!-- portalNoticia: potal para el que se está publicando la noticia  -->
+<!-- noticiaTipo: fuente de la noticia  -->
+<!-- medioEdicion: edicion del portal si este es multiedicion  -->
+<!-- document: xml de la noticia con sus metadatos -->
+

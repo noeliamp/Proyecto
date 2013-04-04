@@ -1,0 +1,185 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<rss version="2.0">
+<channel>
+<title>laverdad.es - Última hora</title>
+<link>http://www.laverdad.es</link>
+<description>
+verdad, digital, murcia, noticias, archivo, hemeroteca, buscador
+</description>
+<language>es-ES</language>
+<image/>
+<pubDate>Thu, 04 Apr 2013 08:50:09 GMT</pubDate>
+<item>
+<title>
+<![CDATA[
+La Fiscalía cree que no hay nada nuevo que justifique la imputación de la infanta
+]]>
+</title>
+<link>
+http://www.laverdad.es/murcia/rc/20130404/espana/catorce-indicios-contra-infanta-201304040804.html
+</link>
+<description>
+<![CDATA[
+Anticorrupción ultima contrarreloj su recurso, que presentará antes del fin de semana | Pedirá la anulación de la citación de la hija del Rey para declarar el próximo 27 de abril.
+]]>
+</description>
+<pubDate>Thu, 04 Apr 2013 08:45:23 GMT</pubDate>
+<guid>
+http://www.laverdad.es/murcia/rc/20130404/espana/catorce-indicios-contra-infanta-201304040804.html
+</guid>
+</item>
+<item>
+<title>
+<![CDATA[ La 'normalidad' de la infanta ]]>
+</title>
+<link>
+http://www.laverdad.es/murcia/rc/20130404/espana/infanta-cristina-acude-trabajo-201304041019.html
+</link>
+<description>
+<![CDATA[ ]]>
+</description>
+<pubDate>Thu, 04 Apr 2013 08:44:45 GMT</pubDate>
+<guid>
+http://www.laverdad.es/murcia/rc/20130404/espana/infanta-cristina-acude-trabajo-201304041019.html
+</guid>
+</item>
+<item>
+<title>
+<![CDATA[
+Pastor insiste en que el Gobierno mantendrá el control en AENA pese a la privatización
+]]>
+</title>
+<link>
+http://www.laverdad.es/murcia/rc/20130404/economia/pastor-insiste-gobierno-mantendra-201304041036.html
+</link>
+<description>
+<![CDATA[ ]]>
+</description>
+<pubDate>Thu, 04 Apr 2013 08:40:01 GMT</pubDate>
+<guid>
+http://www.laverdad.es/murcia/rc/20130404/economia/pastor-insiste-gobierno-mantendra-201304041036.html
+</guid>
+</item>
+<item>
+<title>
+<![CDATA[ Rubio vuelve a ser letal ]]>
+</title>
+<link>
+http://www.laverdad.es/murcia/rc/20130404/deportes/baloncesto/rubio-vuelve-letal-201304040954.html
+</link>
+<description>
+<![CDATA[ ]]>
+</description>
+<pubDate>Thu, 04 Apr 2013 08:40:00 GMT</pubDate>
+<guid>
+http://www.laverdad.es/murcia/rc/20130404/deportes/baloncesto/rubio-vuelve-letal-201304040954.html
+</guid>
+</item>
+<item>
+<title>
+<![CDATA[
+'Las chicas del calendario' desembarcan en los Teatros del Canal
+]]>
+</title>
+<link>
+http://www.laverdad.es/murcia/rc/20130404/cultura/chicas-calendario-desembarcan-teatros-201304032339.html
+</link>
+<description>
+<![CDATA[ ]]>
+</description>
+<pubDate>Thu, 04 Apr 2013 08:38:33 GMT</pubDate>
+<guid>
+http://www.laverdad.es/murcia/rc/20130404/cultura/chicas-calendario-desembarcan-teatros-201304032339.html
+</guid>
+</item>
+<item>
+<title>
+<![CDATA[
+Reclaman que se retire el cartel del pregón taurino de Valladolid por «sexista»
+]]>
+</title>
+<link>
+http://www.laverdad.es/murcia/rc/20130404/sociedad/reclaman-retire-cartel-pregon-201304041023.html
+</link>
+<description>
+<![CDATA[ ]]>
+</description>
+<pubDate>Thu, 04 Apr 2013 08:26:25 GMT</pubDate>
+<guid>
+http://www.laverdad.es/murcia/rc/20130404/sociedad/reclaman-retire-cartel-pregon-201304041023.html
+</guid>
+</item>
+<item>
+<title>
+<![CDATA[
+Bárcenas vuelve a negar que la letra de los papeles sea suya
+]]>
+</title>
+<link>
+http://www.laverdad.es/murcia/rc/20130404/espana/barcenas-declarara-injurias-querella-201304040321.html
+</link>
+<description>
+<![CDATA[ ]]>
+</description>
+<pubDate>Thu, 04 Apr 2013 08:25:15 GMT</pubDate>
+<guid>
+http://www.laverdad.es/murcia/rc/20130404/espana/barcenas-declarara-injurias-querella-201304040321.html
+</guid>
+</item>
+<item>
+<title>
+<![CDATA[
+La Paca registra un terremoto de 4,3 grados de madrugada
+]]>
+</title>
+<link>
+http://www.laverdad.es/murcia/20130404/local/lorca/paca-registra-terremoto-grados-201304040734.html
+</link>
+<description>
+<![CDATA[
+El seísmo, con epicentro a diez kilómetros del núcleo de la pedanía lorquina y 11 de profundidad, fue sentido con intensidad en todas las diputaciones del norte de Lorca, aunque no se han registrado daños personales
+]]>
+</description>
+<pubDate>Thu, 04 Apr 2013 08:23:33 GMT</pubDate>
+<guid>
+http://www.laverdad.es/murcia/20130404/local/lorca/paca-registra-terremoto-grados-201304040734.html
+</guid>
+</item>
+<item>
+<title>
+<![CDATA[
+Una parlamentaria del PP devuelve más de 2.000 euros tras detectarse «anomalías» en su kilometraje
+]]>
+</title>
+<link>
+http://www.laverdad.es/murcia/rc/20130404/espana/parlamentaria-devuelve-euros-tras-201304041018.html
+</link>
+<description>
+<![CDATA[ ]]>
+</description>
+<pubDate>Thu, 04 Apr 2013 08:20:08 GMT</pubDate>
+<guid>
+http://www.laverdad.es/murcia/rc/20130404/espana/parlamentaria-devuelve-euros-tras-201304041018.html
+</guid>
+</item>
+<item>
+<title>
+<![CDATA[
+Cola kilométrica para el reparto de 10.000 'pastelicos' de carne
+]]>
+</title>
+<link>
+http://www.laverdad.es/murcia/v/20130404/murcia/cola-kilometrica-para-reparto-20130404.html
+</link>
+<description>
+<![CDATA[
+16 confiterías murcianas regalaron el famoso disco de hojaldre y Estrella de Levante sirvió más de 25.000 cañas en Belluga
+]]>
+</description>
+<pubDate>Thu, 04 Apr 2013 08:10:02 GMT</pubDate>
+<guid>
+http://www.laverdad.es/murcia/v/20130404/murcia/cola-kilometrica-para-reparto-20130404.html
+</guid>
+</item>
+</channel>
+</rss>

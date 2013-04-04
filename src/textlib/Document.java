@@ -64,47 +64,64 @@ public class Document {
 		buildStopWords();
 		buildImportantWords();
 		buildLinkingWords();
-		String title;
 		String titleWord;
+		boolean title=false;
+		boolean paragraph=false;
 
 		try {
 			br = new BufferedReader(new FileReader(filename));
-			
-			
 			line = br.readLine();
-			title = line;
-			titleTokens = new StringTokenizer(title, ":; \"\',.[]{}()!?-/");
-		
-			while(titleTokens.hasMoreTokens()){
-				titleWord= titleTokens.nextToken().toLowerCase();
-				titleWord.trim();
-				titleWords.add(titleWord);
-				System.out.println(titleWords.getLast());
-			}
-				
 			
-			while (line != null) {
-				tokens = new StringTokenizer(line, ":; \"\',.[]{}()!?-/");
-				while(tokens.hasMoreTokens()) {
-					word = tokens.nextToken().toLowerCase();
-					word.trim();
-				
+			
+			while (!title){
+				titleTokens = new StringTokenizer(line, ":; \"\',.[]{}()!?-/<>");
+			
+				if (titleTokens.hasMoreTokens() && titleTokens.nextToken().toLowerCase().equals("title")){
+			
 					
-					if(isStopWord(word) || word.length() < 3) continue;
-					if (words.get(word) == null) {
-						tempdata = new Double[]{1.0,0.0};
-						words.put(word, tempdata);
+					while(titleTokens.hasMoreTokens()){
+						
+						titleWord= titleTokens.nextToken().toLowerCase();
+						titleWord.trim();
+						
+						if (!titleWord.equals("title")){
+							titleWords.add(titleWord);
+							System.out.println("TITULO---->" + titleWords.getLast());
+						}
 						
 					}
-					else {
-						tempdata = words.get(word);
-						tempdata[0]++;
-						words.put(word,tempdata);
-					}
-					sumof_n_kj++;
+					title=true;
 				}
 				line = br.readLine();
-
+				
+			}
+			
+			br = new BufferedReader(new FileReader(filename));
+			line = br.readLine();
+			while (line != null) {
+				tokens = new StringTokenizer(line, ":; \"\',.[]{}()!?-/");
+	
+					while(tokens.hasMoreTokens()) {
+						word = tokens.nextToken().toLowerCase();
+						word.trim();
+					
+						
+						if(isStopWord(word) || word.length() < 3) continue;
+						if (words.get(word) == null) {
+							tempdata = new Double[]{1.0,0.0};
+							words.put(word, tempdata);
+							
+						}
+						else {
+							tempdata = words.get(word);
+							tempdata[0]++;
+							words.put(word,tempdata);
+						}
+						sumof_n_kj++;
+					}
+				
+				line = br.readLine();
+				
 			}
 		} catch (IOException e) {
 			e.printStackTrace();
@@ -354,9 +371,9 @@ public void buildLinkingWords(){
 
 					}
 					lema = lema/numWords;
-					lemaTotal = lemaTotal + lema;
-					System.out.println("lematotalll***************" + lemaTotal);
-
+					if(lema > 0)
+						lemaTotal = lemaTotal + lema;
+					
 					sentenceLema.put(lema, word);
 					System.out.println(" LEMASS ----->>>>> " + word + "---" + lema );
 					System.out.println("\n");
@@ -366,6 +383,9 @@ public void buildLinkingWords(){
 				line = br.readLine();
 
 			}
+			
+			System.out.println("¿?????????????" + lemaTotal);
+			
 
 		}
 		catch (IOException e) {
@@ -399,7 +419,7 @@ public void buildLinkingWords(){
 	}
 	public static void main(String[] args){
 
-		Document tf = new Document("C:/Users/USUARIO/Documents/GitHub/Proyecto/Corpus/holaque.txt");
+		Document tf = new Document("C:/Users/USUARIO/Documents/GitHub/Proyecto/Corpus/html.txt");
 		String word;
 		Double[] corpusdata;
 		String[] bwords;
@@ -424,7 +444,7 @@ public void buildLinkingWords(){
 
 		//////////////////////////////
 
-		tf.obtenerFrases("C:/Users/USUARIO/Documents/GitHub/Proyecto/Corpus/holaque.txt");
+		tf.obtenerFrases("C:/Users/USUARIO/Documents/GitHub/Proyecto/Corpus/html.txt");
 		tf.normalizarLema();
 
 		System.out.println(tf.getSentences());
