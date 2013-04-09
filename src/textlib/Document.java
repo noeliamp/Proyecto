@@ -66,7 +66,6 @@ public class Document {
 		buildLinkingWords();
 		String titleWord;
 		boolean title=false;
-		boolean paragraph=false;
 
 		try {
 			br = new BufferedReader(new FileReader(filename));
@@ -101,6 +100,7 @@ public class Document {
 			while (line != null) {
 				tokens = new StringTokenizer(line, ":; \"\',.[]{}()!?-/");
 	
+				if (tokens.hasMoreTokens() && tokens.nextToken().toLowerCase().equals("p")){
 					while(tokens.hasMoreTokens()) {
 						word = tokens.nextToken().toLowerCase();
 						word.trim();
@@ -119,7 +119,7 @@ public class Document {
 						}
 						sumof_n_kj++;
 					}
-				
+			}
 				line = br.readLine();
 				
 			}
