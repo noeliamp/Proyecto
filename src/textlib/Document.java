@@ -33,11 +33,12 @@ public class Document {
 	double lemaTotal;
 	TreeMap<Double, String> sentenceLema;
 
-	
+
 	public LinkedList<String> getSentences() {
-		
-		LinkedList<String> copia = new LinkedList<String>(sentences);
-		return copia;
+
+		return sentences;
+//		LinkedList<String> copia = new LinkedList<String>(sentences);
+//		return copia;
 	}
 
 	/**
@@ -51,7 +52,6 @@ public class Document {
 		String line;
 		String word;
 		StringTokenizer tokens;
-		StringTokenizer titleTokens;
 		sumof_n_kj = 0;
 		vectorlength = 0;
 		Double[] tempdata;
@@ -64,69 +64,42 @@ public class Document {
 		buildStopWords();
 		buildImportantWords();
 		buildLinkingWords();
+		String title;
 		String titleWord;
-		boolean title=false;
 
 		try {
 			br = new BufferedReader(new FileReader(filename));
+
+
 			line = br.readLine();
-			
-			
-			while (!title){
-				titleTokens = new StringTokenizer(line, ":; \"\',.[]{}()!?-/<>");
-			
-				if (titleTokens.hasMoreTokens() && titleTokens.nextToken().toLowerCase().equals("title")){
-			
-					
-					while(titleTokens.hasMoreTokens()){
-						
-						titleWord= titleTokens.nextToken().toLowerCase();
-						titleWord.trim();
-						
-						if (!titleWord.equals("title")){
-							titleWords.add(titleWord);
-							System.out.println("TITULO---->" + titleWords.getLast());
-						}
-						
-					}
-					title=true;
-				}
-				line = br.readLine();
-				
-			}
-			
-			br = new BufferedReader(new FileReader(filename));
-			line = br.readLine();
+		
 			while (line != null) {
 				tokens = new StringTokenizer(line, ":; \"\',.[]{}()!?-/");
-	
-				if (tokens.hasMoreTokens() && tokens.nextToken().toLowerCase().equals("p")){
-					while(tokens.hasMoreTokens()) {
-						word = tokens.nextToken().toLowerCase();
-						word.trim();
-					
-						
-						if(isStopWord(word) || word.length() < 3) continue;
-						if (words.get(word) == null) {
-							tempdata = new Double[]{1.0,0.0};
-							words.put(word, tempdata);
-							
-						}
-						else {
-							tempdata = words.get(word);
-							tempdata[0]++;
-							words.put(word,tempdata);
-						}
-						sumof_n_kj++;
+				while(tokens.hasMoreTokens()) {
+					word = tokens.nextToken().toLowerCase();
+					word.trim();
+
+
+					if(isStopWord(word) || word.length() < 3) continue;
+					if (words.get(word) == null) {
+						tempdata = new Double[]{1.0,0.0};
+						words.put(word, tempdata);
+
 					}
-			}
+					else {
+						tempdata = words.get(word);
+						tempdata[0]++;
+						words.put(word,tempdata);
+					}
+					sumof_n_kj++;
+				}
 				line = br.readLine();
-				
+
 			}
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
-		
+
 		// Iterate through the words to fill their tf's
 		for (Iterator<String> it = words.keySet().iterator(); it.hasNext(); ) {
 			word = it.next();
@@ -136,12 +109,12 @@ public class Document {
 		}
 
 	}
-	
+
 	public void buildStopWords(){
-		
+
 		BufferedReader br;
 		String line;
-		
+
 		try {
 			br = new BufferedReader(new FileReader("C:/Users/USUARIO/Documents/GitHub/Proyecto/stopWords.txt"));
 			line = br.readLine();
@@ -154,13 +127,13 @@ public class Document {
 		catch (IOException e) {
 			e.printStackTrace();
 		}
-		
+
 		}
 	public void buildImportantWords(){
-		
+
 		BufferedReader br;
 		String line;
-		
+
 		try {
 			br = new BufferedReader(new FileReader("C:/Users/USUARIO/Documents/GitHub/Proyecto/importantWords.txt"));
 			line = br.readLine();
@@ -174,14 +147,14 @@ public class Document {
 		catch (IOException e) {
 			e.printStackTrace();
 		}
-		
+
 	}
-	
+
 public void buildLinkingWords(){
-		
+
 		BufferedReader br;
 		String line;
-		
+
 		try {
 			br = new BufferedReader(new FileReader("C:/Users/USUARIO/Documents/GitHub/Proyecto/linkingWords.txt"));
 			line = br.readLine();
@@ -194,7 +167,7 @@ public void buildLinkingWords(){
 		catch (IOException e) {
 			e.printStackTrace();
 		}
-		
+
 	}
 	public LinkedList<String> getStopWords() {
 		return stopWords;
@@ -202,14 +175,14 @@ public void buildLinkingWords(){
 	public LinkedList<String> getTitleWords() {
 		return titleWords;
 	}
-	
+
 	public LinkedList<String> getImportantWords() {
 		return importantWords;
 	}
 	public LinkedList<String> getLinkingWords() {
 		return linkingWords;
 	}
-	
+
 	public boolean isStopWord(String word){
 		for (String w : getStopWords()){
 			if (w.equals(word)) 
@@ -217,7 +190,7 @@ public void buildLinkingWords(){
 		}
 		return false;
 	}
-	
+
 
 	public boolean isTitleWord(String word){
 		for (String w : getTitleWords()){
@@ -226,7 +199,7 @@ public void buildLinkingWords(){
 		}
 		return false;
 	}
-	
+
 	public boolean isImportantWord(String word){
 		for (String w : getImportantWords()){
 			if (w.equals(word)) 
@@ -234,7 +207,7 @@ public void buildLinkingWords(){
 		}
 		return false;
 	}
-	
+
 	public boolean isLinkingWord(String word){
 		for (String w : getLinkingWords()){
 			if (w.equals(word)) 
@@ -258,35 +231,35 @@ public void buildLinkingWords(){
 		}
 		return bestwords;
 	}
-	
+
 	public void postProcesado(){
 		StringTokenizer allTokens;
 		String allWord;
 		int second;
 		String newSentence;
-		
+
 		for (String s : this.getSentences()){
 			allTokens = new StringTokenizer(s, ":; \"\',.[]{}()!?-/");
-			
-		
+
+
 				allWord= allTokens.nextToken().toLowerCase();
 				allWord.trim();
 				if (linkingWords.contains(allWord)){
 					second = allSentences.indexOf(s);
 					newSentence = allSentences.get(second-1);
-					
+
 					if(!sentences.contains(newSentence)){
 						second = sentences.indexOf(s);
 						sentences.add(second, newSentence);
 					}
-					
+
 				}
-					
-			
-			
+
+
+
 		}
 	}
-	
+
 	/**
 	 * Override for bestWordList with default number of words of 10
 	 * @return String array of best words
@@ -294,7 +267,7 @@ public void buildLinkingWords(){
 	public String[] bestWordList() {
 		return bestWordList(20);
 	}
-	
+
 	/** inner class to do sorting of the map **/
 	private static class ValueComparer implements Comparator<String> {
 		private TreeMap<String, Double[]>  _data = null;
@@ -315,7 +288,7 @@ public void buildLinkingWords(){
              return 0;
          }
 	}
-	
+
 	//////////////////////////////////////////////// 
 	public void obtenerFrases(String filename){
 		String line;
@@ -327,8 +300,8 @@ public void buildLinkingWords(){
 		double lema;
 		Double[] temporal;
 		int numWords;
-		
-		
+
+
 		try {
 			lemaTotal = 0;
 			sentenceLema = new TreeMap<Double, String>();
@@ -336,14 +309,14 @@ public void buildLinkingWords(){
 			sentences = new LinkedList<String>();
 			br = new BufferedReader(new FileReader(filename));
 			line = br.readLine();
-		
+
 			while (line != null) {
-				tokens = new StringTokenizer(line, ".,");
+				tokens = new StringTokenizer(line, ".");
 				while(tokens.hasMoreTokens()) {
 					word = tokens.nextToken().toLowerCase();
 					word.trim();
 					allSentences.add(word);
-					
+
 					lema = 0;
 					tokens2= new StringTokenizer(word, " ");
 					numWords = tokens2.countTokens();
@@ -352,86 +325,86 @@ public void buildLinkingWords(){
 					while (tokens2.hasMoreTokens()){
 						onebyone = tokens2.nextToken().toLowerCase();
 						onebyone.trim();
-						
+
 						temporal=words.get(onebyone);
 						if (temporal != null)
 						lema = lema + temporal[0];
-						
-						
+
+
 						for (String w : this.bestWordList()){
 							if (onebyone.equals(w) || importantWords.contains(onebyone) || titleWords.contains(onebyone)){
 								if (!sentences.contains(word) && numWords>4){
 									sentences.add(word);
-									
+
 									System.out.println("Añadida ----->>>" + sentences.getLast());
 
 								}
-							}
+							} 
 						}
 
 					}
+			
+					
 					lema = lema/numWords;
 					if(lema > 0)
 						lemaTotal = lemaTotal + lema;
-					
+
 					sentenceLema.put(lema, word);
 					System.out.println(" LEMASS ----->>>>> " + word + "---" + lema );
 					System.out.println("\n");
-
+					
+					
 				}
 
 				line = br.readLine();
 
 			}
-			
-			System.out.println("¿?????????????" + lemaTotal);
-			
 
 		}
 		catch (IOException e) {
 			e.printStackTrace();
 		}
-		
-		System.out.println("lematotalll" + lemaTotal);
+
+		System.out.println("lematotal -> " + lemaTotal);
 
 		}
-	
-	
+
+
 	public void normalizarLema(){
 		double d;
 		String s;
-		
+
 
 		for (Iterator<Double> it = sentenceLema.keySet().iterator(); it.hasNext(); ) {
 			d = it.next();
 			s = sentenceLema.get(d);
 			// d= (d/lemaTotal); ¿como normalizar?
-			
+
 
 			System.out.println(d);
 			sentenceLema.put(d,s);
 			System.out.println(" LEMAS//PRUEBA ----->>>>> " + s + "---" + d );
 
-			
+
 		}
 
-		
+
 	}
 	public static void main(String[] args){
 
-		Document tf = new Document("C:/Users/USUARIO/Documents/GitHub/Proyecto/Corpus/html.txt");
+		Document tf = new Document("C:/Users/USUARIO/Documents/GitHub/Proyecto/Corpus/holaque.txt");
 		String word;
 		Double[] corpusdata;
 		String[] bwords;
-		
-		
+
+
 		for (Iterator<String> it = tf.words.keySet().iterator(); it.hasNext(); ) {
 			word = it.next();
 			corpusdata = tf.words.get(word);
 			System.out.println(word + " " + corpusdata[0] + " " + corpusdata[1]);
 		}	
-	
-		
+
+
 		System.out.println("\n");
 
 		System.out.println("hola.txt");
@@ -444,7 +417,7 @@ public void buildLinkingWords(){
 
 		//////////////////////////////
 
-		tf.obtenerFrases("C:/Users/USUARIO/Documents/GitHub/Proyecto/Corpus/html.txt");
+		tf.obtenerFrases("C:/Users/USUARIO/Documents/GitHub/Proyecto/Corpus/holaque.txt");
 		tf.normalizarLema();
 
 		System.out.println(tf.getSentences());
@@ -453,8 +426,8 @@ public void buildLinkingWords(){
 		System.out.println(tf.getSentences());
 		System.out.println(tf.sentences.size());
 		System.out.println("Total---> " + tf.allSentences.size());
-		
-	
-	
-	
+
+
+
+
 }}
