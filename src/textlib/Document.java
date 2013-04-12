@@ -34,12 +34,7 @@ public class Document {
 	TreeMap<Double, String> sentenceLema;
 
 
-	public LinkedList<String> getSentences() {
 
-		return sentences;
-//		LinkedList<String> copia = new LinkedList<String>(sentences);
-//		return copia;
-	}
 
 	/**
 	 * Constructor for document class that is used by the parent TfIdf class
@@ -207,7 +202,11 @@ public void buildLinkingWords(){
 		}
 		return false;
 	}
+	public LinkedList<String> getSentences() {
 
+		LinkedList<String> copia = new LinkedList<String>(sentences);
+		return copia;
+	}
 	public boolean isLinkingWord(String word){
 		for (String w : getLinkingWords()){
 			if (w.equals(word)) 
@@ -315,7 +314,9 @@ public void buildLinkingWords(){
 				while(tokens.hasMoreTokens()) {
 					word = tokens.nextToken().toLowerCase();
 					word.trim();
-					allSentences.add(word);
+					
+					if(!allSentences.contains(word))
+						allSentences.add(word);
 
 					lema = 0;
 					tokens2= new StringTokenizer(word, " ");
@@ -335,7 +336,8 @@ public void buildLinkingWords(){
 							if (onebyone.equals(w) || importantWords.contains(onebyone) || titleWords.contains(onebyone)){
 								if (!sentences.contains(word) && numWords>4){
 									sentences.add(word);
-
+								
+									
 									System.out.println("Añadida ----->>>" + sentences.getLast());
 
 								}
@@ -355,7 +357,6 @@ public void buildLinkingWords(){
 					
 					
 				}
-
 				line = br.readLine();
 
 			}
@@ -369,6 +370,10 @@ public void buildLinkingWords(){
 
 		}
 
+
+	public void setAllSentences(LinkedList<String> allSentences) {
+		this.allSentences = allSentences;
+	}
 
 	public void normalizarLema(){
 		double d;
@@ -390,6 +395,11 @@ public void buildLinkingWords(){
 
 
 	}
+	public LinkedList<String> getAllSentences() {
+		LinkedList<String> copia = new LinkedList<String>(allSentences);
+		return copia;
+	}
+	
 	public static void main(String[] args){
 
 		Document tf = new Document("C:/Users/USUARIO/Documents/GitHub/Proyecto/Corpus/holaque.txt");
@@ -425,9 +435,11 @@ public void buildLinkingWords(){
 		tf.postProcesado();
 		System.out.println(tf.getSentences());
 		System.out.println(tf.sentences.size());
-		System.out.println("Total---> " + tf.allSentences.size());
+		System.out.println("Total---> " + tf.getAllSentences().size());
 
 
 
 
-}}
+}
+
+}

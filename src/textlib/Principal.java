@@ -87,11 +87,15 @@ public class Principal {
 			tf.normalizarLema();
 
 			System.out.println(tf.getSentences());
-			System.out.println(tf.sentences.size());
+			System.out.println(tf.getSentences().size());
 			tf.postProcesado();
 			System.out.println(tf.getSentences());
-			System.out.println(tf.sentences.size());
+			System.out.println(tf.getSentences().size());
 			System.out.println("Total---> " + tf.allSentences.size());
+			
+
+
+		
 	}
 
 }
