@@ -59,8 +59,7 @@ public class Document {
 		buildStopWords();
 		buildImportantWords();
 		buildLinkingWords();
-		String title;
-		String titleWord;
+
 
 		try {
 			br = new BufferedReader(new FileReader(filename));
@@ -238,7 +237,7 @@ public void buildLinkingWords(){
 		String newSentence;
 
 		for (String s : this.getSentences()){
-			allTokens = new StringTokenizer(s, ":; \"\',.[]{}()!?-/");
+			allTokens = new StringTokenizer(s, ":; \"\',. []{}()!?-/");
 
 
 				allWord= allTokens.nextToken().toLowerCase();
@@ -321,7 +320,7 @@ public void buildLinkingWords(){
 					lema = 0;
 					tokens2= new StringTokenizer(word, " ");
 					numWords = tokens2.countTokens();
-					System.out.println( " --numero palabras--- " + numWords);
+				//	System.out.println( " --numero palabras--- " + numWords);
 
 					while (tokens2.hasMoreTokens()){
 						onebyone = tokens2.nextToken().toLowerCase();
@@ -366,35 +365,33 @@ public void buildLinkingWords(){
 			e.printStackTrace();
 		}
 
-		System.out.println("lematotal -> " + lemaTotal);
+	//	System.out.println("lematotal -> " + lemaTotal);
 
 		}
 
 
-	public void setAllSentences(LinkedList<String> allSentences) {
-		this.allSentences = allSentences;
-	}
+	public void Porcentaje(int porcentaje){
+		
+		double num;
+		double resultado;
+		
+		num =  getSentenceLema().size();
+		System.out.println("TAMAÑOOO---" + getSentenceLema().size());
+		resultado = (num * porcentaje)/100;
+		System.out.println(resultado);
 
-	public void normalizarLema(){
-		double d;
-		String s;
-
-
-		for (Iterator<Double> it = sentenceLema.keySet().iterator(); it.hasNext(); ) {
-			d = it.next();
-			s = sentenceLema.get(d);
-			// d= (d/lemaTotal); ¿como normalizar?
-
-
-			System.out.println(d);
-			sentenceLema.put(d,s);
-			System.out.println(" LEMAS//PRUEBA ----->>>>> " + s + "---" + d );
-
-
+		
+		for (int i = 1 ; i<=resultado+1 ; i++){
+			System.out.println("Finalistas----" + getSentenceLema().get(getSentenceLema().lastKey()) );
+			sentenceLema.remove(getSentenceLema().lastKey());
 		}
-
-
+		
 	}
+
+	public TreeMap<Double, String> getSentenceLema() {
+		return sentenceLema;
+	}
+
 	public LinkedList<String> getAllSentences() {
 		LinkedList<String> copia = new LinkedList<String>(allSentences);
 		return copia;
@@ -428,7 +425,6 @@ public void buildLinkingWords(){
 		//////////////////////////////
 
 		tf.obtenerFrases("C:/Users/USUARIO/Documents/GitHub/Proyecto/Corpus/holaque.txt");
-		tf.normalizarLema();
 
 		System.out.println(tf.getSentences());
 		System.out.println(tf.sentences.size());
