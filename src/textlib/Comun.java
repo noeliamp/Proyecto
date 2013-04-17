@@ -13,7 +13,17 @@ public String Parseado(String dir, String patern) throws IOException{
 	
 	Document doc = Jsoup.connect(dir).get();
 	Element content = doc.getElementById(patern);
-	String text = content.text(); 	
+	
+	if (content.children().first().tagName() == "p"){
+	
+		for (Element child : content.children()){
+			if (child.tagName() != "p")
+			child.remove();
+			
+		}
+	}
+		
+	String text = content.text() ; 	
 	return text;
 }
 

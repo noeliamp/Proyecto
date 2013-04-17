@@ -10,6 +10,7 @@ import java.util.SortedMap;
 import java.util.StringTokenizer;
 import java.util.TreeMap;
 
+
 /**
  * Class that represents a text document
  * Keeps track of the number of times a word appears in the document, it's term frequency, and 
@@ -32,7 +33,8 @@ public class Document {
 	LinkedList<String> allSentences;
 	double lemaTotal;
 	TreeMap<Double, String> sentenceLema;
-
+	LinkedList<String> finalistas;
+	LinkedList<String> mostradas;
 
 
 
@@ -59,7 +61,8 @@ public class Document {
 		buildStopWords();
 		buildImportantWords();
 		buildLinkingWords();
-
+		
+		
 
 		try {
 			br = new BufferedReader(new FileReader(filename));
@@ -68,10 +71,12 @@ public class Document {
 			line = br.readLine();
 		
 			while (line != null) {
-				tokens = new StringTokenizer(line, ":; \"\',.[]{}()!?-/");
+				tokens = new StringTokenizer(line, ":; \"\',.[]{}()!?-/", true);
 				while(tokens.hasMoreTokens()) {
-					word = tokens.nextToken().toLowerCase();
-					word.trim();
+					//word = tokens.nextToken().toLowerCase();
+					word = tokens.nextToken();
+
+					// word.trim();
 
 
 					if(isStopWord(word) || word.length() < 3) continue;
@@ -163,6 +168,8 @@ public void buildLinkingWords(){
 		}
 
 	}
+
+
 	public LinkedList<String> getStopWords() {
 		return stopWords;
 	}
@@ -236,19 +243,21 @@ public void buildLinkingWords(){
 		int second;
 		String newSentence;
 
-		for (String s : this.getSentences()){
-			allTokens = new StringTokenizer(s, ":; \"\',. []{}()!?-/");
+		for (String s : getMostradas()){
+			allTokens = new StringTokenizer(s, ":; \"\',.[]{}()!?-/", true);
 
 
-				allWord= allTokens.nextToken().toLowerCase();
-				allWord.trim();
+				//allWord= allTokens.nextToken().toLowerCase();
+				allWord= allTokens.nextToken();
+
+				//allWord.trim();
 				if (linkingWords.contains(allWord)){
 					second = allSentences.indexOf(s);
 					newSentence = allSentences.get(second-1);
 
-					if(!sentences.contains(newSentence)){
-						second = sentences.indexOf(s);
-						sentences.add(second, newSentence);
+					if(!mostradas.contains(newSentence)){
+						second = mostradas.indexOf(s);
+						mostradas.add(second, newSentence);
 					}
 
 				}
@@ -290,6 +299,8 @@ public void buildLinkingWords(){
 	//////////////////////////////////////////////// 
 	public void obtenerFrases(String filename){
 		String line;
+
+
 		BufferedReader br;
 		StringTokenizer tokens;
 		String word;
@@ -298,7 +309,7 @@ public void buildLinkingWords(){
 		double lema;
 		Double[] temporal;
 		int numWords;
-
+		
 
 		try {
 			lemaTotal = 0;
@@ -307,54 +318,62 @@ public void buildLinkingWords(){
 			sentences = new LinkedList<String>();
 			br = new BufferedReader(new FileReader(filename));
 			line = br.readLine();
+	
 
+			
+		
 			while (line != null) {
-				tokens = new StringTokenizer(line, ".");
+				tokens = new StringTokenizer(line, ".", true);
+				
+				/// locura
+				String[] tokensVector = line.split("\\.\\s");
+				for (int i = 0;i<tokensVector.length; i++){
+					System.out.println(i + " Frases con split*************" + tokensVector[i]);
+				}
+				////
+				
 				while(tokens.hasMoreTokens()) {
-					word = tokens.nextToken().toLowerCase();
-					word.trim();
-					
+				//	word = tokens.nextToken().toLowerCase();
+					word = tokens.nextToken();
+				//	word.trim();
+
 					if(!allSentences.contains(word))
 						allSentences.add(word);
 
 					lema = 0;
 					tokens2= new StringTokenizer(word, " ");
 					numWords = tokens2.countTokens();
-				//	System.out.println( " --numero palabras--- " + numWords);
+//					System.out.println( " --numero palabras--- " + numWords);
 
 					while (tokens2.hasMoreTokens()){
-						onebyone = tokens2.nextToken().toLowerCase();
-						onebyone.trim();
+					//	onebyone = tokens2.nextToken().toLowerCase();
+						onebyone = tokens2.nextToken();
+
+						// onebyone.trim();
 
 						temporal=words.get(onebyone);
 						if (temporal != null)
 						lema = lema + temporal[0];
 
-
 						for (String w : this.bestWordList()){
 							if (onebyone.equals(w) || importantWords.contains(onebyone) || titleWords.contains(onebyone)){
 								if (!sentences.contains(word) && numWords>4){
 									sentences.add(word);
-								
-									
-									System.out.println("Añadida ----->>>" + sentences.getLast());
-
+									lema++;
 								}
 							} 
 						}
 
 					}
-			
-					
+
+//					System.out.println("---" + lema);
 					lema = lema/numWords;
-					if(lema > 0)
-						lemaTotal = lemaTotal + lema;
 
 					sentenceLema.put(lema, word);
-					System.out.println(" LEMASS ----->>>>> " + word + "---" + lema );
-					System.out.println("\n");
-					
-					
+//					System.out.println(" LEMASS ----->>>>> " + word + "---" + lema );
+//					System.out.println("\n");
+
+
 				}
 				line = br.readLine();
 
@@ -370,22 +389,37 @@ public void buildLinkingWords(){
 		}
 
 
+	public LinkedList<String> getFinalistas() {
+		return finalistas;
+	}
+
+	public LinkedList<String> getMostradas() {
+		return mostradas;
+	}
+
 	public void Porcentaje(int porcentaje){
 		
 		double num;
 		double resultado;
-		
+		finalistas = new LinkedList<String>();
+		mostradas = new LinkedList<String>();
+
 		num =  getSentenceLema().size();
-		System.out.println("TAMAÑOOO---" + getSentenceLema().size());
 		resultado = (num * porcentaje)/100;
-		System.out.println(resultado);
 
 		
-		for (int i = 1 ; i<=resultado+1 ; i++){
-			System.out.println("Finalistas----" + getSentenceLema().get(getSentenceLema().lastKey()) );
+		for (int i = 1 ; i <= resultado+1 ; i++){
+			finalistas.add(getSentenceLema().get(getSentenceLema().lastKey()));
 			sentenceLema.remove(getSentenceLema().lastKey());
 		}
 		
+		for (String m : getSentences()){
+			for (String f : getFinalistas()){
+				if (m.equals(f) && !mostradas.contains(m)){
+					mostradas.add(m);
+				}
+			}
+		}
 	}
 
 	public TreeMap<Double, String> getSentenceLema() {
