@@ -53,10 +53,10 @@ namespace Codigo
             try
             {
 
-                using (StreamReader br = new StreamReader(filename))
+                using (StreamReader br = new StreamReader(filename, Encoding.UTF7))
                 {
                     line = br.ReadLine();
-                    string pattern = @" |,|:|/|\\|\'|.\\s";
+                    string pattern = @" |,|:|/|\\|\'|.\\s|\?|\!|\¡|\¿|\(|\)|\{|\}|\[|\]|\""";
                     while (line != null)
                     {
                         

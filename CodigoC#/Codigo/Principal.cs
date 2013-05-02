@@ -15,11 +15,11 @@ namespace Codigo
             string s;
             RssManager lector = new RssManager();
 
-            Console.WriteLine("Periódico La Verdad");
-            LinkedList<RssFeedItem> lista = lector.ReadFeed("http://www.laverdad.es/murcia/portada.xml");
+           // Console.WriteLine("Periódico La Verdad");
+           // LinkedList<RssFeedItem> lista = lector.ReadFeed("http://www.laverdad.es/murcia/portada.xml");
 
-            //Console.WriteLine("Periódico El País");
-            //LinkedList<RssFeedItem> lista = lector.ReadFeed("http://ep00.epimg.net/rss/elpais/portada.xml");
+            Console.WriteLine("Periódico El País");
+            LinkedList<RssFeedItem> lista = lector.ReadFeed("http://ep00.epimg.net/rss/elpais/portada.xml");
 
             Console.WriteLine("----------------------------------------------------------");
 
@@ -28,7 +28,7 @@ namespace Codigo
             using (StreamWriter writer = new StreamWriter("C:/Users/USUARIO/Desktop/prueba1.txt"))
             {
 
-                s = parser.Parseado(lista.First().Link, "ccronica");
+                s = parser.Parseado(lista.First().Link, "cuerpo_noticia");
 
                 Console.WriteLine("DIRECCION " + lista.First().Link);
                 Console.WriteLine("TEXTO DE LA NOTICIA: " + s);
