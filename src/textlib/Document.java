@@ -22,19 +22,19 @@ import java.util.TreeMap;
  *
  */
 public class Document {
-	public TreeMap<String, Double[]> words; // n_ij, tf_ij, tf_idf
-	int sumof_n_kj;
-	double vectorlength;
-	LinkedList<String> stopWords;
-	LinkedList<String> sentences;
-	LinkedList<String> titleWords;
-	LinkedList<String> importantWords;
-	LinkedList<String> linkingWords;
-	LinkedList<String> allSentences;
-	double lemaTotal;
-	TreeMap<Double, String> sentenceLema;
-	LinkedList<String> finalistas;
-	LinkedList<String> mostradas;
+	private TreeMap<String, Double[]> words; // n_ij, tf_ij, tf_idf
+	private int sumof_n_kj;
+	private double vectorlength;
+	private LinkedList<String> stopWords;
+	private LinkedList<String> sentences;
+	private LinkedList<String> titleWords;
+	private LinkedList<String> importantWords;
+	private LinkedList<String> linkingWords;
+	private LinkedList<String> allSentences;
+	private double lemaTotal;
+	private TreeMap<Double, String> sentenceLema;
+	private LinkedList<String> finalistas;
+	private LinkedList<String> mostradas;
 
 
 
@@ -71,7 +71,7 @@ public class Document {
 			line = br.readLine();
 		
 			while (line != null) {
-				tokens = new StringTokenizer(line, ":; \"\',.[]{}()!?-/", true);
+				tokens = new StringTokenizer(line, ":; \"\',.[]{}()!?-/");
 				while(tokens.hasMoreTokens()) {
 					//word = tokens.nextToken().toLowerCase();
 					word = tokens.nextToken();
@@ -285,9 +285,8 @@ public void buildLinkingWords(){
 
          public int compare(String o1, String o2) {
         	 double e1 = ((Double[]) _data.get(o1))[1];
-        	// System.out.println("--------->" + e1);
              double e2 = ((Double[]) _data.get(o2))[1];
-        	// System.out.println("--------->" + e2);
+
 
              if (e1 > e2) return -1;
              if (e1 == e2) return 0;

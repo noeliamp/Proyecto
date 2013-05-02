@@ -75,10 +75,11 @@ public class Principal {
 				word = tokens.nextToken().toLowerCase();
 				word.trim();
 				if (tf.isStopWord(word)) continue;
-				tf.titleWords.add(word);
+				tf.getTitleWords().add(word);
 			}
 			
 
+			
 			////////////////// Muestra cada palabra con su TF /////////////////////////////
 //			for (Iterator<String> it = tf.words.keySet().iterator(); it.hasNext(); ) {
 //				word = it.next();
@@ -124,7 +125,7 @@ public class Principal {
 			System.out.println("\n");
 
 			
-			System.out.println("Tamaño Total de la noticia ---> " + tf.allSentences.size());
+			System.out.println("Tamaño Total de la noticia ---> " + tf.getAllSentences().size());
 			
 			// borrar el fichero de salida del que se toma la noticia
 			
