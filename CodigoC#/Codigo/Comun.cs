@@ -18,7 +18,7 @@ class Comun {
     public string Parseado(string dir, string patern)
     {
 
-
+        
 
         WebClient html = new WebClient();
         string h = html.DownloadString(dir);
@@ -27,7 +27,6 @@ class Comun {
         doc.LoadHtml(h);
 
         HtmlNode content = doc.GetElementbyId(patern);
-
         var forms = content.Descendants().Where(node => node.Name == "p");
 
         string text = "";

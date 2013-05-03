@@ -25,13 +25,13 @@ namespace Codigo
 
             Comun parser = new Comun();
 
-            using (StreamWriter writer = new StreamWriter("C:/Users/USUARIO/Desktop/prueba1.txt"))
+            using (StreamWriter writer = new StreamWriter("C:/Users/USUARIO/Desktop/prueba1.txt", false, Encoding.Default))
             {
-
+               
                 s = parser.Parseado(lista.First().Link, "cuerpo_noticia");
 
                 Console.WriteLine("DIRECCION " + lista.First().Link);
-                Console.WriteLine("TEXTO DE LA NOTICIA: " + s);
+                Console.WriteLine("TEXTO DE LA NOTICIA: ", Encoding.UTF8.GetString(s));
 
                 writer.Write(s);
                 writer.Close();
@@ -90,6 +90,7 @@ namespace Codigo
 
 
             tf.postProcesado();
+
             Console.WriteLine("Tamaño del resumen despues de procesar: " + tf.getMostradas().Count + "\n");
 
             foreach (string punto1 in tf.getMostradas())
@@ -113,7 +114,7 @@ namespace Codigo
 
             // escribir el resumen en el fichero
 
-            using (StreamWriter resumen = new StreamWriter("C:/Users/USUARIO/Desktop/prueba2.txt"))
+            using (StreamWriter resumen = new StreamWriter("C:/Users/USUARIO/Desktop/prueba2.txt", false, Encoding.Default))
             {
                 foreach (string linea in tf.getMostradas())
                 {

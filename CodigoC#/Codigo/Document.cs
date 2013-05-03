@@ -53,10 +53,11 @@ namespace Codigo
             try
             {
 
-                using (StreamReader br = new StreamReader(filename, Encoding.UTF7))
+                using (StreamReader br = new StreamReader(filename, Encoding.Default))
                 {
+                   
                     line = br.ReadLine();
-                    string pattern = @" |,|:|/|\\|\'|.\\s|\?|\!|\¡|\¿|\(|\)|\{|\}|\[|\]|\""";
+                    string pattern = @",\\s|:|/|\\|\'|.\\s|\?|\!|\¡|\¿|\s|\(|\)|\{|\}|\[|\]|\""";
                     while (line != null)
                     {
                         
@@ -113,8 +114,9 @@ namespace Codigo
             string line;
             try
             {
-                using (StreamReader br = new StreamReader("C:/Users/USUARIO/Documents/GitHub/Proyecto/stopWords.txt", Encoding.UTF7))
+                using (StreamReader br = new StreamReader("C:/Users/USUARIO/Documents/GitHub/Proyecto/stopWords.txt", Encoding.Default))
                 {
+                   
                     line = br.ReadLine();
                    
                     while (line != null)
@@ -138,8 +140,9 @@ namespace Codigo
 
             try
             {
-                using (StreamReader br = new StreamReader("C:/Users/USUARIO/Documents/GitHub/Proyecto/importantWords.txt", Encoding.UTF7))
+                using (StreamReader br = new StreamReader("C:/Users/USUARIO/Documents/GitHub/Proyecto/importantWords.txt", Encoding.Default))
                 {
+                   
                     line = br.ReadLine();
 
                     while (line != null)
@@ -164,8 +167,9 @@ namespace Codigo
 
             try
             {
-                using (StreamReader br = new StreamReader("C:/Users/USUARIO/Documents/GitHub/Proyecto/linkingWords.txt", Encoding.UTF7))
+                using (StreamReader br = new StreamReader("C:/Users/USUARIO/Documents/GitHub/Proyecto/linkingWords.txt", Encoding.Default))
                 {
+              
                     line = br.ReadLine();
                 while (line != null)
                 {
@@ -202,8 +206,7 @@ namespace Codigo
 
         public LinkedList<string> getSentences()
         {
-            LinkedList<string> copia = new LinkedList<string>(sentences);
-            return copia;
+            return sentences;
         }
 
         public LinkedList<string> getFinalistas()
@@ -276,6 +279,7 @@ namespace Codigo
             for (IEnumerator<string> it = sortedWords.Keys.GetEnumerator(); it.MoveNext() && (counter < numWords); counter++)
             {
                 bestwords[counter] = it.Current;
+
             }
             return bestwords;
         }
@@ -300,7 +304,7 @@ namespace Codigo
                  //Console.WriteLine("e1***********" + e1);
 
                  double e2 = ((double[]) _data[o2])[1];
-                 //Console.WriteLine("e2***********" + e2);
+                // Console.WriteLine("e2***********" + e2);
 
 
                  if (e1 > e2) return -1;
@@ -381,9 +385,10 @@ namespace Codigo
 		
 
 		try {
-			
-            using (StreamReader br = new StreamReader(filename))
+
+            using (StreamReader br = new StreamReader(filename, Encoding.Default))
                 {
+                    
                     line = br.ReadLine();
 
 		
